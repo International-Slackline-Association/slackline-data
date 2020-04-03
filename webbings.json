@@ -2121,8 +2121,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines Bluewing",
-      "brand": "Elephant",
+      "name": "Bluewing",
+      "brand": "Elephant Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -2214,8 +2214,8 @@
       "breakingStrength": 30
     },
     {
-      "name": "Slacklines Passion",
-      "brand": "Elephant",
+      "name": "Passion",
+      "brand": "Elephant Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -3552,8 +3552,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines Rainbow",
-      "brand": "Raed",
+      "name": "Rainbow",
+      "brand": "Raed Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -3629,8 +3629,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines Parsec",
-      "brand": "Raed",
+      "name": "Parsec",
+      "brand": "Raed Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -3722,8 +3722,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines MOTM",
-      "brand": "Raed",
+      "name": "MOTM",
+      "brand": "Raed Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -3815,8 +3815,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines Helium",
-      "brand": "Raed",
+      "name": "Helium",
+      "brand": "Raed Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -3908,8 +3908,8 @@
       "breakingStrength": ""
     },
     {
-      "name": "Slacklines Cumulus",
-      "brand": "Raed",
+      "name": "Cumulus",
+      "brand": "Raed Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -4909,7 +4909,7 @@
     },
     {
       "name": "Tender",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -4970,7 +4970,7 @@
     },
     {
       "name": "Fly",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -5031,7 +5031,7 @@
     },
     {
       "name": "Zao",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -5092,7 +5092,7 @@
     },
     {
       "name": "Edge",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -5153,7 +5153,7 @@
     },
     {
       "name": "Jumbo",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
@@ -5214,7 +5214,7 @@
     },
     {
       "name": "Nylove",
-      "brand": "SpiderSlacklines",
+      "brand": "Spider Slacklines",
       "stretch": [
         {
           "kn": 0,
