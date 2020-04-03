@@ -420,7 +420,7 @@
           "percent": 8.1
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 71.5,
       "breakingStrength": 44
     },
@@ -481,7 +481,7 @@
           "percent": 3.7
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 69.9,
       "breakingStrength": 44
     },
@@ -542,7 +542,7 @@
           "percent": 7
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 76,
       "breakingStrength": 43
     },
@@ -607,7 +607,7 @@
           "percent": 18.4
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 80,
       "breakingStrength": 38
     },
@@ -764,7 +764,7 @@
           "percent": 33.78
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 68,
       "breakingStrength": 35
     },
@@ -829,7 +829,7 @@
           "percent": 15
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 58,
       "breakingStrength": 32.5
     },
@@ -886,9 +886,9 @@
           "percent": 13.2
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "58",
+      "breakingStrength": "33"
     },
     {
       "name": "Unicorn",
@@ -947,7 +947,7 @@
           "percent": 13
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 61.5,
       "breakingStrength": 32
     },
@@ -1012,7 +1012,7 @@
           "percent": 15
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 55,
       "breakingStrength": 33
     },
@@ -1105,7 +1105,7 @@
           "percent": 14.24
         }
       ],
-      "materialType": "PES/PA",
+      "materialType": "pes/polyamid/nylon",
       "weight": 62,
       "breakingStrength": 33.4
     },
@@ -1198,7 +1198,7 @@
           "percent": 18.84
         }
       ],
-      "materialType": "PES/PA",
+      "materialType": "pes/polyamid/nylon",
       "weight": 62,
       "breakingStrength": 33.4
     },
@@ -1251,7 +1251,7 @@
           "percent": 10.36
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 47,
       "breakingStrength": 27
     },
@@ -1344,7 +1344,7 @@
           "percent": 14.03
         }
       ],
-      "materialType": "PES/PA",
+      "materialType": "pes/polyamid/nylon",
       "weight": 47,
       "breakingStrength": 27
     },
@@ -1437,7 +1437,7 @@
           "percent": 6.5
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -1530,7 +1530,7 @@
           "percent": 9.93
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -1607,7 +1607,7 @@
           "percent": 13.79
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -1700,7 +1700,7 @@
           "percent": 7.65
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -1765,7 +1765,7 @@
           "percent": 17.05
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": "",
       "breakingStrength": ""
     },
@@ -1830,7 +1830,7 @@
           "percent": 17.4
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 62,
       "breakingStrength": 35.6
     },
@@ -1923,9 +1923,9 @@
           "percent": 23.83
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "58",
+      "breakingStrength": "28"
     },
     {
       "name": "SpiderSilk MK2",
@@ -2037,7 +2037,7 @@
           "percent": 4.7
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 62,
       "breakingStrength": 31
     },
@@ -2091,7 +2091,7 @@
           "percent": 14.5
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 65,
       "breakingStrength": 31
     },
@@ -2116,7 +2116,7 @@
           "percent": 6.9
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -2209,7 +2209,7 @@
           "percent": 16.5
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 63,
       "breakingStrength": 30
     },
@@ -2262,7 +2262,7 @@
           "percent": 16.9
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 69,
       "breakingStrength": 33
     },
@@ -2339,7 +2339,7 @@
           "percent": 6.5
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -2396,7 +2396,7 @@
           "percent": 7.2
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -2453,7 +2453,7 @@
           "percent": 23.5
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 55,
       "breakingStrength": 26
     },
@@ -2510,7 +2510,7 @@
           "percent": 25.1
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 44,
       "breakingStrength": 21
     },
@@ -2551,7 +2551,7 @@
           "percent": 8.9
         }
       ],
-      "materialType": "slackliner.de Sigma ",
+      "materialType": "",
       "weight": "",
       "breakingStrength": ""
     },
@@ -2604,9 +2604,9 @@
           "percent": 16.6
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "64",
+      "breakingStrength": "35"
     },
     {
       "name": "Sigma LG",
@@ -2645,7 +2645,7 @@
           "percent": 9.2
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 66,
       "breakingStrength": 38
     },
@@ -2678,7 +2678,7 @@
           "percent": 12
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 64,
       "breakingStrength": 31
     },
@@ -2711,7 +2711,7 @@
           "percent": 10
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 82,
       "breakingStrength": 40
     },
@@ -2740,9 +2740,9 @@
           "percent": 20
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "38",
+      "breakingStrength": "16"
     },
     {
       "name": "Flash",
@@ -2773,7 +2773,7 @@
           "percent": 17
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 61,
       "breakingStrength": 31
     },
@@ -2802,7 +2802,7 @@
           "percent": 19
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 42,
       "breakingStrength": 20
     },
@@ -2863,7 +2863,7 @@
           "percent": 9.79
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 62,
       "breakingStrength": 36
     },
@@ -2896,7 +2896,7 @@
           "percent": 25
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 67,
       "breakingStrength": 32
     },
@@ -2921,7 +2921,7 @@
           "percent": 16.5
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": 48.18,
       "breakingStrength": 21.5
     },
@@ -2950,9 +2950,9 @@
           "percent": 6
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "53",
+      "breakingStrength": "29"
     },
     {
       "name": "Windu",
@@ -2979,7 +2979,7 @@
           "percent": 10
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3004,9 +3004,9 @@
           "percent": 14.7
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "52",
+      "breakingStrength": "21"
     },
     {
       "name": "Diablo",
@@ -3033,7 +3033,7 @@
           "percent": 5
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3063,8 +3063,8 @@
         }
       ],
       "materialType": "hybrid",
-      "weight": "",
-      "breakingStrength": ""
+      "weight": "41",
+      "breakingStrength": "40"
     },
     {
       "name": "Artic Fox",
@@ -3087,7 +3087,7 @@
           "percent": 14.7
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3108,7 +3108,7 @@
           "percent": 13
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3137,7 +3137,7 @@
           "percent": 14
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3166,7 +3166,7 @@
           "percent": 21.2
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3187,7 +3187,7 @@
           "percent": 4.6
         }
       ],
-      "materialType": "50mm PES",
+      "materialType": "50mm pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3208,9 +3208,9 @@
           "percent": 3.3
         }
       ],
-      "materialType": "50mm PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "50mm pes",
+      "weight": "118",
+      "breakingStrength": "30"
     },
     {
       "name": "Storm",
@@ -3229,12 +3229,12 @@
           "percent": 4.4
         }
       ],
-      "materialType": "50mm PES",
+      "materialType": "50mm pes",
       "weight": "",
       "breakingStrength": ""
     },
     {
-      "name": "plumi",
+      "name": "plum",
       "brand": "SlackMountain",
       "stretch": [
         {
@@ -3250,13 +3250,13 @@
           "percent": 12.8
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
-      "breakingStrength": ""
+      "breakingStrength": "10"
     },
     {
-      "name": "Inov Cosmic",
-      "brand": "Slack",
+      "name": "Cosmic",
+      "brand": "Slack Inov",
       "stretch": [
         {
           "kn": 0,
@@ -3323,13 +3323,13 @@
           "percent": 11.47
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "50",
+      "breakingStrength": "31"
     },
     {
-      "name": "Inov Falme3",
-      "brand": "Slack",
+      "name": "Flame3",
+      "brand": "Slack Inov",
       "stretch": [
         {
           "kn": 0,
@@ -3396,13 +3396,13 @@
           "percent": 14.96
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
     {
-      "name": "Inov Donkey",
-      "brand": "Slack",
+      "name": "Donkey",
+      "brand": "Slack Inov",
       "stretch": [
         {
           "kn": 0,
@@ -3425,13 +3425,13 @@
           "percent": 13
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "66",
+      "breakingStrength": "32"
     },
     {
-      "name": "Inov Nova",
-      "brand": "Slack",
+      "name": "Nova",
+      "brand": "Slack Inov",
       "stretch": [
         {
           "kn": 0,
@@ -3454,12 +3454,12 @@
           "percent": 23.1
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "56",
+      "breakingStrength": "27"
     },
     {
-      "name": "(PES)",
+      "name": "(pes)",
       "brand": "Mammut",
       "stretch": [
         {
@@ -3547,7 +3547,7 @@
           "percent": 15
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -3624,9 +3624,9 @@
           "percent": 12
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "62",
+      "breakingStrength": "36"
     },
     {
       "name": "Parsec",
@@ -3717,9 +3717,9 @@
           "percent": 8.5
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "59",
+      "breakingStrength": "33"
     },
     {
       "name": "MOTM",
@@ -3810,9 +3810,9 @@
           "percent": 23.5
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "56",
+      "breakingStrength": "27"
     },
     {
       "name": "Helium",
@@ -3903,9 +3903,9 @@
           "percent": 9.1
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "38",
+      "breakingStrength": "24"
     },
     {
       "name": "Cumulus",
@@ -3976,9 +3976,9 @@
           "percent": 13.2
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "66",
+      "breakingStrength": "35"
     },
     {
       "name": "pinkTube",
@@ -4085,9 +4085,9 @@
           "percent": 35.4
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "48",
+      "breakingStrength": "20.6"
     },
     {
       "name": "redTube",
@@ -4246,9 +4246,9 @@
           "percent": 34.3
         }
       ],
-      "materialType": "PA",
+      "materialType": "polyamid/nylon",
       "weight": 76,
-      "breakingStrength": 32
+      "breakingStrength": 36
     },
     {
       "name": "Marathon",
@@ -4403,9 +4403,9 @@
           "percent": 15.9
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "61.5",
+      "breakingStrength": "37"
     },
     {
       "name": "Marathon Play",
@@ -4560,7 +4560,7 @@
           "percent": 18.8
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -4685,9 +4685,9 @@
           "percent": 14
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "48.5",
+      "breakingStrength": "28"
     },
     {
       "name": "Raven",
@@ -4762,7 +4762,7 @@
           "percent": 13.07
         }
       ],
-      "materialType": "PES",
+      "materialType": "pes",
       "weight": "",
       "breakingStrength": ""
     },
@@ -4903,9 +4903,9 @@
           "percent": 15.45
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "63",
+      "breakingStrength": "32"
     },
     {
       "name": "Tender",
@@ -4964,9 +4964,9 @@
           "percent": 18
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "48",
+      "breakingStrength": "23"
     },
     {
       "name": "Fly",
@@ -5025,9 +5025,9 @@
           "percent": 9.9
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "58",
+      "breakingStrength": "33"
     },
     {
       "name": "Zao",
@@ -5086,9 +5086,9 @@
           "percent": 14.5
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "65",
+      "breakingStrength": "31"
     },
     {
       "name": "Edge",
@@ -5147,9 +5147,9 @@
           "percent": 9.2
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "62",
+      "breakingStrength": "35"
     },
     {
       "name": "Jumbo",
@@ -5208,9 +5208,9 @@
           "percent": 10.5
         }
       ],
-      "materialType": "PES",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "pes",
+      "weight": "83",
+      "breakingStrength": "35"
     },
     {
       "name": "Nylove",
@@ -5269,9 +5269,9 @@
           "percent": 17
         }
       ],
-      "materialType": "PA",
-      "weight": "",
-      "breakingStrength": ""
+      "materialType": "polyamid/nylon",
+      "weight": "62",
+      "breakingStrength": "31"
     },
     {
       "name": "Y2k",
