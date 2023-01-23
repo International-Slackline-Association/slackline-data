@@ -1,4 +1,4 @@
-# Slackline Communities
+# ISA Associations
 
 This is a list of Slackline Associations(that are ISA Members) for each country around the world. They are displayed on the [SlackMap](https://slackmap.com/communities). This data, is used to hand out editorship rights for lines & spots in SlackMap. All the members of the association become editors for the lines & spots in their country.
 
