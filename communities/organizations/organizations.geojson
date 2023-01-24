@@ -209,8 +209,8 @@
           "ISA_61F952E0"
         ],
         "cn": "Switzerland",
-        "ft": "ca",
-        "id": "CHE"
+        "ft": "co",
+        "id": "CH"
       }
     },
     {
@@ -797,7 +797,7 @@
         "organizationIds": ["ISA_8B74A33C"],
         "cn": "Turkey",
         "ft": "ca",
-        "id": "TUR"
+        "id": "TR"
       }
     },
     {
@@ -1121,7 +1121,7 @@
         "organizationIds": ["ISA_035D3052"],
         "cn": "Netherlands",
         "ft": "ca",
-        "id": "NLD"
+        "id": "NL"
       }
     },
     {
@@ -1277,7 +1277,7 @@
         "organizationIds": ["ISA_C5227462"],
         "cn": "Latvia",
         "ft": "ca",
-        "id": "LVA"
+        "id": "LV"
       }
     },
     {
@@ -1941,7 +1941,7 @@
         "organizationIds": ["ISA_134605C0"],
         "cn": "Italy",
         "ft": "ca",
-        "id": "ITA"
+        "id": "IT"
       }
     },
     {
@@ -2546,7 +2546,7 @@
         "organizationIds": ["ISA_7CEFC612"],
         "cn": "Peru",
         "ft": "ca",
-        "id": "PER"
+        "id": "PE"
       }
     }
   ]
