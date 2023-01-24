@@ -4798,11 +4798,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "Wfeo19P", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [37.9918, 37.9918] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "mfuHgNH", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-1.6477, 42.81375] }
     },
