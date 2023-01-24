@@ -796,7 +796,7 @@
       "properties": {
         "organizationIds": ["ISA_8B74A33C"],
         "cn": "Turkey",
-        "ft": "ca",
+        "ft": "co",
         "id": "TR"
       }
     },
@@ -1120,7 +1120,7 @@
       "properties": {
         "organizationIds": ["ISA_035D3052"],
         "cn": "Netherlands",
-        "ft": "ca",
+        "ft": "co",
         "id": "NL"
       }
     },
@@ -1276,7 +1276,7 @@
       "properties": {
         "organizationIds": ["ISA_C5227462"],
         "cn": "Latvia",
-        "ft": "ca",
+        "ft": "co",
         "id": "LV"
       }
     },
@@ -1940,7 +1940,7 @@
       "properties": {
         "organizationIds": ["ISA_134605C0"],
         "cn": "Italy",
-        "ft": "ca",
+        "ft": "co",
         "id": "IT"
       }
     },
@@ -2545,7 +2545,7 @@
       "properties": {
         "organizationIds": ["ISA_7CEFC612"],
         "cn": "Peru",
-        "ft": "ca",
+        "ft": "co",
         "id": "PE"
       }
     }
