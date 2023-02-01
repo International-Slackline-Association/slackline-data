@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": { "id": "tjh51qH", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [46.8235701, 9.2131608] }
+      "geometry": { "type": "Point", "coordinates": [9.2131608, 46.8235701] }
     },
        {
       "type": "Feature",
