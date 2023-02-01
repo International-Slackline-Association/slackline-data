@@ -10,17 +10,17 @@ If you think the data is incorrect or missing please contact ISA.
 There are 2 files:
 
 - `organizations.json` - contains the detail data for each organization in [JSON format](https://en.wikipedia.org/wiki/JSON)
-- `organizations.geojson` - contains the data only relevant for the map in [GeoJSON format](https://en.wikipedia.org/wiki/GeoJSON). The data has to be as small as possible to keep the map fast. Each feature is a country and contains the `id` of the organization in the `properties` field.
+- `managedAreas.geojson` - contains the data only relevant for the map in [GeoJSON format](https://en.wikipedia.org/wiki/GeoJSON). The data has to be as small as possible to keep the map fast.
 
 Update the each file depending on your need **without** changing the structure of the file and create pull request. To validate the changes you can use:
 
-- [JSONLint](https://jsonlint.com/) to validate the `communities.json` file
-- [GeoJSON.io](http://geojson.io/) to validate the `communities.geojson` file
+- [JSONLint](https://jsonlint.com/) to validate the `organizations.json` file
+- [GeoJSON.io](http://geojson.io/) to validate the `managedAreas.geojson` file
 
 ## Adding new country
 
  If you cannot find the country (adding a organization from a new country) you need to add it tot eh geojson
  
- - Just copy paste a feature already in the geojson file and delete `geometry` field and adjust `properties` field accordingly (keep `ft: co`)
+ - Just copy paste a feature already in the geojson file and delete `geometry` field and adjust `properties` field accordingly (keep `ft: ma`)
  - You should get the `geometry` object for the country from [this list](https://github.com/AshKyd/geojson-regions/tree/master/countries/50m). Find your country and view the file in raw format (click `Raw` button on Github) and copy the url from browser. Then open [JSONHero](https://jsonhero.io/) and paste the url. This will format the JSON nicely and click on the `geometry` field on left and copy the entire value and paste it in your new feature in the geojson file.
  - Don't forget to add the organization to the `organizations.json` file as well.
