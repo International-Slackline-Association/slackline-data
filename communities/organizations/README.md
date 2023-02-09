@@ -7,10 +7,12 @@ If you think the data is incorrect or missing please contact ISA.
 
 ## How to add/modify data
 
+**⚠️ ONLY ISA APPROVED organizations are allowed to edit this. Please do not add yourself or your organization without approval first!**
+
 There are 2 files:
 
 - `organizations.json` - contains the detail data for each organization in [JSON format](https://en.wikipedia.org/wiki/JSON)
-- `managedAreas.geojson` - contains the data only relevant for the map in [GeoJSON format](https://en.wikipedia.org/wiki/GeoJSON). The data has to be as small as possible to keep the map fast.
+- `managedAreas.geojson` - contains the data only relevant for the map in [GeoJSON format](https://en.wikipedia.org/wiki/GeoJSON). The data has to be as small as possible to keep the map fast. 
 
 Update the each file depending on your need **without** changing the structure of the file and create pull request. To validate the changes you can use:
 
