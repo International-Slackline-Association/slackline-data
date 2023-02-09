@@ -3109,7 +3109,7 @@
     {
       "type": "Feature",
       "properties": { "id": "Et12HkI", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [8.76723, 50.80334] }
+      "geometry": { "type": "MultiPoint", "coordinates": [[8.76723, 50.80334], [8.67455, 50.58596]] }
     },
     {
       "type": "Feature",
