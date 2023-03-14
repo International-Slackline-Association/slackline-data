@@ -6315,25 +6315,15 @@
   },
   {
     "id": "NXEyVKf",
-    "name": "Slacklining Bremen",
+    "name": "Slacklining Bremen e.V.",
     "lat": 53.07841538,
     "lng": 8.799116835,
-    "link": "https://www.facebook.com/groups/138121049589989/",
-    "members": 0,
+    "link": "https://slacklinebremen.de",
+    "email": "slackline.bremenev@gmail.com",
+    "members": 25,
     "isRegional": false,
     "createdDateTime": "2020-05-09 00:29:07.293996",
-    "updatedDateTime": "2020-05-09 00:29:07.293996"
-  },
-  {
-    "id": "8Rs5BHs",
-    "name": "Slackliner in Bremen",
-    "lat": 53.081762,
-    "lng": 8.802313,
-    "link": "https://www.facebook.com/groups/396250433750913/",
-    "members": 0,
-    "isRegional": false,
-    "createdDateTime": "2020-05-09 00:29:07.320088",
-    "updatedDateTime": "2020-05-09 00:29:07.320088"
+    "updatedDateTime": "2023-03-14 11:22:55.914925"
   },
   {
     "id": "UuCmwgo",

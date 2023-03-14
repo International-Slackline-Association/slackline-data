@@ -2878,11 +2878,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "8Rs5BHs", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [8.80231, 53.08176] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "UuCmwgo", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [6.61502, 51.83706] }
     },
