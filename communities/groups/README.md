@@ -2,7 +2,7 @@
 
 This is a list of Slackline groups around the world. They are displayed on the [SlackMap](https://slackmap.com/communities).
 If you think the data is incorrect or missing please follow either of the following options: 
-## How to add/modify data using on Google Forms
+## How to add/modify data using Google Forms
 
 You can fill out **[THIS FORM](https://forms.gle/ZpurHxHhUfj2yppg7)** to let us know what to update. The process of adding / editing through this form is done in manual work, so it can take time: usually a couple weeks. If you would like to make this happen faster, you need to edit the data yourself described below
 
