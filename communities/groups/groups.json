@@ -14930,5 +14930,17 @@
     "isRegional": true,
     "createdDateTime": "2020-08-20 01:30:43.006891",
     "updatedDateTime": "2020-08-20 01:30:43.006891"
+  },
+  {
+    "id": "DPyBLAM",
+    "name": "YarSlack",
+    "lat": 57.63973900,
+    "lng": 39.88705400,
+    "link": "https://vk.com/yarslack",
+    "email": "dvizik@yandex.ru",
+    "members": 10,
+    "isRegional": true,
+    "createdDateTime": "2023-04-09 02:54:00.000000",
+    "updatedDateTime": "2023-04-09 02:54:00.000000"
   }
 ]
