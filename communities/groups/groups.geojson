@@ -6775,6 +6775,11 @@
       "type": "Feature",
       "properties": { "id": "vj4wMoj", "members": 20, "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-47.55635, -22.38062] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "DPyBLAM", "members": 10, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [39.88705400, 57.63973900] }
     }
   ]
 }
