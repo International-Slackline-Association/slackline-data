@@ -3,6 +3,11 @@
   "features": [
     {
       "type": "Feature",
+      "properties": { "id": "MQZ0Eb-", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [32.7887515, 35.0112192] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "tjh51qH", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [9.2131608, 46.8235701] }
     },
