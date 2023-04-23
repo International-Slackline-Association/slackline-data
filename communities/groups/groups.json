@@ -1,5 +1,5 @@
 [
-   {
+  {
     "id": "MQZ0Eb-",
     "name": "Slackline Haifa",
     "lat": 32.7887515,
@@ -10,7 +10,7 @@
     "createdDateTime": "2023-04-09 02:71:82.818284",
     "updatedDateTime": "2023-04-09 03:14:15.926535"
   },
-   {
+  {
     "id": "tjh51qH",
     "name": "GrischaSlack",
     "lat": 46.8235701,
@@ -16571,12 +16571,12 @@
     "link": "https://www.facebook.com/pg/slacktimbanque/about/?ref=page_internal",
     "createdDateTime": "2023-04-10 08:45:00.000000",
     "updatedDateTime": "2023-04-10 08:45:00.000000"
-},
-{
+  },
+  {
     "id": "DPyBLAM",
     "name": "YarSlack",
-    "lat": 57.63973900,
-    "lng": 39.88705400,
+    "lat": 57.639739,
+    "lng": 39.887054,
     "link": "https://vk.com/yarslack",
     "email": "dvizik@yandex.ru",
     "members": 10,
