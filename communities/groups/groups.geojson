@@ -3,10 +3,15 @@
   "features": [
     {
       "type": "Feature",
+      "properties": { "id": "MQZ0Eb-", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [35.0112192, 32.7887515] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "tjh51qH", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [9.2131608, 46.8235701] }
     },
-       {
+    {
       "type": "Feature",
       "properties": { "id": "SnL8_wx", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [20.10429, 40.90197] }
@@ -3104,7 +3109,13 @@
     {
       "type": "Feature",
       "properties": { "id": "Et12HkI", "ft": "sg" },
-      "geometry": { "type": "MultiPoint", "coordinates": [[8.76723, 50.80334], [8.67455, 50.58596]] }
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [8.76723, 50.80334],
+          [8.67455, 50.58596]
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -9309,6 +9320,8 @@
           47.286984
         ]
       }
+      "properties": { "id": "DPyBLAM", "members": 10, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [39.887054, 57.639739] }
     }
   ]
 }
