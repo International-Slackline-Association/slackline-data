@@ -13819,5 +13819,50 @@
     "updatedDateTime": "2023-04-09",
     "email": "dvizik@yandex.ru",
     "webpage": "https://vk.com/yarslack"
+  },
+  {
+    "id": "ZISOvNF",
+    "name": "Pushing panda",
+    "lat": -6.951011942278015,
+    "lng": 107.60490091567402,
+    "createdDateTime": "2020-05-25",
+    "updatedDateTime": "2020-05-25",
+    "email": "Pushing.panda@gmail.com"
+  },
+  {
+    "id": "5KPgozH",
+    "name": "Pushing panda",
+    "lat": -6.965344036462923,
+    "lng": 107.57826715241453,
+    "createdDateTime": "2020-05-27",
+    "updatedDateTime": "2020-05-27",
+    "email": "Pushing.panda@gmail.com"
+  },
+  {
+    "id": "8Sm2AEL",
+    "name": "Slackline Tabasco",
+    "lat": 18.005792312457842,
+    "lng": -92.86868421227405,
+    "createdDateTime": "2020-05-27",
+    "updatedDateTime": "2020-05-27",
+    "email": "davidb_cp@hotmail.com"
+  },
+  {
+    "id": "t5qjLlQ",
+    "name": "Slakherria",
+    "lat": 43.29220936297065,
+    "lng": -1.9558991944490742,
+    "createdDateTime": "2020-07-28",
+    "updatedDateTime": "2020-07-28",
+    "email": "Slakherria@gmail.com"
+  },
+  {
+    "id": "sW6pRU8",
+    "name": "Slakherria",
+    "lat": 43.275119658478474,
+    "lng": -1.7335883200728404,
+    "createdDateTime": "2020-07-28",
+    "updatedDateTime": "2020-07-28",
+    "email": "Slakherria@gmail.com"
   }
 ]
