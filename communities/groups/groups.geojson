@@ -6144,16 +6144,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "Ih8Gee2", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-94.53525, 39.03214] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "id": "OiaMa95", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-90.50434, 38.7908] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "VywTUTt", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-90.23798, 38.63673] }
     },
