@@ -6140,7 +6140,7 @@
     {
       "type": "Feature",
       "properties": { "id": "QTCC3S4", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-94.57857, 39.09973] }
+      "geometry": { "type": "Point", "coordinates": [-85.754952, 38.249476] }
     },
     {
       "type": "Feature",
