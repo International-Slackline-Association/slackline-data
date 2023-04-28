@@ -9160,17 +9160,21 @@
     "lat": 39.93336,
     "lng": 32.85974,
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/slacklineankara/"
+    "updatedDateTime": "2023-04-28",
+    "facebook": "https://www.facebook.com/groups/slacklineankara/",
+    "whatsapp": "https://chat.whatsapp.com/DtvjzRJp6eUGTkf0bxL3ju"
   },
   {
     "id": "Y1coFqr",
-    "name": "Slackline İstanbul",
-    "lat": 41.12974,
-    "lng": 28.847237,
+    "name": "Slackline Istanbul",
+    "lat": 40.9908,
+    "lng": 29.0282,
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/slackist/about/"
+    "updatedDateTime": "2023-04-28",
+    "email": "info@slackline.org.tr",
+    "instagram": "https://www.instagram.com/slacklineturkiye/",
+    "facebook": "https://www.facebook.com/groups/slackist/",
+    "webpage": "https://www.slackline.org.tr/"
   },
   {
     "id": "DOi_sA9",
