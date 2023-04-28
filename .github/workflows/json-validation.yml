@@ -1,0 +1,23 @@
+name: Validate JSON Files
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+  workflow_dispatch:
+  
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Install dependencies
+        run: npm install ajv ajv-formats
+      
+      - name: Validate JSON files
+        run: node scripts/validateJsonFiles.js
