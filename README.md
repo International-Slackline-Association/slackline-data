@@ -1,7 +1,17 @@
-# slackline-data
+# Slackline Data
 
-This repository contains publicly available slackline related data.
+![Logo of ISA](https://www.slacklineinternational.org/wp-content/uploads/2015/08/ISA-Logo-Long-300x52.png)
 
-**Information and data available here are collected by the ISA and its members** 
+This repository contains publicly available slackline related data. It is collected and maintained by the [International Slackline Association](https://www.slacklineinternational.org/) and it's members.
 
-> Please contact us for details
+## Data (Table of Contents)
+
+- [communities](communities)
+  - [groups](communities/groups) (Global Slackline Groups)
+  - [organizations](communities/organizations) (ISA Member Organizations)
+- [webbings](webbings.json) (Specifications of Slackline Webbings)
+
+> If you have data to share here, please contact us.
+
+## License
+GNU Affero General Public License v3.0
