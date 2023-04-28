@@ -8687,15 +8687,6 @@
     "facebook": "https://www.facebook.com/groups/120662984770839/"
   },
   {
-    "id": "nSwKnx6",
-    "name": "Slackline Valladolid",
-    "lat": 48.037632,
-    "lng": -98.91149833,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/SlacklineValladolid/"
-  },
-  {
     "id": "C1nstY2",
     "name": "Slackline Vigo",
     "lat": 49.526782,
@@ -10802,15 +10793,6 @@
     "facebook": "https://www.facebook.com/groups/127047784036439/"
   },
   {
-    "id": "xwd2WzH",
-    "name": "UIUC Slacklife (University of Illinois Urbana-Champaign)",
-    "lat": 40.11612,
-    "lng": -88.272992,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/426726324103026"
-  },
-  {
     "id": "iZdIc4W",
     "name": "Chicago Slackliners Association",
     "lat": 41.86411042,
@@ -10827,24 +10809,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebook": "https://www.facebook.com/groups/ChicagoSlack/"
-  },
-  {
-    "id": "VNN1oQg",
-    "name": "Slackline Decatur",
-    "lat": 39.86053,
-    "lng": -88.947785,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/slacklinedecatur/"
-  },
-  {
-    "id": "G0YkvRF",
-    "name": "NU Slacklining (Northwestern University)",
-    "lat": 42.043913,
-    "lng": -87.688508,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/395498833830380/"
   },
   {
     "id": "wRtdX3r",
@@ -10883,15 +10847,6 @@
     "facebook": "https://www.facebook.com/slacklineindy/"
   },
   {
-    "id": "FPsUwxx",
-    "name": "IWU Association of Slacklining (Indiana Wesleyan University)",
-    "lat": 40.548284,
-    "lng": -85.668696,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/19177437232/"
-  },
-  {
     "id": "7rywVX-",
     "name": "Purdue Slacklining Club",
     "lat": 40.460259,
@@ -10917,15 +10872,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebook": "https://www.facebook.com/groups/1047664528611339/"
-  },
-  {
-    "id": "_X4Hfz5",
-    "name": "Iowa City Slackers",
-    "lat": 41.66578336,
-    "lng": -91.53149098,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/ICSlack/"
   },
   {
     "id": "mL0_oxR",
@@ -11028,12 +10974,12 @@
   },
   {
     "id": "c5Q_j5f",
-    "name": "Slackline Club UMN",
-    "lat": 44.97541432,
-    "lng": -93.23247232,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/umnslacklineclub/"
+    "name": "Slackline Kentucky",
+    "lat": 38.249476, 
+    "lng": -85.754952,
+    "createdDateTime": "2023-04-27",
+    "updatedDateTime": "2023-04-27",
+    "facebook": "https://www.facebook.com/groups/slacklinekentucky/"
   },
   {
     "id": "QTCC3S4",
@@ -11084,21 +11030,12 @@
   },
   {
     "id": "bcCXnjo",
-    "name": "UNL Slackers (University of Nebraska)",
-    "lat": 40.822352,
-    "lng": -96.67323,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/2316322505/"
-  },
-  {
-    "id": "zyRBUWf",
-    "name": "Slackline Omaha",
-    "lat": 41.273198,
-    "lng": -96.016715,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/190703191303050/"
+    "name": "Arkansas Highliners",
+    "lat": 36.061553, 
+    "lng": -94.172209,
+    "createdDateTime": "2023-04-27",
+    "updatedDateTime": "2023-04-27",
+    "facebook": "https://www.facebook.com/groups/1366146296781663/"
   },
   {
     "id": "mI45R20",
@@ -11623,15 +11560,6 @@
     "facebook": "https://www.facebook.com/groups/807147773002940/"
   },
   {
-    "id": "cSnj3lw",
-    "name": "Austin Slacklines",
-    "lat": 30.26829994,
-    "lng": -97.71016216,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/329098067135506/"
-  },
-  {
     "id": "TPbbcdC",
     "name": "Austin Slackliners Association",
     "lat": 30.28493897,
@@ -11648,24 +11576,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebook": "https://www.facebook.com/groups/694282013954006/"
-  },
-  {
-    "id": "Opeutwz",
-    "name": "Slacklife Tyler",
-    "lat": 32.340128,
-    "lng": -95.302358,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/972041319482633/"
-  },
-  {
-    "id": "DNlBTHJ",
-    "name": "Slackline Waco",
-    "lat": 31.539508,
-    "lng": -97.1461,
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/417521778306805/"
   },
   {
     "id": "3W-ulSB",
@@ -12416,15 +12326,6 @@
     "createdDateTime": "2023-04-10",
     "updatedDateTime": "2023-04-10",
     "facebook": "https://www.facebook.com/groups/Slackline.Zagreb/"
-  },
-  {
-    "id": "21C57Z5",
-    "name": "Decatur",
-    "lat": 39.840315,
-    "lng": -88.9548,
-    "createdDateTime": "2023-04-10",
-    "updatedDateTime": "2023-04-10",
-    "facebook": "https://www.facebook.com/slacklinedecatur/"
   },
   {
     "id": "vCo60g_",
