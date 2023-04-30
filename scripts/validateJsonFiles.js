@@ -45,15 +45,23 @@ const jsonFilesToValidate = {
         },
         facebook: {
           type: "string",
+          format: "uri",
+          pattern: ".*facebook.com\/.*",
         },
         telegram: {
           type: "string",
+          format: "uri",
+          pattern: ".*t.me\/.*",
         },
         instagram: {
           type: "string",
+          format: "uri",
+          pattern: ".*instagram.com\/.*",
         },
         whatsapp: {
           type: "string",
+          format: "uri",
+          pattern: ".*whatsapp.com\/.*",
         },
         webpage: {
           type: "string",
