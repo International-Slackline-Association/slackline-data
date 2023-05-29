@@ -8,7 +8,6 @@ This repository contains publicly available slackline related data. It is collec
 
 - [communities](communities)
   - [groups](communities/groups) (Global Slackline Groups)
-  - [organizations](communities/organizations) (ISA Member Organizations)
 - [webbings](webbings.json) (Specifications of Slackline Webbings)
 
 > If you have data to share here, please contact us.
