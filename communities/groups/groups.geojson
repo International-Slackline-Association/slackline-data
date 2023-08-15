@@ -7601,8 +7601,9 @@
       "type": "Feature",
       "properties": { "id": "VaMNKYm", "members": 10, "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245] }
-
-  "type": "Feature",
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "m4OsPSY", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-87.635962,  41.928720] }
     },
