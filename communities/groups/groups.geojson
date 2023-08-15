@@ -7618,6 +7618,6 @@
   "type": "Feature",
       "properties": { "id": "BDSYdPt", "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-103.37202694577492, 20.69971738519943] }
-    },
+    }
   ]
 }
