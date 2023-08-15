@@ -7601,6 +7601,24 @@
       "type": "Feature",
       "properties": { "id": "VaMNKYm", "members": 10, "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245] }
+
+  "type": "Feature",
+      "properties": { "id": "m4OsPSY", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-87.635962,  41.928720] }
+    },
+    {
+
+  "type": "Feature",
+      "properties": { "id": "4K7RBX", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [12.557091, 41.852904] }
+    },
+    {
+
+  "type": "Feature",
+      "properties": { "id": "BDSYdPt", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-103.37202694577492, 20.69971738519943] }
+    },
+    {
     }
   ]
 }
