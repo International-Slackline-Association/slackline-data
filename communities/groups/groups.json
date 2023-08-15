@@ -13718,13 +13718,13 @@
 		{ 
 		"id": "MT9Td6T",
 		"name": "SLAKCMO",
-		"lat": 39.028245, ,
+		"lat": 39.028245,
 		"lng": -94.594765,
 		"createdDateTime": "2023-08-14",
 		"updatedDateTime": "2023-08-14",
 		"email": "info@slakcmo.com",
 		"instagram": "https://www.instagram.com/slakcmo/",
-		"facebook": "https://www.facebook.com/groups/slakcmo",
+		"facebook": "https://www.facebook.com/groups/slakcmo"
 		},
 		{
 		"id": "5ZS2c_O",
@@ -13755,6 +13755,6 @@
 		"createdDateTime": "2023-08-14",
 		"updatedDateTime": "2023-08-14",
 		"email": "elodiepaq@gmail.com",
-		"instagram": "https://www.instagram.com/okslackers/",
+		"instagram": "https://www.instagram.com/okslackers/"
 		  }
 		]
