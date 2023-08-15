@@ -8441,6 +8441,7 @@
     "lng": 14.353907,
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
+    "email": "slackalien.info@gmail.com",
     "facebook": "https://www.facebook.com/SlackAlien/"
   },
   {
@@ -13701,5 +13702,39 @@
     "email": "info@slakcmo.com",
     "instagram": "https://www.instagram.com/slakcmo/",
     "facebook": "https://www.facebook.com/groups/slakcmo"
+
+    		},
+		{
+		"id": "BDSYdPt",
+		"name": "Jaibalife",
+		"lat": 20.69971738519943, ,
+		"lng": -103.37202694577492,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "jaiba.life.gdl@gmail.com",
+		"instagram": "https://www.instagram.com/jaibalife/",
+		"facebook": "https://www.facebook.com/profile.php?id=100063237337647"
+		},
+		{
+		"id": "_4K7RBX",
+		"name": "Slackline Roma ASD",
+		"lat": 41.852904,
+		"lng": 12.557091,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		
+	},
+	{
+		"id": "m4OsPSY",
+		"name": "Jaibalife",
+		"lat":  41.928720,
+		"lng": -87.635962,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "slacklinechicago@gmail.com",
+		"instagram": "https://www.instagram.com/slacklinechicago/",
+		"facebook": "https://www.facebook.com/groups/slacklinechicago"
+		
+
   }
 ]
