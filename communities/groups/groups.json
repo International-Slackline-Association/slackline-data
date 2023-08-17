@@ -13701,5 +13701,60 @@
     "email": "info@slakcmo.com",
     "instagram": "https://www.instagram.com/slakcmo/",
     "facebook": "https://www.facebook.com/groups/slakcmo"
-  }
-]
+
+  		},
+		{
+		"id": "z3KxWM1",
+		"name": "Temetline",
+		"lat": 35.7344761,
+		"lng": 51.1609426,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "Jaafaran@gmail.com",
+		"instagram": "https://www.instagram.com/temetline"
+		
+
+		},
+		{ 
+		"id": "MT9Td6T",
+		"name": "SLAKCMO",
+		"lat": 39.028245,
+		"lng": -94.594765,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "info@slakcmo.com",
+		"instagram": "https://www.instagram.com/slakcmo/",
+		"facebook": "https://www.facebook.com/groups/slakcmo"
+		},
+		{
+		"id": "5ZS2c_O",
+		"name": "Piscinão da Penha",
+		"lat": -23.531611,
+		"lng": -46.537694,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "manrique23@gmail.com",
+		"whatsapp": "https://api.whatsapp.com/send?phone=5511980782159"
+		},
+		{
+		"id": "Iq0-3jr",
+		"name": "Glasgow Slackliners",
+		"lat": 55.85831982604876,
+		"lng": -4.252640736845077,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "thecapcom@gmail.com",
+		"facebook": "https://www.facebook.com/groups/glasgowslackliners/"
+
+		},
+		{
+		"id": "3fh8w7X",
+		"name": "okslackers (Kelowna)",
+		"lat": 49.8842,
+		"lng": 119.5020,
+		"createdDateTime": "2023-08-14",
+		"updatedDateTime": "2023-08-14",
+		"email": "elodiepaq@gmail.com",
+		"instagram": "https://www.instagram.com/okslackers/"
+		  }
+		]

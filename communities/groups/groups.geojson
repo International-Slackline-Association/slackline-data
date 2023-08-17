@@ -7601,6 +7601,35 @@
       "type": "Feature",
       "properties": { "id": "VaMNKYm", "members": 10, "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245] }
+
+
+ },
+    {
+      "type": "Feature",
+      "properties": { "id": "z3KxWM1", "members": 0, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [51.1609426, 35.7344761]}
+  },
+    {
+ "type": "Feature",
+      "properties": { "id": "MT9Td6T", "members": 0, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245]}
+  },
+    {
+ "type": "Feature",
+      "properties": { "id": "5ZS2c_O", "members": 0, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-46.537694, -23.531611]}
+  },
+    {
+ "type": "Feature",
+      "properties": { "id": "Iq0-3jr", "members": 0, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-4.252640736845077, 55.85831982604876]}
+  },
+    {
+
+ "type": "Feature",
+      "properties": { "id": "3fh8w7X", "members": 0, "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [119.5020, 49.8842]}
+
     }
   ]
 }
