@@ -7601,35 +7601,52 @@
       "type": "Feature",
       "properties": { "id": "VaMNKYm", "members": 10, "ft": "sg" },
       "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245] }
-
-
- },
+    },
     {
       "type": "Feature",
       "properties": { "id": "z3KxWM1", "members": 0, "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [51.1609426, 35.7344761]}
-  },
+      "geometry": { "type": "Point", "coordinates": [51.1609426, 35.7344761] }
+    },
     {
- "type": "Feature",
+      "type": "Feature",
       "properties": { "id": "MT9Td6T", "members": 0, "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245]}
-  },
+      "geometry": { "type": "Point", "coordinates": [-94.594765, 39.028245] }
+    },
     {
- "type": "Feature",
+      "type": "Feature",
       "properties": { "id": "5ZS2c_O", "members": 0, "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-46.537694, -23.531611]}
-  },
+      "geometry": { "type": "Point", "coordinates": [-46.537694, -23.531611] }
+    },
     {
- "type": "Feature",
+      "type": "Feature",
       "properties": { "id": "Iq0-3jr", "members": 0, "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [-4.252640736845077, 55.85831982604876]}
-  },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-4.252640736845077, 55.85831982604876]
+      }
+    },
     {
-
- "type": "Feature",
+      "type": "Feature",
       "properties": { "id": "3fh8w7X", "members": 0, "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [119.5020, 49.8842]}
-
+      "geometry": { "type": "Point", "coordinates": [119.502, 49.8842] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "m4OsPSY", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [-87.635962, 41.92872] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "_4K7RBX", "ft": "sg" },
+      "geometry": { "type": "Point", "coordinates": [12.557091, 41.852904] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "BDSYdPt", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.37202694577492, 20.69971738519943]
+      }
     }
   ]
 }

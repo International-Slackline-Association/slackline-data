@@ -8441,6 +8441,7 @@
     "lng": 14.353907,
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
+    "email": "slackalien.info@gmail.com",
     "facebook": "https://www.facebook.com/SlackAlien/"
   },
   {
@@ -10916,7 +10917,7 @@
   {
     "id": "c5Q_j5f",
     "name": "Slackline Kentucky",
-    "lat": 38.249476, 
+    "lat": 38.249476,
     "lng": -85.754952,
     "createdDateTime": "2023-04-27",
     "updatedDateTime": "2023-04-27",
@@ -10972,7 +10973,7 @@
   {
     "id": "bcCXnjo",
     "name": "Arkansas Highliners",
-    "lat": 36.061553, 
+    "lat": 36.061553,
     "lng": -94.172209,
     "createdDateTime": "2023-04-27",
     "updatedDateTime": "2023-04-27",
@@ -13701,60 +13702,86 @@
     "email": "info@slakcmo.com",
     "instagram": "https://www.instagram.com/slakcmo/",
     "facebook": "https://www.facebook.com/groups/slakcmo"
-
-  		},
-		{
-		"id": "z3KxWM1",
-		"name": "Temetline",
-		"lat": 35.7344761,
-		"lng": 51.1609426,
-		"createdDateTime": "2023-08-14",
-		"updatedDateTime": "2023-08-14",
-		"email": "Jaafaran@gmail.com",
-		"instagram": "https://www.instagram.com/temetline"
-		
-
-		},
-		{ 
-		"id": "MT9Td6T",
-		"name": "SLAKCMO",
-		"lat": 39.028245,
-		"lng": -94.594765,
-		"createdDateTime": "2023-08-14",
-		"updatedDateTime": "2023-08-14",
-		"email": "info@slakcmo.com",
-		"instagram": "https://www.instagram.com/slakcmo/",
-		"facebook": "https://www.facebook.com/groups/slakcmo"
-		},
-		{
-		"id": "5ZS2c_O",
-		"name": "Piscinão da Penha",
-		"lat": -23.531611,
-		"lng": -46.537694,
-		"createdDateTime": "2023-08-14",
-		"updatedDateTime": "2023-08-14",
-		"email": "manrique23@gmail.com",
-		"whatsapp": "https://api.whatsapp.com/send?phone=5511980782159"
-		},
-		{
-		"id": "Iq0-3jr",
-		"name": "Glasgow Slackliners",
-		"lat": 55.85831982604876,
-		"lng": -4.252640736845077,
-		"createdDateTime": "2023-08-14",
-		"updatedDateTime": "2023-08-14",
-		"email": "thecapcom@gmail.com",
-		"facebook": "https://www.facebook.com/groups/glasgowslackliners/"
-
-		},
-		{
-		"id": "3fh8w7X",
-		"name": "okslackers (Kelowna)",
-		"lat": 49.8842,
-		"lng": 119.5020,
-		"createdDateTime": "2023-08-14",
-		"updatedDateTime": "2023-08-14",
-		"email": "elodiepaq@gmail.com",
-		"instagram": "https://www.instagram.com/okslackers/"
-		  }
-		]
+  },
+  {
+    "id": "z3KxWM1",
+    "name": "Temetline",
+    "lat": 35.7344761,
+    "lng": 51.1609426,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "Jaafaran@gmail.com",
+    "instagram": "https://www.instagram.com/temetline"
+  },
+  {
+    "id": "MT9Td6T",
+    "name": "SLAKCMO",
+    "lat": 39.028245,
+    "lng": -94.594765,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "info@slakcmo.com",
+    "instagram": "https://www.instagram.com/slakcmo/",
+    "facebook": "https://www.facebook.com/groups/slakcmo"
+  },
+  {
+    "id": "5ZS2c_O",
+    "name": "Piscinão da Penha",
+    "lat": -23.531611,
+    "lng": -46.537694,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "manrique23@gmail.com",
+    "whatsapp": "https://api.whatsapp.com/send?phone=5511980782159"
+  },
+  {
+    "id": "Iq0-3jr",
+    "name": "Glasgow Slackliners",
+    "lat": 55.85831982604876,
+    "lng": -4.252640736845077,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "thecapcom@gmail.com",
+    "facebook": "https://www.facebook.com/groups/glasgowslackliners/"
+  },
+  {
+    "id": "3fh8w7X",
+    "name": "okslackers (Kelowna)",
+    "lat": 49.8842,
+    "lng": 119.502,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "elodiepaq@gmail.com",
+    "instagram": "https://www.instagram.com/okslackers/"
+  },
+  {
+    "id": "BDSYdPt",
+    "name": "Jaibalife",
+    "lat": 20.69971738519943,
+    "lng": -103.37202694577492,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "jaiba.life.gdl@gmail.com",
+    "instagram": "https://www.instagram.com/jaibalife/",
+    "facebook": "https://www.facebook.com/profile.php?id=100063237337647"
+  },
+  {
+    "id": "_4K7RBX",
+    "name": "Slackline Roma ASD",
+    "lat": 41.852904,
+    "lng": 12.557091,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14"
+  },
+  {
+    "id": "m4OsPSY",
+    "name": "Jaibalife",
+    "lat": 41.92872,
+    "lng": -87.635962,
+    "createdDateTime": "2023-08-14",
+    "updatedDateTime": "2023-08-14",
+    "email": "slacklinechicago@gmail.com",
+    "instagram": "https://www.instagram.com/slacklinechicago/",
+    "facebook": "https://www.facebook.com/groups/slacklinechicago"
+  }
+]
