@@ -12,16 +12,6 @@
       "name": {
         "type": "string"
       },
-      "lat": {
-        "type": "number",
-        "minimum": -90,
-        "maximum": 90
-      },
-      "lng": {
-        "type": "number",
-        "minimum": -180,
-        "maximum": 180
-      },
       "createdDateTime": {
         "type": "string",
         "format": "date"
@@ -59,14 +49,7 @@
         "format": "uri"
       }
     },
-    "required": [
-      "id",
-      "name",
-      "lat",
-      "lng",
-      "createdDateTime",
-      "updatedDateTime"
-    ],
+    "required": ["id", "name", "createdDateTime", "updatedDateTime"],
     "additionalProperties": false
   }
 }

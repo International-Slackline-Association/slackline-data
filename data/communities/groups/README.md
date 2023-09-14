@@ -27,18 +27,16 @@ If this also does not work, contact us here:
 ## JSON Format for `groups.json`
 
 ```ts
-{
+interface Group {
     id: string,
     name: string,
-    lat: number,
-    lng: number,
     createdDateTime: string, // only date
     updatedDateTime: string, // only date
-    email: string, // optional
-    facebook: string, // optional
-    telegram: string, // optional
-    instagram: string, // optional
-    whatsapp: string, // optional
-    webpage: string, // optional
+    email?: string, // optional
+    facebook?: string, // optional
+    telegram?: string, // optional
+    instagram?: string, // optional
+    whatsapp?: string, // optional
+    webpage?: string, // optional
 }
 ```

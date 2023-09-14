@@ -10,13 +10,17 @@ const readJsonFile = (file) => {
   return JSON.parse(fs.readFileSync(path.join(__dirname, file), "utf8"));
 };
 
-const groupsJson = readJsonFile("../communities/groups/groups.json");
-const groupsSchema = readJsonFile("./jsonSchemas/groups.schema.json");
+const groupsJson = require("../../data/communities/groups/groups.json");
+const groupsSchema = require("./jsonSchemas/groups.schema.json");
 
-const groupsGeojson = readJsonFile("../communities/groups/groups.geojson");
-const groupsGeojsonSchema = readJsonFile(
-  "./jsonSchemas/groupsGeojson.schema.json"
+const groupsGeojson = readJsonFile(
+  "../../data/communities/groups/groups.geojson"
 );
+const groupsGeojsonSchema = require("./jsonSchemas/groupsGeojson.schema.json");
+
+const isaMembersJson = require("../../data/communities/isa/members.json");
+const isaMembersSchema = require("./jsonSchemas/isaMembers.schema.json");
+
 const geojsonIds = groupsGeojson.features.map(
   (feature) => feature.properties.id
 );
@@ -34,6 +38,7 @@ const validateJsonSchemas = () => {
   };
   validate(groupsJson, groupsSchema, "groups.json");
   validate(groupsGeojson, groupsGeojsonSchema, "groups.geojson");
+  validate(isaMembersJson, isaMembersSchema, "isaMembers.json");
 };
 
 const validateGroupsMatchingIds = () => {
@@ -64,9 +69,7 @@ const validateUniqueIds = () => {
     );
     if (duplicates.length > 0) {
       console.error(
-        `The following ids are duplicated: ${duplicates.join(
-          ", "
-        )}`
+        `The following ids are duplicated: ${duplicates.join(", ")}`
       );
       process.exit(1);
     }

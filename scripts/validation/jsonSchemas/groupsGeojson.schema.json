@@ -29,6 +29,10 @@
               "ft": {
                 "type": "string",
                 "enum": ["sg"]
+              },
+              "c": {
+                "type": "string",
+                "pattern": "^[A-Z]{2}$"
               }
             }
           },

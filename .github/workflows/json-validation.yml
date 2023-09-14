@@ -21,4 +21,4 @@ jobs:
       - name: Install dependencies
         run: npm install
       - name: Validate JSON files
-        run: npm run validateJson
+        run: npm run validateJsonFiles

@@ -6,11 +6,13 @@ This repository contains publicly available slackline related data. It is collec
 
 ## Data (Table of Contents)
 
-- [communities](communities)
-  - [groups](communities/groups) (Global Slackline Groups)
-- [webbings](webbings.json) (Specifications of Slackline Webbings)
+- communities
+  - [groups](data/communities/groups) (Global Slackline Groups)
+  - [ISA Members](data/communities/isa) (Global Slackline Groups)
+- [webbings](data/webbings.json) (Specifications of Slackline Webbings)
 
-> If you have data to share here, please contact us.
+✅ If you have data to share here, please contact us.
 
 ## License
+
 GNU Affero General Public License v3.0

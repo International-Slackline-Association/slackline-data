@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "email": {
+        "anyOf": [
+          {
+            "type": "string",
+            "format": "email"
+          },
+          {
+            "type": "string",
+            "maxLength": 0
+          }
+        ]
+      },
+      "country": {
+        "type": "string",
+        "pattern": "^[A-Z]{2}$"
+      },
+      "memberType": {
+        "type": "string",
+        "enum": ["national", "observer", "partner", "associate"]
+      },
+      "joinedDate": {
+        "type": "string",
+        "format": "date"
+      },
+      "infoUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "profilePictureUrl": {
+        "type": "string",
+        "format": "uri"
+      },
+      "isaId": {
+        "type": "string",
+        "pattern": "^ISA_[A-F0-9]{8}$"
+      }
+    },
+    "required": ["name", "email", "country", "memberType"],
+    "additionalProperties": false
+  }
+}
