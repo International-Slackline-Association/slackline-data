@@ -14,7 +14,6 @@ interface ISAMember {
   memberType: "national" | "observer" | "partner" | "associate";
   joinedDate?: string; // only date, ex: 2000-01-01. Optional
   infoUrl?: string; // optional
-  profilePictureUrl?: string; // optional
-  isaId?: string; // optional
+  groupId?: string: // optional
 }
 ```

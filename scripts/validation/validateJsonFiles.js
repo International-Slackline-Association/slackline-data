@@ -42,24 +42,24 @@ const validateJsonSchemas = () => {
 };
 
 const validateGroupsMatchingIds = () => {
-  let missingIds = geojsonIds.filter((id) => !groupsIds.includes(id));
-  if (missingIds.length > 0) {
-    console.error(
-      `The following group ids are missing in groups.json: ${missingIds.join(
-        ", "
-      )}`
-    );
-    process.exit(1);
-  }
-  missingIds = groupsIds.filter((id) => !geojsonIds.includes(id));
-  if (missingIds.length > 0) {
-    console.error(
-      `The following group ids are missing in groups.geojson: ${missingIds.join(
-        ", "
-      )}`
-    );
-    process.exit(1);
-  }
+  const validateMissingIds = (ids1, ids2, fileName) => {
+    let missingIds = ids1.filter((id) => !ids2.includes(id));
+    if (missingIds.length > 0) {
+      console.error(
+        `The following group ids are missing in ${fileName}: ${missingIds.join(
+          ", "
+        )}`
+      );
+      process.exit(1);
+    }
+  };
+  validateMissingIds(groupsIds, geojsonIds, "groups.json");
+  validateMissingIds(geojsonIds, groupsIds, "groups.geojson");
+  validateMissingIds(
+    isaMembersJson.map((m) => m.groupId).filter((id) => id),
+    groupsIds,
+    "isaMembers.json"
+  );
 };
 
 const validateUniqueIds = () => {
