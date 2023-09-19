@@ -11,7 +11,7 @@ interface ISAMember {
   name: string;
   email: string;
   country: string; // ISO2 country code
-  memberType: "national" | "observer" | "partner" | "associate";
+  memberType: "active" | "associate" | "observer" | "partner";
   joinedDate?: string; // only date, ex: 2000-01-01. Optional
   infoUrl?: string; // optional
   groupId?: string: // optional
