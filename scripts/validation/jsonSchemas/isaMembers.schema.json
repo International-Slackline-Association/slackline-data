@@ -25,7 +25,7 @@
       },
       "memberType": {
         "type": "string",
-        "enum": ["national", "observer", "partner", "associate"]
+        "enum": ["active", "observer", "partner", "associate"]
       },
       "joinedDate": {
         "type": "string",
