@@ -7700,11 +7700,6 @@
       
       },
       {
-      "type": "Feature",
-      "properties": { "id": "lRAUXNU", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [8.850498399145854, 46.17911405971225] }
-      },
-      {
     "type": "Feature",
     "properties": { "id": "Yfc1gDn", "ft": "sg" },
     "geometry": { "type": "Point", "coordinates": [8.850498399145854, 46.17911405971225] }
