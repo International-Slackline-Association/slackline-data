@@ -7647,6 +7647,94 @@
       "type": "Feature",
       "properties": { "id": "iW8eenS", "ft": "sg", "c": "FR" },
       "geometry": { "type": "Point", "coordinates": [0.713777, 47.286984] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "6hfQLE_", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.694175613187975, 47.31607739334763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "KTvMUqn", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.704152869276518, 46.26467674939628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "WbOxezI", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.765240249611445, 47.43293853836064]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "wtkvZSL", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.220986733464406, 47.371352812792146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "EL6hhEI", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.017621134125511, 46.547538443363834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "hogXx1Q", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.337084142287607, 46.93554169943719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "db8zLHu", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445624665484151, 46.9450545245973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "mnNM5Dz", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445624665484151, 46.9450545245973]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "lRAUXNU", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.850498399145854, 46.17911405971225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Yfc1gDn", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.850498399145854, 46.17911405971225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "aM4MSyf", "ft": "sg" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.445218657378817, 46.96649539752971]
+      }
     }
   ]
 }
