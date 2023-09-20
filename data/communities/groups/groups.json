@@ -718,7 +718,10 @@
     "name": "Slackline Bolivia SC",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/slacklineboliviasc"
+    "facebook": "https://www.facebook.com/slacklineboliviasc",
+    "email": "highlinebolivia@gmail.com",
+    "instagram": "https://www.instagram.com/highline_bolivia/?igshid=YmMyMTA2M2Y%3D",
+    "whatsapp": "https://chat.whatsapp.com/Jym3bA0XYccFRSIGDt98Qs"
   },
   {
     "id": "q1FgXlt",
@@ -1464,7 +1467,7 @@
   },
   {
     "id": "ohUl8gn",
-    "name": "“Slacklife PF”",
+    "name": "Slacklife PF",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebook": "https://www.facebook.com/groups/787029691348371/"
@@ -1523,7 +1526,9 @@
     "name": "SLACKLINE Porto Alegre - RS",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/515968415197401/"
+    "facebook": "https://www.facebook.com/groups/slacklineporto",
+    "instagram": "https://www.instagram.com/slacklineporto/",
+    "whatsapp": "https://chat.whatsapp.com/G6SD7EVWCImG5GnLO3cINe"
   },
   {
     "id": "arLW1B7",
@@ -4555,7 +4560,8 @@
     "name": "Slackline Wiesbaden",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/1118106848245211/"
+    "facebook": "https://www.facebook.com/groups/1118106848245211/",
+    "whatsapp": "https://chat.whatsapp.com/KgKLq47wOVG2EkiPjfDNpq"
   },
   {
     "id": "llLheha",
@@ -6776,7 +6782,9 @@
     "name": "Zaragoza Slacklife",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/groups/549191661842305/"
+    "facebook": "https://www.facebook.com/groups/549191661842305/",
+    "instagram": "https://instagram.com/slackzaragoza",
+    "whatsapp": "https://chat.whatsapp.com/EpK5hoUVZNVDxBXdVP1OKj"
   },
   {
     "id": "GJS8yAh",
@@ -8359,7 +8367,10 @@
     "name": "Chicago Slackliners Association",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebook": "https://www.facebook.com/ChicagoSlacklinersAssociation/"
+    "facebook": "https://www.facebook.com/groups/slacklinechicago",
+    "instagram": "https://www.instagram.com/slacklinechicago/",
+    "email": "slacklinechicago@gmail.com",
+    "webpage": "https://slacklinechicago.com"
   },
   {
     "id": "cxDZVHp",
@@ -10691,8 +10702,9 @@
     "name": "Piscinão da Penha",
     "createdDateTime": "2023-08-14",
     "updatedDateTime": "2023-08-14",
-    "email": "manrique23@gmail.com",
-    "whatsapp": "https://api.whatsapp.com/send?phone=5511980782159"
+    "email": "piscinaodapenha@gmail.com",
+    "whatsapp": "https://chat.whatsapp.com/BYOPCQmyRy3BVj6W2Tig7A",
+    "instagram": "https://www.instagram.com/iozokolo/"
   },
   {
     "id": "Iq0-3jr",
@@ -10723,7 +10735,12 @@
     "id": "_4K7RBX",
     "name": "Slackline Roma ASD",
     "createdDateTime": "2023-08-14",
-    "updatedDateTime": "2023-08-14"
+    "updatedDateTime": "2023-08-14",
+    "email": "slackroma@gmail.com",
+    "webpage": "https://www.slacklineroma.it",
+    "instagram": "https://www.instagram.com/slacklineroma/",
+    "facebook": "https://www.facebook.com/slacklineromaasd",
+    "whatsapp": "https://chat.whatsapp.com/DxNT6bETlKp21tDFxk489q"
   },
   {
     "id": "m4OsPSY",
@@ -10821,5 +10838,21 @@
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
     "facebook": "https://www.facebook.com/kappeli.ch"
+  },
+  {
+    "id": "Lsmp_NR",
+    "name": "Bonobo Slackline Santa Cruz Bolivia",
+    "createdDateTime": "2023-09-19",
+    "updatedDateTime": "2023-09-19",
+    "instagram": "https://instagram.com/bonoboslacklinesc",
+    "whatsapp": "https://chat.whatsapp.com/HuvryLcpQNSAb66NxRi6al"
+  },
+  {
+    "id": "yte5FUs",
+    "name": "Shiraz Balance",
+    "createdDateTime": "2023-09-19",
+    "updatedDateTime": "2023-09-19",
+    "email": "amirazadi0310@gmail.com",
+    "instagram": "https://www.instagram.com/shirazbalance/"
   }
 ]

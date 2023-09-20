@@ -7735,6 +7735,16 @@
         "type": "Point",
         "coordinates": [7.445218657378817, 46.96649539752971]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Lsmp_NR", "ft": "sg", "c": "IL" },
+      "geometry": { "type": "Point", "coordinates": [] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "yte5FUs", "ft": "sg", "c": "IL" },
+      "geometry": { "type": "Point", "coordinates": [] }
     }
   ]
 }
