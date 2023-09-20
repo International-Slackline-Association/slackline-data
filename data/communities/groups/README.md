@@ -40,3 +40,20 @@ interface Group {
     webpage?: string, // optional
 }
 ```
+
+## JSON Format for `groups.gojson`
+
+```ts
+interface Feature {
+    type: "Feature", // fixed value 
+    properties: {
+        id: string, // matching id in groups.json
+        ft: "sg", // fixed value for slackmap map view
+        c: string, // country code in ISO 3166-1 alpha-2 format
+    },
+    geometry: {
+        type: "Point", // fixed value
+        coordinates: [number, number], // [longitude, latitude]
+    }
+}
+```

@@ -53,12 +53,12 @@ const validateGroupsMatchingIds = () => {
       process.exit(1);
     }
   };
-  validateMissingIds(groupsIds, geojsonIds, "groups.json");
-  validateMissingIds(geojsonIds, groupsIds, "groups.geojson");
+  validateMissingIds(groupsIds, geojsonIds, "groups.geojson");
+  validateMissingIds(geojsonIds, groupsIds, "groups.json");
   validateMissingIds(
     isaMembersJson.map((m) => m.groupId).filter((id) => id),
     groupsIds,
-    "isaMembers.json"
+    "groups.json"
   );
 };
 
