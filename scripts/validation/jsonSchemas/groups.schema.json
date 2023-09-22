@@ -24,10 +24,15 @@
         "type": "string",
         "format": "email"
       },
-      "facebook": {
+      "facebookPage": {
         "type": "string",
         "format": "uri",
         "pattern": ".*facebook.com/.*"
+      },
+      "facebookGroup": {
+        "type": "string",
+        "format": "uri",
+        "pattern": ".*facebook.com/groups/.*"
       },
       "telegram": {
         "type": "string",

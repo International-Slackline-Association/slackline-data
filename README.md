@@ -7,9 +7,9 @@ This repository contains publicly available slackline related data. It is collec
 ## Data (Table of Contents)
 
 - communities
-  - [groups](data/communities/groups) (Global Slackline Groups data)
+  - [Groups](data/communities/groups) (Global Slackline Groups data)
   - [ISA Members](data/communities/isa) (Global Slackline Organizations registred with the ISA)
-- [webbings](data/webbings.json) (Specifications of Slackline Webbings)
+- [Webbings](data/webbings.json) (Specifications of Slackline Webbings)
 
 ✅ If you have data to share here, please contact us.
 

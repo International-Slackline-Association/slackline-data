@@ -33,7 +33,8 @@ interface Group {
     createdDateTime: string, // only date
     updatedDateTime: string, // only date
     email?: string, // optional
-    facebook?: string, // optional
+    facebookPage?: string, // optional
+    facebookGroup?: string, // optional
     telegram?: string, // optional
     instagram?: string, // optional
     whatsapp?: string, // optional
