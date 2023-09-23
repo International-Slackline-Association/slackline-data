@@ -4,9 +4,10 @@
     "optimizeJsonFiles": "node scripts/optimize.js"
   },
   "devDependencies": {
+    "@turf/distance": "6.5.0",
     "@turf/truncate": "6.5.0",
     "ajv": "8.12.0",
     "ajv-formats": "2.1.1",
-    "string-similarity-js": "^2.1.4"
+    "string-similarity-js": "2.1.4"
   }
 }

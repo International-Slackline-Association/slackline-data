@@ -2,6 +2,7 @@ const Ajv = require("ajv");
 const addFormats = require("ajv-formats").default;
 const utils = require("../utils");
 const stringSimilarity = require("string-similarity-js").stringSimilarity;
+const distance = require("@turf/distance").default;
 
 const ajv = new Ajv({ allErrors: true, allowUnionTypes: true });
 addFormats(ajv);
@@ -67,7 +68,6 @@ const validateUniqueIds = () => {
     }
   };
   checkDuplicates(groupsIds);
-  checkDuplicates(geojsonIds);
 };
 
 const validateCoordinatesProximity = () => {
@@ -82,10 +82,7 @@ const validateCoordinatesProximity = () => {
       const feature2 = groupsGeojson.features[j];
       const coord2 = feature2.geometry.coordinates;
 
-      if (
-        Math.abs(coord1[0] - coord2[0]) <= 0.005 &&
-        Math.abs(coord1[1] - coord2[1]) <= 0.005
-      ) {
+      if (distance(coord1, coord2, { units: "kilometers" }) < 0.2) {
         matches.push(feature2);
       }
     }
@@ -96,7 +93,7 @@ const validateCoordinatesProximity = () => {
   }
   if (duplicates.length > 0) {
     console.error(
-      `The following groups have coordinates close to each other: ${duplicates
+      `The following groups are less than 200m apart from each other: ${duplicates
         .map((d) => d.map((f) => f.properties.id).join(", "))
         .join("; ")}`
     );
