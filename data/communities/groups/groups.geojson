@@ -4827,7 +4827,7 @@
    {
       "type": "Feature",
       "properties": { "id": "_UTwLW5", "ft": "sg", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [7.447, 46.946] }
+      "geometry": { "type": "Point", "coordinates": [7.453, 46.953] }
     },
     {
       "type": "Feature",
