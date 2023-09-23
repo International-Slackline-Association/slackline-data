@@ -6755,6 +6755,16 @@
     "facebookPage": "https://www.facebook.com/swissslackline/",
     "facebookGroup": "https://www.facebook.com/groups/29750285400"
   },
+   {
+    "id": "_UTwLW5",
+    "name": "Swiss Highline",
+    "createdDateTime": "2020-05-09",
+    "updatedDateTime": "2023-09-23",  
+    "webpage": "https://www.swiss-highline.ch",
+    "email": "info@swiss-highline.ch",
+    "instagram": "https://www.instagram.com/swissslackline",
+    "facebookGroup": "https://www.facebook.com/groups/379678812108671"
+  },
     {
     "id": "YpNb23_",
     "name": "International Slackline Association",
@@ -6846,13 +6856,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebookGroup": "https://www.facebook.com/groups/192514307581823/"
-  },
-  {
-    "id": "yKQbXpJ",
-    "name": "Slackline TICINO",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/slacklinelugano/"
   },
   {
     "id": "ZxUDHql",
@@ -10325,17 +10328,20 @@
     "id": "aM4MSyf",
     "name": "Bern Moves",
     "createdDateTime": "2023-09-19",
-    "updatedDateTime": "2023-09-19",
+    "updatedDateTime": "2023-09-23",
     "email": "info@bernmoves.com",
-    "instagram": "https://www.instagram.com/slackvitality/",
-    "webpage": "https://movementpark.ch/"
+    "instagram": "https://www.instagram.com/bernmoves/",
+    "facebookPage": "https://www.facebook.com/bernmoves/",
+    "whatsapp": "https://chat.whatsapp.com/DQppAlp5RJr7oWlQw2PiT1",
+    "telegram": "https://t.me/+bP1242xcnTk5NjQ0",
+    "webpage": "https://bernmoves.com/"
   },
   {
     "id": "KTvMUqn",
     "name": "Slack4fun",
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
-    "email": "mail@demolink.org",
+    "email": "info@slack4fun.ch",
     "webpage": "http://slack4fun.ch/index.html"
   },
   {
@@ -10366,14 +10372,15 @@
     "name": "Heustock Bern",
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
-    "facebookGroup": "https://www.facebook.com/groups/1057507714289761"
+    "facebookGroup": "https://www.facebook.com/groups/1057507714289761",
+    "whatsapp": "https://chat.whatsapp.com/9Oimcv16wyc8GeMQeAEEK4"
   },
   {
     "id": "db8zLHu",
     "name": "Verein Pro Dalmazi",
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
-    "webpage": "https://dalmazipark.ch/kontakt/",
+    "webpage": "https://dalmazipark.ch/",
     "email": "info@dalmazipark.ch",
     "facebookGroup": "https://www.facebook.com/groups/1057507714289761"
   },
@@ -10390,9 +10397,10 @@
     "name": "TISLACCO",
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
-    "webpage": "https://www.tislacco.ch/#where",
+    "webpage": "https://www.tislacco.ch/",
     "instagram": "https://www.instagram.com/tislacco/",
-    "facebookPage": "https://www.facebook.com/slacklineticino"
+    "facebookPage": "https://www.facebook.com/slacklineticino",
+    "facebookGroup": "https://www.facebook.com/groups/slacklinelugano/"
   },
   {
     "id": "Yfc1gDn",
