@@ -4822,7 +4822,12 @@
     {
       "type": "Feature",
       "properties": { "id": "YpNb23_", "ft": "sg", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [7.435, 46.939] }
+      "geometry": { "type": "Point", "coordinates": [7.441, 46.939] }
+    },
+   {
+      "type": "Feature",
+      "properties": { "id": "_UTwLW5", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [7.447, 46.946] }
     },
     {
       "type": "Feature",
@@ -4873,11 +4878,6 @@
       "type": "Feature",
       "properties": { "id": "Q-cBXkY", "ft": "sg", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [6.632, 46.52] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "id": "yKQbXpJ", "ft": "sg", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [8.8, 46.332] }
     },
     {
       "type": "Feature",
