@@ -4827,7 +4827,7 @@
    {
       "type": "Feature",
       "properties": { "id": "_UTwLW5", "ft": "sg", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [7.453, 46.953] }
+      "geometry": { "type": "Point", "coordinates": [7.453, 46.954] }
     },
     {
       "type": "Feature",
@@ -7367,7 +7367,7 @@
     {
       "type": "Feature",
       "properties": { "id": "Yfc1gDn", "ft": "sg" },
-      "geometry": { "type": "Point", "coordinates": [8.86, 46.189] }
+      "geometry": { "type": "Point", "coordinates": [8.321, 46.719] }
     },
     {
       "type": "Feature",
