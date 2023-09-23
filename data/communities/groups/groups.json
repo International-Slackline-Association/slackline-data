@@ -6746,10 +6746,25 @@
   },
   {
     "id": "M21SOVj",
-    "name": "Swiss-Slackline.ch",
+    "name": "Swiss Slackline Federation",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/swissslackline/"
+    "updatedDateTime": "2023-09-23",  
+    "webpage": "https://www.swiss-slackline.ch",
+    "email": "info@swiss-slackline.ch",
+    "instagram": "https://www.instagram.com/swissslackline",
+    "facebookPage": "https://www.facebook.com/swissslackline/",
+    "facebookGroup": "https://www.facebook.com/groups/29750285400"
+  },
+    {
+    "id": "YpNb23_",
+    "name": "International Slackline Association",
+    "createdDateTime": "2023-09-23",
+    "updatedDateTime": "2023-09-23",  
+    "webpage": "https://www.slacklineinternational.org",
+    "email": "info@slacklineinternational.org",
+    "instagram": "https://www.instagram.com/slackline_international/",
+    "facebookPage": "https://www.facebook.com/slacklineinternational/",
+    "facebookGroup": "https://www.facebook.com/groups/380524432108924"
   },
   {
     "id": "eZBC0SF",
