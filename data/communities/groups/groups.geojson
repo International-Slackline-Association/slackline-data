@@ -7387,7 +7387,7 @@
     {
       "type": "Feature",
       "properties": { "id": "Y-Cx3eu", "ft": "sg", "c": "IL" },
-      "geometry": { "type": "Point", "coordinates": [52.527, 29.613] }
+      "geometry": { "type": "Point", "coordinates": [7.025146192453747, 46.574187631633436 ] }
     }
   ]
 }
