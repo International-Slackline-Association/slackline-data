@@ -11,7 +11,9 @@
     "name": "GrischaSlack",
     "createdDateTime": "2021-05-09",
     "updatedDateTime": "2021-05-09",
-    "webpage": "https://grischaslack.ch/"
+    "webpage": "https://grischaslack.ch/",
+    "email": "info@slackattack.ch",
+    "facebookGroup": "https://www.facebook.com/groups/1484946485095714/"
   },
   {
     "id": "SnL8_wx",
@@ -3458,7 +3460,7 @@
     "name": "Slackline Jura",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/291301830985436/"
+    "facebookGroup": "https://www.facebook.com/groups/866879576740507/"
   },
   {
     "id": "fh5qpyp",
@@ -6802,7 +6804,7 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2023-05-09",
      "instagram": "https://www.instagram.com/slackattack.ch/",
-    "whatsapp": "https://chat.whatsapp.com/KECcaBXEQ6hJIRfgf2dBZ5",
+    "whatsapp": "https://chat.whatsapp.com/KECcaBXEQ6hJIRfgf2dBZ5",<
     "email": "info@slackattack.ch",
     "webpage": "https://www.slackattack.ch",
     "facebookPage": "https://www.facebook.com/SLACKATTACK.ch/",
@@ -6813,7 +6815,11 @@
     "name": "Basel City Slackliners",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/baselcityslackliners/"
+    "facebookGroup": "https://www.facebook.com/groups/baselcityslackliners/",
+    "webpage": "https://baselcityslackliners.com/",
+    "instagram": "https://www.instagram.com/basel_city_slackliners/?igshid=1cl6boc9xgr65",
+    "email": "info@baselcityslackliners.com"
+
   },
   {
     "id": "igk25jZ",
@@ -6848,10 +6854,12 @@
     "name": "Slackline Genève",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/slacklinegeneve/"
+    "facebookGroup": "https://www.facebook.com/groups/slacklinegeneve/",
+    "webpage": "https://slacklinegeneve.weebly.com/contact.html",
+    "email": "associationslacklinegeneve@gmail.com"
   },
   {
-    "id": "Q-cBXkY",
+    "id": "YQ-cBXk",
     "name": "Lausanne slackline",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
@@ -6862,7 +6870,8 @@
     "name": "Vierwaldslackers",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "telegram": "https://t.me/joinchat/p3agitOxd4EzMTc0"
+    "telegram": "https://t.me/joinchat/p3agitOxd4EzMTc0",
+    "webpage": "http://vierwaldslackers.ch/"
   },
   {
     "id": "A3CeSVD",
@@ -6904,14 +6913,18 @@
     "name": "slackline-valais.ch",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/slackline-valaisch-197438560325112/"
+    "facebookPage": "https://www.facebook.com/slackline-valaisch-197438560325112/",
+    "email": "info@slackline-valais.ch",
+    "webpage": "https://slackline-valais.ch/de/startseite-deutsch/"
   },
   {
     "id": "4W0S5f0",
     "name": "SlackLions - Slackline Zürich",
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/slacklinezurich/?ref=br_rs"
+    "facebookGroup": "https://www.facebook.com/groups/slacklinezurich/?ref=br_rs",
+    "webpage": "https://www.slacklions.ch/",
+    "email": "slackline.zurich@gmail.com"
   },
   {
     "id": "pNdaPFB",
@@ -10424,5 +10437,14 @@
     "updatedDateTime": "2023-09-19",
     "email": "amirazadi0310@gmail.com",
     "instagram": "https://www.instagram.com/shirazbalance/"
+  },
+  {
+
+    "id": "Y-Cx3eu",
+    "name": "Larmichettes Crew",
+    "createdDateTime": "2023-24-09",
+    "updatedDateTime": "2023-24-09",
+    "email": "Larmichettescrew@gmail.com",
+    "facebookPage": "https://www.facebook.com/Larmichettes/"
   }
 ]

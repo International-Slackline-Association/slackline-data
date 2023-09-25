@@ -7383,6 +7383,17 @@
       "type": "Feature",
       "properties": { "id": "yte5FUs", "ft": "sg", "c": "IL" },
       "geometry": { "type": "Point", "coordinates": [52.527, 29.613] }
-    }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Y-Cx3eu", "ft": "sg", "c": "IL" },
+      "geometry": { "type": "Point", "coordinates": [52.527, 29.613] }
+    },
+
+  {
+    "type": "Feature",
+    "properties": { "id": "YQ-cBXk", "ft": "sg", "c": "IL" },
+    "geometry": { "type": "Point", "coordinates": [6.6244872156910795, 46.51019043512522 ] }
+  }
   ]
 }
