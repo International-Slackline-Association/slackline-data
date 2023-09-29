@@ -7709,7 +7709,12 @@
         "type": "Feature",
         "properties": { "id": "KfgYhGP", "ft": "sg", "c": "GB"},
         "geometry": { "type": "Point", "coordinates": [ -1.4532520232904576, 53.38843153145773 ] }
+      },
+        "type": "Feature",
+        "properties": { "id": "w3HRRnp", "ft": "sg", "c": "GB"},
+        "geometry": { "type": "Point", "coordinates": [  -45.93856304833725, -22.21716054404466] }
         
+      
       }
     ]
   }
