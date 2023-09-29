@@ -10489,8 +10489,7 @@
 "webpage": "http://jsfed.jp/",
 "facebookPage": "https://www.facebook.com/JsFed/?ref=embed_page"
 },
-{ },
-{
+{ 
   "id": "-KXQ2Cp",
   "name": "Australian Slacklining Association Inc.",
   "createdDateTime": "2023-09-26",
@@ -10500,7 +10499,7 @@
   "webpage": "https://slacklining.org.au/",
   "facebookPage": "https://www.facebook.com/australianslacklining/"
 },
-{
+{ 
   "id": "vgxi7jN",
   "name": "Czech Slackline Association",
   "createdDateTime": "2023-09-26",
@@ -10585,7 +10584,6 @@
   "email": "mail@movecph.com",
   "webpage": "https://movecph.com/"
 },
-{},
 {
   "id": "8_FRD2U",
   "name": "Slack is Goudes",
