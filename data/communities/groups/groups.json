@@ -10486,7 +10486,7 @@
 "createdDateTime": "2023-09-26",
 "updatedDateTime": "2023-09-26",
 "email": "info@jsfed.jp",
-"webpage": "http://jsfed.jp/",
+"webpage": "http://www.jsfed.jp/",
 "facebookPage": "https://www.facebook.com/JsFed/?ref=embed_page"
 },
 { 
@@ -10563,8 +10563,8 @@
   "name": "Slovak Slackline Association ",
   "createdDateTime": "2023-09-26",
   "updatedDateTime": "2023-09-26",
-  "email": " info@slacklineslovakia.sk",
   "webpage": "https://slacklineslovakia.sk/",
+  "email":   "info@slacklineslovakia.sk",
   "facebookPage": "https://www.facebook.com/slacklineslovakia/"
 },
 {
@@ -10751,7 +10751,7 @@
     "updatedDateTime": "2023-09-26",
     "instagram": "https://www.instagram.com/sotonslack/?hl=de",
     "email": "slacksoc@soton.ac.uk",
-    "webpage": "susu.org/groups/slacklining",
+    "webpage": "https://susu.org/groups/slacklining",
     "facebookPage": "https://www.facebook.com/Sotonslack/"
   },
   {  
@@ -10852,7 +10852,7 @@
     "updatedDateTime": "2023-09-26",
     "instagram": "https://www.instagram.com/paradise_highlines/",
     "email": "Marshell@paradisehighlines.com",
-    "webpage": "paradisehighlines.com/contact-us",
+    "webpage": "https://paradisehighlines.com/contact-us",
     "facebookGroup": "https://www.facebook.com/groups/464646251041641"
   },
   { 
