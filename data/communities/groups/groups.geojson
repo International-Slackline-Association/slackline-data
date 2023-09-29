@@ -6252,7 +6252,7 @@
     {
       "type": "Feature",
       "properties": { "id": "qgUT-AS", "ft": "sg", "c": "US" },
-      "geometry": { "type": "Point", "coordinates": [-109.55, 38.573] }
+      "geometry": { "type": "Point", "coordinates": [-109.55184770145539 ,38.574062437417446 ] }
     },
     {
       "type": "Feature",
@@ -7395,7 +7395,7 @@
     },
   { "type": "Feature",
   "properties": { "id": "itHEe7U", "ft": "sg", "c": "IL" },
-  "geometry": { "type": "Point", "coordinates": [-109.55038858173279, 38.57362626871998 ] }
+  "geometry": { "type": "Point", "coordinates": [-119.52321693796833, 37.89545655951523 ] }
   },
   { "type": "Feature",
   "properties": { "id": "sdpUacw", "ft": "sg", "c": "IL" },
