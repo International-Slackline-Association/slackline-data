@@ -9237,13 +9237,6 @@
     "facebookGroup": "https://www.facebook.com/groups/185164934936852/"
   },
   {
-    "id": "W6TPick",
-    "name": "Lille",
-    "createdDateTime": "2023-04-10",
-    "updatedDateTime": "2023-04-10",
-    "facebookGroup": "https://www.facebook.com/groups/slacklille/"
-  },
-  {
     "id": "Uu5BcjK",
     "name": "Metz",
     "createdDateTime": "2023-04-10",
@@ -11018,8 +11011,49 @@
     "instagram": "https://www.instagram.com/theslackinovshop/",
     "email": "info@slack-inov.com",
     "webpage": "https://slack-inov.com/shop/en/",
-    "facebookPage": "https://www.facebook.com/slack.inov/"
-    
+    "facebookPage": "https://www.facebook.com/slack.inov/"    
+  },
+   {
+    "id": "82QOfTX",
+    "name": "FISpT - Federazione Italiana Sport per Tutti",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+        "email": "info@fispt.it",
+    "webpage": "http://www.fispt.it/",
+    "facebookPage": "https://www.facebook.com/FederazioneItalianaSportPerTutti/"    
+  },
+  {
+    "id": "IYYZzk5",
+    "name": "Siebert Consulting",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+        "email": "info@siebert.at",
+    "webpage": "http://www.siebert.at/"    
+  },
+   {
+    "id": "dm_Mhhy",
+    "name": "Block Materialprüfung",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+        "email": "info@block-quality.com",
+    "webpage": "https://block-quality.com/"    
+  },
+   {
+    "id": "rU-MykF",
+    "name": "Souz Slackline",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "webpage": "https://vk.com/souzslackline"    
+  },
+    {
+    "id": "4WqTfWH",
+    "name": "Slacklife Inc.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacklifeinc/?hl=en",
+    "email": "slacklife.balance@gmail.com",
+    "webpage": "https://www.slacklife.in/",
+    "facebookPage": "https://www.facebook.com/slacklifeinc"  
   },
   {
     "id": "KfgYhGP",
@@ -11030,6 +11064,5 @@
     "email": "info@radrigs.co.uk",
     "webpage": "https://www.radrigs.co.uk/",
     "facebookPage": "https://www.facebook.com/people/Radrigs-Slackline-Equipment/100063629285895/"
-    
   }
 ]
