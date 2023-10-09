@@ -11019,7 +11019,71 @@
     "email": "info@slack-inov.com",
     "webpage": "https://slack-inov.com/shop/en/",
     "facebookPage": "https://www.facebook.com/slack.inov/"
-    
+  },
+   {
+    "id": "CJIbaTD",
+    "name": "Slackvirus",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slackvirus/",
+    "email": "slackvirus2@gmail.com"
+  },
+   {
+    "id": "g2SHr9R",
+    "name": "Firmament Fundation",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/fundacjafirmament/",
+    "email": "fundacjafirmament@gmail.com",
+    "webpage": "https://www.firmament.org.pl"
+  },
+  {
+    "id": "hKWgGKz",
+    "name": "Equilibre Paris",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/equilibreparis/",
+    "email": "equilibreidf@gmail.com",
+    "facebookGroup": "https://www.facebook.com/groups/6556760807672251/"
+  },
+  {
+    "id": "orTpFUm",
+    "name": "Slackline Liguria ASD",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacklineliguria/",
+    "email": "slacklineliguria@gmail.com"
+  },
+  {
+    "id": "ig50Hgo",
+    "name": "Nova Geração RJ",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/highline.ng",
+    "email": "ng.highline@gmail.com"
+  },
+    {
+    "id": "qC5dBFY",
+    "name": "Associação Slackline Pouso Alegre - ASPA",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/wolfslacklife/"
+  },
+  {
+    "id": "5Qfa-x3",
+    "name": "Balsana Slackline",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/balansaslackline/",
+    "webpage": "https://balansa-slackline.com/"
+  },
+  {
+    "id": "072jkev",
+    "name": "Yogaslackers",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "webpage": "https://yogaslackers.com/",
+    "instagram": "https://www.instagram.com/yogaslackers/"
   },
   {
     "id": "KfgYhGP",
@@ -11030,6 +11094,5 @@
     "email": "info@radrigs.co.uk",
     "webpage": "https://www.radrigs.co.uk/",
     "facebookPage": "https://www.facebook.com/people/Radrigs-Slackline-Equipment/100063629285895/"
-    
   }
 ]
