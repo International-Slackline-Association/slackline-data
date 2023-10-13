@@ -6756,28 +6756,28 @@
     "id": "M21SOVj",
     "name": "Swiss Slackline Federation",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2023-09-23",  
+    "updatedDateTime": "2023-09-23",
     "webpage": "https://www.swiss-slackline.ch",
     "email": "info@swiss-slackline.ch",
     "instagram": "https://www.instagram.com/swissslackline",
     "facebookPage": "https://www.facebook.com/swissslackline/",
     "facebookGroup": "https://www.facebook.com/groups/29750285400"
   },
-   {
+  {
     "id": "_UTwLW5",
     "name": "Swiss Highline",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2023-09-23",  
+    "updatedDateTime": "2023-09-23",
     "webpage": "https://www.swiss-highline.ch",
     "email": "info@swiss-highline.ch",
     "instagram": "https://www.instagram.com/swissslackline",
     "facebookGroup": "https://www.facebook.com/groups/379678812108671"
   },
-    {
+  {
     "id": "YpNb23_",
     "name": "International Slackline Association",
     "createdDateTime": "2023-09-23",
-    "updatedDateTime": "2023-09-23",  
+    "updatedDateTime": "2023-09-23",
     "webpage": "https://www.slacklineinternational.org",
     "email": "info@slacklineinternational.org",
     "instagram": "https://www.instagram.com/slackline_international/",
@@ -6810,12 +6810,12 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2023-05-09",
     "instagram": "https://www.instagram.com/slackattack.ch/",
-    "whatsapp":  "https://chat.whatsapp.com/KECcaBXEQ6hJIRfgf2dBZ5",
+    "whatsapp": "https://chat.whatsapp.com/KECcaBXEQ6hJIRfgf2dBZ5",
     "email": "info@slackattack.ch",
     "webpage": "https://www.slackattack.ch",
     "facebookPage": "https://www.facebook.com/SLACKATTACK.ch/",
     "facebookGroup": "https://www.facebook.com/groups/171296479593796/"
-   },
+  },
   {
     "id": "oDUQNBU",
     "name": "Basel City Slackliners",
@@ -6825,7 +6825,6 @@
     "webpage": "https://baselcityslackliners.com/",
     "instagram": "https://www.instagram.com/basel_city_slackliners/?igshid=1cl6boc9xgr65",
     "email": "info@baselcityslackliners.com"
-
   },
   {
     "id": "igk25jZ",
@@ -10334,7 +10333,7 @@
     "name": "Slackvitality",
     "createdDateTime": "2023-09-19",
     "updatedDateTime": "2023-09-19",
-    "email": "nfo.slackvitality@gmail.com",
+    "email": "info.slackvitality@gmail.com",
     "instagram": "https://www.instagram.com/slackvitality/"
   },
   {
@@ -10439,7 +10438,6 @@
     "instagram": "https://www.instagram.com/shirazbalance/"
   },
   {
-
     "id": "Y-Cx3eu",
     "name": "Larmichettes Crew",
     "createdDateTime": "2023-09-24",
@@ -10448,61 +10446,60 @@
     "facebookPage": "https://www.facebook.com/Larmichettes/"
   },
   {
-
-  "id": "6lgHBQK",
-  "name": "Slackline Verband Austria",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@slacklineverband.com",
-  "webpage": "https://www.slacklineverband.com/"
-},
-{  "id": "itHEe7U",
-"name": "Slackline U.S.",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/slacklineus/",
-"email": "info@slackline.us",
-"webpage": "https://slackline.us/",
-"facebookPage": "https://www.facebook.com/SlacklineUS"
-},
-{   "id": "sdpUacw",
-"name": "Deutscher Slacklineverband e.V.",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"email": "philipp@deutscherslacklineverband.org",
-"webpage": "https://deutscherslacklineverband.org/kontakt/",
-"facebookPage": "https://www.facebook.com/deutscherslacklineverband"
-},
-{ 
-"id": "oYr9BsN",
-"name": "Japan Slackline Federation",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"email": "info@jsfed.jp",
-"webpage": "http://www.jsfed.jp/",
-"facebookPage": "https://www.facebook.com/JsFed/?ref=embed_page"
-},
-{ 
-  "id": "-KXQ2Cp",
-  "name": "Australian Slacklining Association Inc.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/australian_slacklining/",
-  "email": "info@slacklining.org.au",
-  "webpage": "https://slacklining.org.au/",
-  "facebookPage": "https://www.facebook.com/australianslacklining/"
-},
-{ 
-  "id": "vgxi7jN",
-  "name": "Czech Slackline Association",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@ceska-asociace-slackline.cz",
-  "webpage": "https://ceska-asociace-slackline.cz/",
-  "facebookGroup": "https://www.facebook.com/groups/194644290710331"
-
-  
-},
+    "id": "6lgHBQK",
+    "name": "Slackline Verband Austria",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@slacklineverband.com",
+    "webpage": "https://www.slacklineverband.com/"
+  },
+  {
+    "id": "itHEe7U",
+    "name": "Slackline U.S.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacklineus/",
+    "email": "info@slackline.us",
+    "webpage": "https://slackline.us/",
+    "facebookPage": "https://www.facebook.com/SlacklineUS"
+  },
+  {
+    "id": "sdpUacw",
+    "name": "Deutscher Slacklineverband e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "philipp@deutscherslacklineverband.org",
+    "webpage": "https://deutscherslacklineverband.org/kontakt/",
+    "facebookPage": "https://www.facebook.com/deutscherslacklineverband"
+  },
+  {
+    "id": "oYr9BsN",
+    "name": "Japan Slackline Federation",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@jsfed.jp",
+    "webpage": "http://www.jsfed.jp/",
+    "facebookPage": "https://www.facebook.com/JsFed/?ref=embed_page"
+  },
+  {
+    "id": "-KXQ2Cp",
+    "name": "Australian Slacklining Association Inc.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/australian_slacklining/",
+    "email": "info@slacklining.org.au",
+    "webpage": "https://slacklining.org.au/",
+    "facebookPage": "https://www.facebook.com/australianslacklining/"
+  },
+  {
+    "id": "vgxi7jN",
+    "name": "Czech Slackline Association",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@ceska-asociace-slackline.cz",
+    "webpage": "https://ceska-asociace-slackline.cz/",
+    "facebookGroup": "https://www.facebook.com/groups/194644290710331"
+  },
   {
     "id": "_gWv0QE",
     "name": "SlacklineLV",
@@ -10511,208 +10508,201 @@
     "email": "slacklinelv@gmail.com",
     "webpage": "http://slackline.lv/",
     "facebookPage": "https://www.facebook.com/slacklinelv/?locale=de_DE"
-},
-{
-
-  "id": "X445ynp",
-  "name": "Slackline Lietuva",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@alternativiavi.lt",
-  "webpage": "https://alternatyviai.lt/kontaktai/",
-  "facebookPage": "https://www.facebook.com/alternatyviai.sportas.kultura"
-},
-{
-  "id": "opHJmff",
-  "name": "Asociación Mexicana de Slackline",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@slackline.org.mx",
-  "webpage": "https://www.slackline.org.mx/",
-  "facebookPage": "https://www.facebook.com/AMSlackline/"
-},
-{
-  "id": "AEQ0QGQ",
-  "name": "The UK Slackline Club",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/ukslacklineclub/",
-  "email": "website@ukslacklineclub.com",
-  "webpage": "https://www.ukslacklineclub.com/",
-  "facebookPage": "https://www.facebook.com/UKSlackClub/"
-},
-{
-  "id": "0MBeRo3",
-  "name": "Step Slackliners Armenia",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slack_life_armenia_fest/",
-  "email": "khachatryan.aharon@gmail.com",
-  "facebookPage": "https://www.facebook.com/slackliners.of.armenia/"
-  
-},
-{
-  "id": "CoTyLJc",
-  "name": "Slovak Slackline Association ",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "webpage": "https://slacklineslovakia.sk/",
-  "email":   "info@slacklineslovakia.sk",
-  "facebookPage": "https://www.facebook.com/slacklineslovakia/"
-},
-{
-  "id": "UU7eFi6",
-  "name": "ASER Asociación de Slackline y Equilibrio Rosario",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/aser.slackline/?hl=de",
-  "email": "aserslackline@gmail.com",
-  "facebookPage": "https://www.facebook.com/ASERosario/"
-},
-{
-  "id": "X-aAHYm",
-  "name": "Move Copenhagen",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "mail@movecph.com",
-  "webpage": "https://movecph.com/"
-},
-{
-  "id": "8_FRD2U",
-  "name": "Slack is Goudes",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "slackisgoudes@gmail.com",
-  "facebookPage": "https://www.facebook.com/SlackIsGoudes/"
-},
-{
-  "id": "WAHlOeL",
-  "name": "Slacklife Merida",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slacklife.merida/?hl=de",
-  "email": "slacklifemerida@gmail.com",
-  "facebookPage": "https://www.facebook.com/Slacklifemerida/"
-},
-{
-
-  "id": "P_x1VmM",
-  "name": "Slackline Berlin e.V.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "slacklineverein.berlin@gmail.com",
-  "webpage": "https://www.slackliner-berlin.de/workshops/",
-  "facebookPage": "https://www.facebook.com/SlacklineBerlinEV/?locale=de_DE"
-},
-{
-  "id": "CHRKCD8",
-  "name": "Slackline Dresden e.V.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@slackline-dresden.de",
-  "webpage": "https://www.slackline-dresden.de/",
-  "facebookPage": "https://www.facebook.com/SlacklineDresden/?locale=de_DE"
-},
-{ 
-"id": "M8EJZPf",
-"name": "Slackline Stuttgart e.V.",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"email": "slackline.stuttgart@gmail.com",
-"facebookPage": "https://www.facebook.com/Slackline.Stuttgart.eV/"
-},
-{
-  "id": "1yd3iGe",
-  "name": "SlackLiner Halle e.V.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "slackliner.halle@gmail.com",
-  "webpage": "https://www.slacklinerhalle.de/kontakt/",
-  "facebookPage": "https://www.facebook.com/slacklinehalle/",
-  "telegram": "https://t.me/joinchat/AAAAAA4dRkB187a1056XGQ" 
-},
-{
-  "id": "OBFh-ac",
-  "name": "Libera Tu Mono",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/liberatumono/?hl=de",
-  "email": "contacto@liberatumono.com",
-  "webpage": "https://liberatumono.com/",
-  "facebookPage": "https://www.facebook.com/liberatumono/"
-
-},
-{
-  "id": "iWwo2I1",
-  "name": "Highline Velho Oeste",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/highlinevelhooeste/?hl=de",
-  "email": "highlinevelhooeste@hotmail.com",
-  "facebookPage": "https://www.facebook.com/HighlineVelhoOeste/"
-
-},
-{ 
-  "id": "lZjm9uY",
-"name": "Slackline Köln e.V.",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/slacklinekoeln/",
-"email": "mail@slackline-koeln.org",
-"webpage": "https://www.slackline-koeln.org/",
-"facebookPage": "https://www.facebook.com/slackline.koeln/"
-},
-{ 
-  "id": "1LN5IKQ",
-  "name": "Slack'n Jump Familly",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "slacknjumpfamilly@gmail.com",
-  "facebookPage": "https://www.facebook.com/slacknjumpfamilly/"
-},
-{ 
-  "id": "p5MMFEM",
-  "name": "Slackline Ingolstadt e.V.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slackline_ingolstadt/",
-  "email": "info@slackline-ingolstadt.de",
-  "webpage": "https://slackline-ingolstadt.de/",
-  "facebookPage": "https://www.facebook.com/SlacklineIngolstadtVerein/"
-
-},
-{ 
-  "id": "BacrSs7",
-  "name": "Konnektonauten e.V.",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/konnektonauten/",
-  "email": "konnektonauten@gmail.com",
-  "webpage": "https://www.konnektonauten.de/team/"
-
-},
-{ 
-  "id": "eXMPRhk",
-  "name": "Slackline Lille",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/lille_france/?hl=fr",
-  "email": "slacklille@gmail.com",
-  "webpage": "https://parcdelacitadelle.lille.fr/la-citadelle-lieu-de-sports/la-slackline-des-consignes-simples-pour-une-pratique-en-toute-securite",
-  "facebookPage": "https://www.facebook.com/LilleFrance/"
-},
-{ 
-  "id": "dt0DGtJ",
-  "name": "Slack'a'lot",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slack_a_lot/?hl=de",
-  "email": "slackalot@gmail.com",
-  "webpage": "https://linkr.bio/slackalot",
-  "facebookPage": "https://www.facebook.com/SlackaLot/"
-},
-{ 
-  "id": "Eih8T8e",
+  },
+  {
+    "id": "X445ynp",
+    "name": "Slackline Lietuva",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@alternativiavi.lt",
+    "webpage": "https://alternatyviai.lt/kontaktai/",
+    "facebookPage": "https://www.facebook.com/alternatyviai.sportas.kultura"
+  },
+  {
+    "id": "opHJmff",
+    "name": "Asociación Mexicana de Slackline",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@slackline.org.mx",
+    "webpage": "https://www.slackline.org.mx/",
+    "facebookPage": "https://www.facebook.com/AMSlackline/"
+  },
+  {
+    "id": "AEQ0QGQ",
+    "name": "The UK Slackline Club",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/ukslacklineclub/",
+    "email": "website@ukslacklineclub.com",
+    "webpage": "https://www.ukslacklineclub.com/",
+    "facebookPage": "https://www.facebook.com/UKSlackClub/"
+  },
+  {
+    "id": "0MBeRo3",
+    "name": "Step Slackliners Armenia",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slack_life_armenia_fest/",
+    "email": "khachatryan.aharon@gmail.com",
+    "facebookPage": "https://www.facebook.com/slackliners.of.armenia/"
+  },
+  {
+    "id": "CoTyLJc",
+    "name": "Slovak Slackline Association ",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "webpage": "https://slacklineslovakia.sk/",
+    "email": "info@slacklineslovakia.sk",
+    "facebookPage": "https://www.facebook.com/slacklineslovakia/"
+  },
+  {
+    "id": "UU7eFi6",
+    "name": "ASER Asociación de Slackline y Equilibrio Rosario",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/aser.slackline/?hl=de",
+    "email": "aserslackline@gmail.com",
+    "facebookPage": "https://www.facebook.com/ASERosario/"
+  },
+  {
+    "id": "X-aAHYm",
+    "name": "Move Copenhagen",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "mail@movecph.com",
+    "webpage": "https://movecph.com/"
+  },
+  {
+    "id": "8_FRD2U",
+    "name": "Slack is Goudes",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slackisgoudes@gmail.com",
+    "facebookPage": "https://www.facebook.com/SlackIsGoudes/"
+  },
+  {
+    "id": "WAHlOeL",
+    "name": "Slacklife Merida",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacklife.merida/?hl=de",
+    "email": "slacklifemerida@gmail.com",
+    "facebookPage": "https://www.facebook.com/Slacklifemerida/"
+  },
+  {
+    "id": "P_x1VmM",
+    "name": "Slackline Berlin e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slacklineverein.berlin@gmail.com",
+    "webpage": "https://www.slackliner-berlin.de/workshops/",
+    "facebookPage": "https://www.facebook.com/SlacklineBerlinEV/?locale=de_DE"
+  },
+  {
+    "id": "CHRKCD8",
+    "name": "Slackline Dresden e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@slackline-dresden.de",
+    "webpage": "https://www.slackline-dresden.de/",
+    "facebookPage": "https://www.facebook.com/SlacklineDresden/?locale=de_DE"
+  },
+  {
+    "id": "M8EJZPf",
+    "name": "Slackline Stuttgart e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slackline.stuttgart@gmail.com",
+    "facebookPage": "https://www.facebook.com/Slackline.Stuttgart.eV/"
+  },
+  {
+    "id": "1yd3iGe",
+    "name": "SlackLiner Halle e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slackliner.halle@gmail.com",
+    "webpage": "https://www.slacklinerhalle.de/kontakt/",
+    "facebookPage": "https://www.facebook.com/slacklinehalle/",
+    "telegram": "https://t.me/joinchat/AAAAAA4dRkB187a1056XGQ"
+  },
+  {
+    "id": "OBFh-ac",
+    "name": "Libera Tu Mono",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/liberatumono/?hl=de",
+    "email": "contacto@liberatumono.com",
+    "webpage": "https://liberatumono.com/",
+    "facebookPage": "https://www.facebook.com/liberatumono/"
+  },
+  {
+    "id": "iWwo2I1",
+    "name": "Highline Velho Oeste",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/highlinevelhooeste/?hl=de",
+    "email": "highlinevelhooeste@hotmail.com",
+    "facebookPage": "https://www.facebook.com/HighlineVelhoOeste/"
+  },
+  {
+    "id": "lZjm9uY",
+    "name": "Slackline Köln e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacklinekoeln/",
+    "email": "mail@slackline-koeln.org",
+    "webpage": "https://www.slackline-koeln.org/",
+    "facebookPage": "https://www.facebook.com/slackline.koeln/"
+  },
+  {
+    "id": "1LN5IKQ",
+    "name": "Slack'n Jump Familly",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slacknjumpfamilly@gmail.com",
+    "facebookPage": "https://www.facebook.com/slacknjumpfamilly/"
+  },
+  {
+    "id": "p5MMFEM",
+    "name": "Slackline Ingolstadt e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slackline_ingolstadt/",
+    "email": "info@slackline-ingolstadt.de",
+    "webpage": "https://slackline-ingolstadt.de/",
+    "facebookPage": "https://www.facebook.com/SlacklineIngolstadtVerein/"
+  },
+  {
+    "id": "BacrSs7",
+    "name": "Konnektonauten e.V.",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/konnektonauten/",
+    "email": "konnektonauten@gmail.com",
+    "webpage": "https://www.konnektonauten.de/team/"
+  },
+  {
+    "id": "eXMPRhk",
+    "name": "Slackline Lille",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/lille_france/?hl=fr",
+    "email": "slacklille@gmail.com",
+    "webpage": "https://parcdelacitadelle.lille.fr/la-citadelle-lieu-de-sports/la-slackline-des-consignes-simples-pour-une-pratique-en-toute-securite",
+    "facebookPage": "https://www.facebook.com/LilleFrance/"
+  },
+  {
+    "id": "dt0DGtJ",
+    "name": "Slack'a'lot",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slack_a_lot/?hl=de",
+    "email": "slackalot@gmail.com",
+    "webpage": "https://linkr.bio/slackalot",
+    "facebookPage": "https://www.facebook.com/SlackaLot/"
+  },
+  {
+    "id": "Eih8T8e",
     "name": "Slackvibe ABC",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
@@ -10720,7 +10710,7 @@
     "email": "zap.rgs@gmail.com",
     "facebookPage": "https://www.facebook.com/people/Slack-Vibe-ABC/100066844518866/"
   },
-  { 
+  {
     "id": "61yVNjZ",
     "name": "Slackline Rhein-Main e.V.",
     "createdDateTime": "2023-09-26",
@@ -10728,7 +10718,7 @@
     "email": "info@slackline-rhein-main.de",
     "webpage": "https://www.slackline-rhein-main.de/impressum/"
   },
-  { 
+  {
     "id": "3mrTo77",
     "name": "Sardinia Slackline",
     "createdDateTime": "2023-09-26",
@@ -10737,7 +10727,7 @@
     "email": "sardiniaslackline@gmail.com",
     "facebookPage": "https://www.facebook.com/p/Slackline-Sardegna-100069932305727/"
   },
-  { 
+  {
     "id": "hsHKr7w",
     "name": "University of Southampton Slackline Society",
     "createdDateTime": "2023-09-26",
@@ -10747,99 +10737,97 @@
     "webpage": "https://susu.org/groups/slacklining",
     "facebookPage": "https://www.facebook.com/Sotonslack/"
   },
-  {  
-  "id": "IOHXG68",
-  "name": "Slackline Freiburg e. V. ",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "kontakt@slacklinefreiburg.de",
-  "webpage": "https://slacklinefreiburg.de/"
-},
-{  
-  "id": "ztxhnkh",
-  "name": "SlackMonks Loja",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "slacklineloja84@gmail.com",
-  "facebookPage": "https://m.facebook.com/slackmonksloja/"
-},
-{  
-  "id": "9MGq9Fy",
-  "name": "SLACKVENTURE",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slackventure/",
-  "email": "slackventure.kng@gmail.com",
-  "facebookPage": "https://www.facebook.com/slackventure/"
-
-},
-{  
-  "id": "d6pT-Os",
-"name": "LEMUR SLACKLINES",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/marcelluslemur_/",
-"email": "cellusmar@gmail.com",
-"facebookPage": "https://www.facebook.com/lemursports/"
-},
-{
-  "id": "qqfcTrG",
-  "name": "Slack sem Fronteiras",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slacksemfronteiras/",
-  "email": "slacksemfronteiras@gmail.com",
-  "facebookPage": "https://www.facebook.com/slacksemfronteiras/?locale=pt_BR"
- 
-},
-{ 
-"id": "abZqeam",
-"name": "Araucalinea",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/araucalinea/?hl=de",
-"email": "slaklife@gmail.com",
-"facebookPage": "https://www.facebook.com/Araucalinea/"
-},
-{
-  "id": "LeDEPsh",
-  "name": "Danish Slackline Association",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/slackline_cph/",
-  "email": "DK.slackline@protonmail.com",
-  "webpage": "https://slacklines.dk/",
-  "facebookPage": "https://www.facebook.com/DK.slackline/"
-},
-{  
-"id": "apSIxux",
-"name": "Asociación de Slackline Highlife Peru",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/highlife.peru/?hl=de",
-"facebookPage": "https://www.facebook.com/highlifeperu/?locale=es_LA"
-},
-{
-"id": "HsZ5OOG",
-"name": "Slacktitud Cero",
-"createdDateTime": "2023-09-26",
-"updatedDateTime": "2023-09-26",
-"instagram": "https://www.instagram.com/slacktitudcero/?hl=de",
-"email": "slacktitudcero@gmail.com",
-"facebookPage": "https://www.facebook.com/slacktitud/"
-},
-{
-  "id": "JFV89LO",
-  "name": "Parislack Association",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/parislack_asso/?hl=de",
-  "email": "parislack.asso@gmail.com",
-  "webpage": "https://www.helloasso.com/associations/parislack",
-  "facebookGroup": "https://www.facebook.com/groups/137606633030898/"
-},
-{ 
-  "id": "c4Fs2lx",
+  {
+    "id": "IOHXG68",
+    "name": "Slackline Freiburg e. V. ",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "kontakt@slacklinefreiburg.de",
+    "webpage": "https://slacklinefreiburg.de/"
+  },
+  {
+    "id": "ztxhnkh",
+    "name": "SlackMonks Loja",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "slacklineloja84@gmail.com",
+    "facebookPage": "https://m.facebook.com/slackmonksloja/"
+  },
+  {
+    "id": "9MGq9Fy",
+    "name": "SLACKVENTURE",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slackventure/",
+    "email": "slackventure.kng@gmail.com",
+    "facebookPage": "https://www.facebook.com/slackventure/"
+  },
+  {
+    "id": "d6pT-Os",
+    "name": "LEMUR SLACKLINES",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/marcelluslemur_/",
+    "email": "cellusmar@gmail.com",
+    "facebookPage": "https://www.facebook.com/lemursports/"
+  },
+  {
+    "id": "qqfcTrG",
+    "name": "Slack sem Fronteiras",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacksemfronteiras/",
+    "email": "slacksemfronteiras@gmail.com",
+    "facebookPage": "https://www.facebook.com/slacksemfronteiras/?locale=pt_BR"
+  },
+  {
+    "id": "abZqeam",
+    "name": "Araucalinea",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/araucalinea/?hl=de",
+    "email": "slaklife@gmail.com",
+    "facebookPage": "https://www.facebook.com/Araucalinea/"
+  },
+  {
+    "id": "LeDEPsh",
+    "name": "Danish Slackline Association",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slackline_cph/",
+    "email": "DK.slackline@protonmail.com",
+    "webpage": "https://slacklines.dk/",
+    "facebookPage": "https://www.facebook.com/DK.slackline/"
+  },
+  {
+    "id": "apSIxux",
+    "name": "Asociación de Slackline Highlife Peru",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/highlife.peru/?hl=de",
+    "facebookPage": "https://www.facebook.com/highlifeperu/?locale=es_LA"
+  },
+  {
+    "id": "HsZ5OOG",
+    "name": "Slacktitud Cero",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/slacktitudcero/?hl=de",
+    "email": "slacktitudcero@gmail.com",
+    "facebookPage": "https://www.facebook.com/slacktitud/"
+  },
+  {
+    "id": "JFV89LO",
+    "name": "Parislack Association",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/parislack_asso/?hl=de",
+    "email": "parislack.asso@gmail.com",
+    "webpage": "https://www.helloasso.com/associations/parislack",
+    "facebookGroup": "https://www.facebook.com/groups/137606633030898/"
+  },
+  {
+    "id": "c4Fs2lx",
     "name": "Paradise Highline Community",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
@@ -10848,56 +10836,49 @@
     "webpage": "https://paradisehighlines.com/contact-us",
     "facebookGroup": "https://www.facebook.com/groups/464646251041641"
   },
-  { 
-  "id": "1nNi7Ka",
-  "name": "FQSH",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/f.q.s.h/?hl=de",
-  "email": "highline.quebec@gmail.com",
-  "webpage": "https://fqsh.ca/",
-  "facebookPage": "https://www.facebook.com/FQSHofficial"
-},
-{
-  "id": "R8XXZHA",
-  "name": "Associação Mineira de Slackline",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "associacaomineiraslackline@gmail.com",
-  "facebookPage": "https://www.facebook.com/associacaomineiradeslackline/?locale=hi_IN"
-},
-{
-  "id": "w3HRRnp",
-  "name": "Associação Slackline Pouso Alegre - ASPA",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "facebookGroup": "https://www.facebook.com/groups/171296479593796/"
-},
-{
-  "id": "gHVao7_",
-  "name": "Choose Life Team",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "fchooselife@gmail.com"
-},
-{
-  "id": "FTsRD0x",
-  "name": "Monstros do Lago",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "monstroslago@gmail.com"
-},
-{ 
-  "id": "cgj-1SS",
-  "name": "BLOACS",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/bloacs/",
-  "email": "info@bloacs.de",
-  "webpage": "https://bloacs.de/kontakt/"
-},
-{
-  "id": "r5uyhOJ",
+  {
+    "id": "1nNi7Ka",
+    "name": "FQSH",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/f.q.s.h/?hl=de",
+    "email": "highline.quebec@gmail.com",
+    "webpage": "https://fqsh.ca/",
+    "facebookPage": "https://www.facebook.com/FQSHofficial"
+  },
+  {
+    "id": "R8XXZHA",
+    "name": "Associação Mineira de Slackline",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "associacaomineiraslackline@gmail.com",
+    "facebookPage": "https://www.facebook.com/associacaomineiradeslackline/?locale=hi_IN"
+  },
+  {
+    "id": "gHVao7_",
+    "name": "Choose Life Team",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "fchooselife@gmail.com"
+  },
+  {
+    "id": "FTsRD0x",
+    "name": "Monstros do Lago",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "monstroslago@gmail.com"
+  },
+  {
+    "id": "cgj-1SS",
+    "name": "BLOACS",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/bloacs/",
+    "email": "info@bloacs.de",
+    "webpage": "https://bloacs.de/kontakt/"
+  },
+  {
+    "id": "r5uyhOJ",
     "name": "Hownottohighline",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
@@ -10906,18 +10887,18 @@
     "webpage": "https://www.hownot2.com/"
   },
   {
-  "id": "wAeke7U",
-  "name": "Ru-Slack",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "instagram": "https://www.instagram.com/ru_slack/",
-  "email": "info@ru-slack.co.uk",
-  "webpage": "https://ru-slack.co.uk/about",
-  "facebookPage": "https://www.facebook.com/Whosslack/"
-},
+    "id": "wAeke7U",
+    "name": "Ru-Slack",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "instagram": "https://www.instagram.com/ru_slack/",
+    "email": "info@ru-slack.co.uk",
+    "webpage": "https://ru-slack.co.uk/about",
+    "facebookPage": "https://www.facebook.com/Whosslack/"
+  },
 
-{
-  "id": "XLG-TJ4",
+  {
+    "id": "XLG-TJ4",
     "name": "Gibbon",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
@@ -10987,15 +10968,15 @@
     "facebookPage": "https://www.facebook.com/slackhouse.official/?locale=de_DE"
   },
   {
-  "id": "Q12VKYu",
-  "name": "Linegrip",
-  "createdDateTime": "2023-09-26",
-  "updatedDateTime": "2023-09-26",
-  "email": "info@linegrip.com",
-  "webpage": "https://www.linegrip.com/about-us/"
-},
-{
-  "id": "UgsySzm",
+    "id": "Q12VKYu",
+    "name": "Linegrip",
+    "createdDateTime": "2023-09-26",
+    "updatedDateTime": "2023-09-26",
+    "email": "info@linegrip.com",
+    "webpage": "https://www.linegrip.com/about-us/"
+  },
+  {
+    "id": "UgsySzm",
     "name": "A Zero",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
@@ -11011,41 +10992,41 @@
     "instagram": "https://www.instagram.com/theslackinovshop/",
     "email": "info@slack-inov.com",
     "webpage": "https://slack-inov.com/shop/en/",
-    "facebookPage": "https://www.facebook.com/slack.inov/"    
+    "facebookPage": "https://www.facebook.com/slack.inov/"
   },
-   {
+  {
     "id": "82QOfTX",
     "name": "FISpT - Federazione Italiana Sport per Tutti",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
-        "email": "info@fispt.it",
+    "email": "info@fispt.it",
     "webpage": "http://www.fispt.it/",
-    "facebookPage": "https://www.facebook.com/FederazioneItalianaSportPerTutti/"    
+    "facebookPage": "https://www.facebook.com/FederazioneItalianaSportPerTutti/"
   },
   {
     "id": "IYYZzk5",
     "name": "Siebert Consulting",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
-        "email": "info@siebert.at",
-    "webpage": "http://www.siebert.at/"    
+    "email": "info@siebert.at",
+    "webpage": "http://www.siebert.at/"
   },
-   {
+  {
     "id": "dm_Mhhy",
     "name": "Block Materialprüfung",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
-        "email": "info@block-quality.com",
-    "webpage": "https://block-quality.com/"    
+    "email": "info@block-quality.com",
+    "webpage": "https://block-quality.com/"
   },
-   {
+  {
     "id": "rU-MykF",
     "name": "Souz Slackline",
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
-    "webpage": "https://vk.com/souzslackline"    
+    "webpage": "https://vk.com/souzslackline"
   },
-    {
+  {
     "id": "4WqTfWH",
     "name": "Slacklife Inc.",
     "createdDateTime": "2023-09-26",
@@ -11053,7 +11034,7 @@
     "instagram": "https://www.instagram.com/slacklifeinc/?hl=en",
     "email": "slacklife.balance@gmail.com",
     "webpage": "https://www.slacklife.in/",
-    "facebookPage": "https://www.facebook.com/slacklifeinc"  
+    "facebookPage": "https://www.facebook.com/slacklifeinc"
   },
   {
     "id": "KfgYhGP",
@@ -11073,7 +11054,7 @@
     "instagram": "https://www.instagram.com/slackvirus/",
     "email": "slackvirus2@gmail.com"
   },
-   {
+  {
     "id": "g2SHr9R",
     "name": "Firmament Fundation",
     "createdDateTime": "2023-09-26",
@@ -11107,7 +11088,7 @@
     "instagram": "https://www.instagram.com/highline.ng",
     "email": "ng.highline@gmail.com"
   },
-    {
+  {
     "id": "qC5dBFY",
     "name": "Associação Slackline Pouso Alegre - ASPA",
     "createdDateTime": "2023-09-26",
@@ -11129,5 +11110,12 @@
     "updatedDateTime": "2023-09-26",
     "webpage": "https://yogaslackers.com/",
     "instagram": "https://www.instagram.com/yogaslackers/"
+  },
+  {
+    "id": "W6TPick",
+    "name": "Lille",
+    "createdDateTime": "2023-04-10",
+    "updatedDateTime": "2023-04-10",
+    "facebookGroup": "https://www.facebook.com/groups/slacklille/"
   }
 ]
