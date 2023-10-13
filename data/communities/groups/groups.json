@@ -471,13 +471,6 @@
     "facebookGroup": "https://www.facebook.com/groups/889032734481958/"
   },
   {
-    "id": "-PCOJwA",
-    "name": "National Association: Slackline Verband",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/SlacklineVerband"
-  },
-  {
     "id": "xj8P7OR",
     "name": "Slackline.at",
     "createdDateTime": "2020-05-09",
@@ -10451,6 +10444,7 @@
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
     "email": "info@slacklineverband.com",
+    "facebookPage": "https://www.facebook.com/SlacklineVerband",
     "webpage": "https://www.slacklineverband.com/"
   },
   {
