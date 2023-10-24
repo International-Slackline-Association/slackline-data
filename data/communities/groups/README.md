@@ -51,7 +51,7 @@ interface Feature {
     type: "Feature", // fixed value 
     properties: {
         id: string, // matching id in groups.json
-        ft: "sg", // fixed value for slackmap map view
+        ft: "sg" | "isaM", // either slackline group or ISA member
         c: string, // country code in ISO 3166-1 alpha-2 format
     },
     geometry: {
