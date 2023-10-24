@@ -27,10 +27,6 @@
         "type": "string",
         "enum": ["active", "observer", "partner", "associate"]
       },
-      "joinedDate": {
-        "type": "string",
-        "format": "date"
-      },
       "infoUrl": {
         "type": "string",
         "format": "uri"
@@ -39,6 +35,10 @@
         "type": "string",
         "minLength": 7,
         "maxLength": 7
+      },
+      "profilePictureUrl": {
+        "type": "string",
+        "format": "uri"
       }
     },
     "required": ["name", "email", "country", "memberType"],
