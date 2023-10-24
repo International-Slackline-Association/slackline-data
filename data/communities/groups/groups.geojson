@@ -13,6 +13,11 @@
     },
     {
       "type": "Feature",
+      "properties": { "id": "LkbXDFJ", "ft": "isaM", "c": "DE" },
+      "geometry": { "type": "Point", "coordinates": [13.7860491, 51.0183321] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "SnL8_wx", "ft": "sg", "c": "AL" },
       "geometry": { "type": "Point", "coordinates": [20.104, 40.902] }
     },
