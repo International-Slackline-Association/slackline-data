@@ -4863,7 +4863,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "YQ-cBXk", "ft": "sg", "c": "CH" },
+      "properties": { "id": "YQ-cBXk", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [6.632, 46.52] }
     },
     {
