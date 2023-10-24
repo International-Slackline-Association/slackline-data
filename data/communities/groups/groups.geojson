@@ -7311,57 +7311,57 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "6hfQLE_", "ft": "isaM" },
+      "properties": { "id": "6hfQLE_", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.694, 47.316] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "KTvMUqn", "ft": "isaM" },
+      "properties": { "id": "KTvMUqn", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.704, 46.265] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "WbOxezI", "ft": "isaM" },
+      "properties": { "id": "WbOxezI", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [8.765, 47.433] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "wtkvZSL", "ft": "isaM" },
+      "properties": { "id": "wtkvZSL", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.221, 47.371] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "EL6hhEI", "ft": "isaM" },
+      "properties": { "id": "EL6hhEI", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.018, 46.548] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "hogXx1Q", "ft": "isaM" },
+      "properties": { "id": "hogXx1Q", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.337, 46.936] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "db8zLHu", "ft": "isaM" },
+      "properties": { "id": "db8zLHu", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.457, 46.958] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "mnNM5Dz", "ft": "isaM" },
+      "properties": { "id": "mnNM5Dz", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [8.362, 46.963] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "lRAUXNU", "ft": "isaM" },
+      "properties": { "id": "lRAUXNU", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [8.85, 46.179] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "Yfc1gDn", "ft": "isaM" },
+      "properties": { "id": "Yfc1gDn", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [8.321, 46.719] }
     },
     {
       "type": "Feature",
-      "properties": { "id": "aM4MSyf", "ft": "isaM" },
+      "properties": { "id": "aM4MSyf", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.445, 46.966] }
     },
     {
