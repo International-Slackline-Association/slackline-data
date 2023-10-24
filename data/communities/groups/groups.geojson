@@ -4808,7 +4808,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "YpNb23_", "ft": "sg", "c": "CH" },
+      "properties": { "id": "YpNb23_", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.441, 46.939] }
     },
     {
