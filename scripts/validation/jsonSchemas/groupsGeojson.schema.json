@@ -28,7 +28,7 @@
               },
               "ft": {
                 "type": "string",
-                "enum": ["sg"]
+                "enum": ["sg", "isaM"]
               },
               "c": {
                 "type": "string",

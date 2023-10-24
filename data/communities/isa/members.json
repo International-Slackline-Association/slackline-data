@@ -1,1126 +1,1008 @@
 [
- {
-   "name": "Slackline Verband austria",
-   "email": "info@slacklineverband.com",
-   "country": "AT",
-   "memberType": "active",
-   "infoUrl": "https://slacklineverband.com/",
-   "joinedDate": "2015-09-23",
-   "groupId": "6lgHBQK"
- },
- {
-   "name": "Slackline U.S.",
-   "email": "info@slackline.us",
-   "country": "US",
-   "memberType": "active",
-   "infoUrl": "https://slackline.us/",
-   "joinedDate": "2015-09-23",
-   "groupId": "itHEe7U"
- },
- {
-   "name": "Swiss Slackline",
-   "email": "info@swiss-slackline.ch",
-   "country": "CH",
-   "memberType": "active",
-   "infoUrl": "https://swiss-slackline.ch/",
-   "joinedDate": "2015-09-23",
-   "groupId": "M21SOVj"
- },
- {
-   "name": "Deutscher Slacklineverband e.V.",
-   "email": "info@deutscherslacklineverband.org",
-   "country": "DE",
-   "memberType": "active",
-   "infoUrl": "https://deutscherslacklineverband.org/",
-   "joinedDate": "2015-09-23",
-   "groupId": "sdpUacw"
- },
- {
-   "name": "Federación de Slackline Chile - Feslach",
-   "email": "federacionslacklinechile@gmail.com",
-   "country": "CL",
-   "memberType": "active",
-   "joinedDate": "2017-08-23",
-   "groupId": "-B2edMV"
- },
- {
-   "name": "Canadian Slackline Association",
-   "email": "slacklinecanada@gmail.com",
-   "country": "CA",
-   "memberType": "active",
-   "joinedDate": "2017-08-23",
-   "groupId": "Zsx7W2D"
- },
- {
-   "name": "Iran Slackline",
-   "email": "iranslackline@gmail.com",
-   "country": "IR",
-   "memberType": "active",
-   "joinedDate": "2019-08-23",
-   "groupId": "4cYLFoC"
- },
- {
-   "name": "Slackline Dernegi",
-   "email": "info@slackline.org.tr",
-   "country": "TR",
-   "memberType": "active",
-   "infoUrl": "https://slackline.org.tr/",
-   "joinedDate": "2019-08-23",
-   "groupId": "Y1coFqr"
- },
- {
-   "name": "Japan Slackline Federation",
-   "email": "info@jsfed.jp",
-   "country": "JP",
-   "memberType": "active",
-   "infoUrl": "https://jsfed.jp/",
-   "joinedDate": "2018-08-23",
-   "groupId": "oYr9BsN"
- },
- {
-   "name": "SlackNED",
-   "email": "info@slackned.nl",
-   "country": "NL",
-   "memberType": "active",
-   "infoUrl": "https://slackned.nl/",
-   "joinedDate": "2019-08-23",
-   "groupId": "91oL8WX"
- },
- {
-   "name": "Australian Slacklining Association Inc.",
-   "email": "info@slacklining.org.au",
-   "country": "AU",
-   "memberType": "active",
-   "infoUrl": "https://slacklining.org.au/",
-   "joinedDate": "2019-08-23",
-   "groupId": "-KXQ2Cp"
- },
- {
-   "name": "Czech Slackline Association",
-   "email": "info@ceska-asociace-slackline.cz",
-   "country": "CZ",
-   "memberType": "active",
-   "infoUrl": "https://ceska-asociace-slackline.cz/",
-   "joinedDate": "2020-08-23",
-   "groupId": "vgxi7jN"
- },
- {
-   "name": "Slackline Finland",
-   "email": "slackline.finland.ry@gmail.com",
-   "country": "FI",
-   "memberType": "active",
-   "joinedDate": "2020-08-23",
-   "groupId": "SGb6rCp"
- },
- {
-   "name": "SlacklineLV",
-   "email": "slacklinelv@gmail.com",
-   "country": "LT",
-   "memberType": "active",
-   "joinedDate": "2020-08-23",
-   "groupId": "_gWv0QE"
- },
- {
-   "name": "Slackline Lietuva",
-   "email": "info@alternatyviai.lt",
-   "country": "LV",
-   "memberType": "active",
-   "infoUrl": "https://alternatyviai.lt/",
-   "joinedDate": "2020-08-23",
-   "groupId": "X445ynp"
- },
- {
-   "name": "Slackline INDIA",
-   "email": "indianslacklineorg@gmail.com",
-   "country": "IN",
-   "memberType": "active",
-   "joinedDate": "2020-08-23",
-   "groupId": "WKVBMAm"
- },
- {
-   "name": "Asociación Mexicana de Slackline",
-   "email": "info@slackline.org.mx",
-   "country": "MX",
-   "memberType": "active",
-   "infoUrl": "https://slackline.org.mx/",
-   "joinedDate": "2020-08-23",
-   "groupId": "opHJmff"
- },
- {
-   "name": "The UK Slackline Club",
-   "email": "admin@ukslacklineclub.com",
-   "country": "GB",
-   "memberType": "active",
-   "infoUrl": "https://ukslacklineclub.com/",
-   "joinedDate": "2020-08-23",
-   "groupId": "AEQ0QGQ"
- },
- {
-   "name": "Step Slackliners Armenia",
-   "email": "stepslacklinersarmenia@gmail.com",
-   "country": "AM",
-   "memberType": "active",
-   "joinedDate": "2020-08-23",
-   "groupId": "0MBeRo3"
- },
- {
-   "name": "Slovak Slackline Association ",
-   "email": "Info@slacklineslovakia.sk",
-   "country": "SK",
-   "memberType": "active",
-   "infoUrl": "https://slacklineslovakia.sk/",
-   "joinedDate": "2022-08-23",
-   "groupId": "CoTyLJc"
- },
- {
-   "name": "ASER Asociación de Slackline y Equilibrio Rosario",
-   "email": "aserslackline@gmail.com",
-   "country": "AR",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "UU7eFi6"
- },
- {
-   "name": "Basel City Slackliners",
-   "email": "Info@baselcityslackliners.com",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://baselcityslackliners.com/",
-   "joinedDate": "2015-08-23",
-   "groupId": "oDUQNBU"
- },
- {
-   "name": "BeSlack",
-   "email": "info@beslack.be",
-   "country": "BE",
-   "memberType": "observer",
-   "infoUrl": "https://beslack.be/",
-   "joinedDate": "2019-08-23",
-   "groupId": "TzwooLu"
- },
- {
-   "name": "Heustock Bern",
-   "email": "heustockbern@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2019-08-23",
-   "groupId": "hogXx1Q"
- },
- {
-   "name": "Jura Slack",
-   "email": "juraslack.ch@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2018-08-23",
-   "groupId": "wtkvZSL"
- },
- {
-   "name": "Larmichettes Bules",
-   "email": "larmichettescrew@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2015-08-23",
-   "groupId": "Y-Cx3eu"
- },
- {
-   "name": "Move Copenhagen",
-   "email": "mail@movecph.com",
-   "country": "DK",
-   "memberType": "observer",
-   "infoUrl": "https://movecph.com/",
-   "joinedDate": "2016-08-23",
-   "groupId": "X-aAHYm"
- },
- {
-   "name": "Move Moleson (The Highline Extreme)",
-   "email": "thehighlineextreme@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2018-08-23",
-   "groupId": "EL6hhEI"
- },
- {
-   "name": "Move Switzerland (Bern Moves)",
-   "email": "info@bernmoves.com",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://bernmoves.com/",
-   "joinedDate": "2016-08-23",
-   "groupId": "aM4MSyf"
- },
- {
-   "name": "Pushing panda",
-   "email": "dadenk.mulyana@gmail.com",
-   "country": "ID",
-   "memberType": "observer",
-   "joinedDate": "2016-08-23",
-   "groupId": "rQ8vf_R"
- },
- {
-   "name": "Slack is Goudes",
-   "email": "slackisgoudes@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2019-08-23",
-   "groupId": "8_FRD2U"
- },
- {
-   "name": "Slack Vitality Balsthal",
-   "email": "info.slackvitality@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2015-08-23",
-   "groupId": "6hfQLE_"
- },
- {
-   "name": "Slack4fun",
-   "email": "info@slack4fun.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://slack4fun.ch/",
-   "joinedDate": "2016-08-23",
-   "groupId": "KTvMUqn"
- },
- {
-   "name": "Slackattack - Slackline Crew Bern",
-   "email": "info@slackattack.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://slackattack.ch/",
-   "joinedDate": "2015-08-23",
-   "groupId": "eEL9eqK"
- },
- {
-   "name": "Slackicimes",
-   "email": "slackicimes@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "_Eu7RdK"
- },
- {
-   "name": "Slacklife Merida",
-   "email": "slacklifemerida@gmail.com",
-   "country": "MX",
-   "memberType": "observer",
-   "joinedDate": "2017-08-23",
-   "groupId": "WAHlOeL"
- },
- {
-   "name": "Slackline Berlin e.V.",
-   "email": "slacklineverein.berlin@gmail.com",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "P_x1VmM"
- },
- {
-   "name": "Slackline Dresden e.V.",
-   "email": "info@slackline-dresden.de",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-dresden.de/",
-   "joinedDate": "2021-08-23",
-   "groupId": "CHRKCD8"
- },
- {
-   "name": "Slackline Genève",
-   "email": "associationslacklinegeneve@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2015-08-23",
-   "groupId": "j2qCndy"
- },
- {
-   "name": "Slackline Hamburg e.V.",
-   "email": "hallo@slackline-hamburg.org",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-hamburg.org/",
-   "joinedDate": "2021-08-23",
-   "groupId": "sE8n9Y0"
- },
- {
-   "name": "Slackline Salzburg",
-   "email": "verein@slackline-salzburg.at",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-salzburg.at/",
-   "joinedDate": "2021-08-23",
-   "groupId": "cxySuPl"
- },
- {
-   "name": "Slackline Stuttgart e.V.",
-   "email": "slackline.stuttgart@gmail.com",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "M8EJZPf"
- },
- {
-   "name": "Slackline Valais",
-   "email": "info@slackline-valais.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-valais.ch/",
-   "joinedDate": "2015-08-23",
-   "groupId": "Nj2o4dB"
- },
- {
-   "name": "Slackline Vorarlberg",
-   "email": "info@slackline-vorarlberg.net",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-vorarlberg.net/",
-   "joinedDate": "2021-08-23",
-   "groupId": "VpVPLGN"
- },
- {
-   "name": "Slackline Weisslingen",
-   "email": "rolf.boss@meta-bau.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://meta-bau.ch/",
-   "joinedDate": "2017-08-23",
-   "groupId": "WbOxezI"
- },
- {
-   "name": "slackline.at",
-   "email": "vorstand@slackline.at",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://slackline.at/",
-   "joinedDate": "2021-08-23",
-   "groupId": "xj8P7OR"
- },
- {
-   "name": "SlackLiner Halle e.V.",
-   "email": "slackliner.halle@gmail.com",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "1yd3iGe"
- },
- {
-   "name": "Slacklining Bremen e.V.",
-   "email": "slackline.bremenev@gmail.com",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "NXEyVKf"
- },
- {
-   "name": "Slacklions Zürich",
-   "email": "slackline.zurich@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://slacklions.ch/",
-   "joinedDate": "2015-08-23",
-   "groupId": "4W0S5f0"
- },
- {
-   "name": "Slacknetz Leipzig e.V.",
-   "email": "Info@slacknetzleipzig.de",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slacknetzleipzig.de/",
-   "joinedDate": "2021-08-23",
-   "groupId": "g5IwO_n"
- },
- {
-   "name": "Team Balance",
-   "email": "slackline@teambalance.at",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://teambalance.at/",
-   "joinedDate": "2015-08-23",
-   "groupId": "XfkADhx"
- },
- {
-   "name": "Tiroliners - Slacklinen in Tirol",
-   "email": "info@tiroliners.at",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://tiroliners.at",
-   "joinedDate": "2021-08-23",
-   "groupId": "1eMHAMZ"
- },
- {
-   "name": "Vienna Slackliners",
-   "email": "info@vienna-slackliners.at",
-   "country": "AT",
-   "memberType": "observer",
-   "infoUrl": "https://vienna-slackliners.at/",
-   "joinedDate": "2016-08-23",
-   "groupId": "eHVmeHE"
- },
- {
-   "name": "Slackline Tübingen",
-   "email": "tuebingen@deutscherslacklineverband.org",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://deutscherslacklineverband.org/",
-   "joinedDate": "2021-08-23",
-   "groupId": "ETOwsUi"
- },
- {
-   "name": "Libera Tu Mono",
-   "email": "contacto@liberatumono.com",
-   "country": "CL",
-   "memberType": "observer",
-   "infoUrl": "https://liberatumono.com/",
-   "joinedDate": "2017-08-23",
-   "groupId": "OBFh-ac"
- },
- {
-   "name": "Highline Velho Oeste",
-   "email": "highlinevelhooeste@hotmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "iWwo2I1"
- },
- {
-   "name": "Slackline Köln e.V.",
-   "email": "mail@slackline-koeln.org",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-koeln.org/",
-   "joinedDate": "2021-08-23",
-   "groupId": "lZjm9uY"
- },
- {
-   "name": "Slack'n Jump Familly",
-   "email": "slacknjumpfamilly@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2019-08-23",
-   "groupId": "1LN5IKQ"
- },
- {
-   "name": "Slackline Ingolstadt e.V.",
-   "email": "info@slackline-ingolstadt.de",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-ingolstadt.de/",
-   "joinedDate": "2021-08-23",
-   "groupId": "p5MMFEM"
- },
- {
-   "name": "Swiss Highline",
-   "email": "info@swiss-highline.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://swiss-highline.ch/",
-   "joinedDate": "2021-08-23",
-   "groupId": "_UTwLW5"
- },
- {
-   "name": "Konnektonauten e.V.",
-   "email": "konnektonauten@gmail.com",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "BacrSs7"
- },
- {
-   "name": "Slackline Dublin",
-   "email": "slacklinedublin@gmail.com",
-   "country": "IE",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "FbJWLsL"
- },
- {
-   "name": "Slackline Bologna A.S.D.",
-   "email": "slacklinebologna@gmail.com",
-   "country": "IT",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "wP9zJ47"
- },
- {
-   "name": "Pro Dalmazi",
-   "email": "info@prodalmazi.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://prodalmazi.ch/",
-   "joinedDate": "2021-08-23",
-   "groupId": "db8zLHu"
- },
- {
-   "name": "Slackline Lille",
-   "email": "slacklille@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2016-08-23",
-   "groupId": "eXMPRhk"
- },
- {
-   "name": "Tenochtitline",
-   "email": "tenochtitline@gmail.com",
-   "country": "MX",
-   "memberType": "observer",
-   "joinedDate": "2017-08-23",
-   "groupId": "yYIb2CP"
- },
- {
-   "name": "Ca Slack Houle Douce",
-   "email": "houledouce@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "infoUrl": "https://houledouce.com/",
-   "joinedDate": "2018-08-23",
-   "groupId": "dfvn_G5"
- },
- {
-   "name": "Slack'a'lot",
-   "email": "slackalot@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2019-08-23",
-   "groupId": "dt0DGtJ"
- },
- {
-   "name": "Slackvibe ABC",
-   "email": "zap.rgs@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2019-08-23",
-   "groupId": "Eih8T8e"
- },
- {
-   "name": "Slackline Sicilia",
-   "email": "slacklinesicilia@gmail.com",
-   "country": "IT",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "clhzQDz"
- },
- {
-   "name": "Slackline Roma",
-   "email": "slackroma@gmail.com",
-   "country": "IT",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "_4K7RBX"
- },
- {
-   "name": "Slackline Rhein-Main e.V.",
-   "email": "info@slackline-rhein-main.de",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slackline-rhein-main.de/",
-   "joinedDate": "2021-08-23",
-   "groupId": "61yVNjZ"
- },
- {
-   "name": "TIslacco",
-   "email": "info@tislacco.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://tislacco.ch/",
-   "joinedDate": "2021-08-23",
-   "groupId": "lRAUXNU"
- },
- {
-   "name": "Highline Unterwalden",
-   "email": "highline-unterwalden@outlook.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "mnNM5Dz"
- },
- {
-   "name": "vierwaldslackers.ch",
-   "email": "info@vierwaldslackers.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://vierwaldslackers.ch/",
-   "joinedDate": "2021-08-23",
-   "groupId": "ZxUDHql"
- },
- {
-   "name": "Grischa Slack",
-   "email": "info@grischaslack.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://grischaslack.ch/",
-   "joinedDate": "2021-08-23",
-   "groupId": "tjh51qH"
- },
- {
-   "name": "Sardinia Slackline",
-   "email": "sardiniaslackline@gmail.com",
-   "country": "IT",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "3mrTo77"
- },
- {
-   "name": "University of Southampton Slackline Society",
-   "email": "slacksoc@soton.ac.uk",
-   "country": "GB",
-   "memberType": "observer",
-   "infoUrl": "https://southampton.ac.uk/",
-   "joinedDate": "2021-08-23",
-   "groupId": "hsHKr7w"
- },
- {
-   "name": "Slackline Freiburg e. V. ",
-   "email": "kontakt@slacklinefreiburg.de",
-   "country": "DE",
-   "memberType": "observer",
-   "infoUrl": "https://slacklinefreiburg.de/",
-   "joinedDate": "2022-08-24",
-   "groupId": "IOHXG68"
- },
- {
-   "name": "SlackMonks Loja",
-   "email": "slacklineloja84@gmail.com",
-   "country": "EC",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "ztxhnkh"
- },
- {
-   "name": "SLACKVENTURE",
-   "email": "slackventure.kng@gmail.com",
-   "country": "ID",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "9MGq9Fy"
- },
- {
-   "name": "LEMUR SLACKLINES",
-   "email": "cellusmar@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "d6pT-Os"
- },
- {
-   "name": "Slackline Kentucky",
-   "email": "slacklinekentucky@gmail.com",
-   "country": "US",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "c5Q_j5f"
- },
- {
-   "name": "Slack sem Fronteiras",
-   "email": "slacksemfronteiras@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "qqfcTrG"
- },
- {
-   "name": "Araucalinea",
-   "email": "slaklife@gmail.com",
-   "country": "CL",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "abZqeam"
- },
- {
-   "name": "Danish Slackline Association",
-   "email": "DK.slackline@protonmail.com",
-   "country": "DK",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "LeDEPsh"
- },
- {
-   "name": "Asociación de Slackline Highlife Peru",
-   "email": "highlife.pe@gmail.com",
-   "country": "PE",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "apSIxux"
- },
- {
-   "name": "Slako Colombia ",
-   "email": "slakocolombia@gmail.com",
-   "country": "CO",
-   "memberType": "observer",
-   "joinedDate": "2020-08-23",
-   "groupId": "ods9W8X"
- },
- {
-   "name": "Federazione Italiana Sport per Tutti",
-   "email": "presidente@fispt.it",
-   "country": "IT",
-   "memberType": "observer",
-   "infoUrl": "https://fispt.it/",
-   "joinedDate": "2022-08-24",
-   "groupId": "82QOfTX"
- },
- {
-   "name": "Slackline Bolivia",
-   "email": "highlinebolivia@gmail.com",
-   "country": "BO",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "90D_NWW"
- },
- {
-   "name": "Slackattack Thun",
-   "email": "info@slackattack.ch",
-   "country": "CH",
-   "memberType": "observer",
-   "infoUrl": "https://slackattack.ch/",
-   "joinedDate": "2022-08-24",
-   "groupId": "Fu1pvz3"
- },
- {
-   "name": "Käppeli Kollektiv",
-   "email": "kappeli.kollektiv@gmail.com",
-   "country": "CH",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "Yfc1gDn"
- },
- {
-   "name": "Slacklife Russia",
-   "email": "slacklife.ru@gmail.com",
-   "country": "RU",
-   "memberType": "observer",
-   "joinedDate": "2017-08-23",
-   "groupId": "4RvFeH2"
- },
- {
-   "name": "Slacktitud Cero ",
-   "email": "slacktitudcero@gmail.com",
-   "country": "EC",
-   "memberType": "observer",
-   "joinedDate": "2022-08-24",
-   "groupId": "HsZ5OOG"
- },
- {
-   "name": "Christchurch Slackline",
-   "email": "christchurch.slackline@gmail.com",
-   "country": "NZ",
-   "memberType": "observer",
-   "joinedDate": "2018-08-23",
-   "groupId": "UVddnif"
- },
- {
-   "name": "Toronto Slackline",
-   "email": "torontoslacklinecommunity@gmail.com",
-   "country": "CA",
-   "memberType": "observer",
-   "joinedDate": "2018-08-23",
-   "groupId": "NI8iVf2"
- },
- {
-   "name": "Slackline Brandenburg",
-   "email": "",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "qDyzCg_"
- },
- {
-   "name": "Slackline München e.V.",
-   "email": "",
-   "country": "DE",
-   "memberType": "observer",
-   "joinedDate": "2021-08-23",
-   "groupId": "eKOabhu"
- },
- {
-   "name": "SlackAlien",
-   "email": "slackalien.info@gmail.com",
-   "country": "SI",
-   "memberType": "associate",
-   "joinedDate": "2023-08-23",
-   "groupId": "FUvJBSz"
- },
- {
-   "name": "Firmament Fundation",
-   "email": "fundacjafirmament@gmail.com",
-   "country": "PL",
-   "memberType": "associate",
-   "joinedDate": "2023-08-23",
-   "groupId": "g2SHr9R"
- },
- {
-   "name": "SlackVirus ",
-   "email": "slackvirus2@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "CJIbaTD"
- },
- {
-   "name": "Equilibre Paris",
-   "email": "equilibreidf@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "hKWgGKz"
- },
- {
-   "name": "Slackline Liguria ASD",
-   "email": "slacklineliguria@gmail.com",
-   "country": "IT",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "orTpFUm"
- },
- {
-   "name": "Parislack Association",
-   "email": "parislack.asso@gmail.com",
-   "country": "FR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "JFV89LO"
- },
- {
-   "name": "FQSH ",
-   "email": "highline.quebec@gmail.com",
-   "country": "CA",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "1nNi7Ka"
- },
- {
-   "name": "Associação Mineira de Slackline",
-   "email": "associacaomineiraslackline@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "eEL9eqK"
- },
- {
-   "name": "Associação Slackline Pouso Alegre - ASPA",
-   "email": "",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "qC5dBFY"
- },
- {
-   "name": "Piscinão da Penha",
-   "email": "piscinaodapenha@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "5ZS2c_O"
- },
- {
-   "name": "Choose Life Team",
-   "email": "fchooselife@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "gHVao7_"
- },
- {
-   "name": "Monstros do Lago",
-   "email": "monstroslago@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "FTsRD0x"
- },
- {
-   "name": "Nova Geração RJ",
-   "email": "ng.highline@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "ig50Hgo"
- },
- {
-   "name": "Vulcano slacklife",
-   "email": "slacklifevulcano@gmail.com",
-   "country": "BR",
-   "memberType": "observer",
-   "joinedDate": "2023-08-23",
-   "groupId": "m8zvynO"
- },
- {
-   "name": "Temetline",
-   "email": "info@temetline.com",
-   "country": "IR",
-   "memberType": "partner",
-   "infoUrl": "https://temetline.co",
-   "joinedDate": "2021-02-04",
-   "groupId": "z3KxWM1"
- },
- {
-   "name": "Yogaslackers",
-   "email": "YogaSlackers@gmail.com",
-   "country": "US",
-   "memberType": "partner",
-   "infoUrl": "https://yogaslackers.com/",
-   "joinedDate": "2020-11-30",
-   "groupId": "072jkev"
- },
- {
-   "name": "Balsana Slackline",
-   "email": "info@balansa-slackline.com",
-   "country": "SI",
-   "memberType": "partner",
-   "infoUrl": "https://balansa.si/en/",
-   "joinedDate": "2020-01-06",
-   "groupId": "5Qfa-x3"
- },
- {
-   "name": "BLOACS",
-   "email": "info@bloacs.de",
-   "country": "DE",
-   "memberType": "partner",
-   "infoUrl": "http://bloacs.de",
-   "joinedDate": "2021-04-16",
-   "groupId": "cgj-1SS"
- },
- {
-   "name": "Hownottohighline",
-   "email": "info@slackline.com",
-   "country": "US",
-   "memberType": "partner",
-   "infoUrl": "https://www.hownottohighline.com/",
-   "groupId": "r5uyhOJ"
- },
- {
-   "name": "Slackline Australia",
-   "email": "info@slackline.com.au",
-   "country": "AU",
-   "memberType": "partner",
-   "infoUrl": "http://slackline.com.au/",
-   "joinedDate": "2016-08-25",
-   "groupId": "feS68Vt"
- },
- {
-   "name": "Ru-Slack",
-   "email": "info@ru-slack.co.uk",
-   "country": "GB",
-   "memberType": "partner",
-   "infoUrl": "https://ru-slack.co.uk",
-   "joinedDate": "2019-10-09",
-   "groupId": "wAeke7U"
- },
- {
-   "name": "Gibbon",
-   "email": "info@gibbon-slacklines.com",
-   "country": "DE",
-   "memberType": "partner",
-   "infoUrl": "https://gibbon-slacklines.com/en/",
-   "groupId": "XLG-TJ4"
- },
- {
-   "name": "Raed Slacklines",
-   "email": "info@raed-slacklines.com",
-   "country": "DE",
-   "memberType": "partner",
-   "infoUrl": "https://raed-slacklines.com/",
-   "groupId": "bWmXRJK"
- },
- {
-   "name": "Spider Slacklines",
-   "email": "info@spider-slacklines.com",
-   "country": "IT",
-   "memberType": "partner",
-   "infoUrl": "https://spider-slacklines.com/",
-   "groupId": "HxO-LAV"
- },
- {
-   "name": "Equilibrium Slacklines",
-   "email": "info@eqb.cz",
-   "country": "CZ",
-   "memberType": "partner",
-   "infoUrl": "https://eqb.cz/",
-   "groupId": "EQ12zZ4"
- },
- {
-   "name": "Slacktivity Slacklines",
-   "email": "info@slacktivity.ch",
-   "country": "CH",
-   "memberType": "partner",
-   "infoUrl": "https://slacktivity.com/",
-   "groupId": "IgII45c"
- },
- {
-   "name": "Balance Community",
-   "email": "info@balancecommunity.com",
-   "country": "US",
-   "memberType": "partner",
-   "infoUrl": "https://balancecommunity.com/",
-   "groupId": "1vfq9yE"
- },
- {
-   "name": "Slackhouse",
-   "email": "info@slackhouse.pl",
-   "country": "PL",
-   "memberType": "partner",
-   "infoUrl": "https://slackhouseshop.pl/",
-   "groupId": "6jf6fV2"
- },
- {
-   "name": "Slacklife",
-   "email": "slacklife.balance@gmail.com",
-   "country": "IN",
-   "memberType": "partner",
-   "infoUrl": "https://slacklife.in",
-   "groupId": "4WqTfWH"
- },
- {
-   "name": "Linegrip",
-   "email": "info@linegrip.com",
-   "country": "DE",
-   "memberType": "partner",
-   "infoUrl": "http://linegrip.com",
-   "groupId": "Q12VKYu"
- },
- {
-   "name": "A Zero",
-   "email": "a.zeroadm@gmail.com",
-   "country": "AR",
-   "memberType": "partner",
-   "infoUrl": "https://www.a-zero.com.ar/",
-   "groupId": "UgsySzm"
- },
- {
-   "name": "Slack Inov",
-   "email": "info@slack-inov.com",
-   "country": "FR",
-   "memberType": "partner",
-   "infoUrl": "https://slack-inov.com",
-   "groupId": "bP-mQfE"
- },
- {
-   "name": "Souz Slackline",
-   "email": "INFO@SOUZSLACKLINE.COM",
-   "country": "RU",
-   "memberType": "partner",
-   "infoUrl": "https://vk.com/souzslackline",
-   "groupId": "rU-MykF"
- },
- {
-   "name": "Radrigs",
-   "email": "info@radrigs.co.uk",
-   "country": "GB",
-   "memberType": "partner",
-   "infoUrl": "https://radrigs.co.uk/",
-   "groupId": "KfgYhGP"
- },
- {
-   "name": "Siebert Consulting",
-   "email": "info@siebert.at",
-   "country": "AT",
-   "memberType": "partner",
-   "infoUrl": "http://siebert.at/",
-   "groupId": "IYYZzk5"
- },
- {
-   "name": "Block Materialprüfung",
-   "email": "info@block-quality.com",
-   "country": "DE",
-   "memberType": "partner",
-   "infoUrl": "https://block-quality.com/",
-   "groupId": "dm_Mhhy"
- }
+  {
+    "name": "Slackline Verband austria",
+    "email": "info@slacklineverband.com",
+    "country": "AT",
+    "memberType": "active",
+    "infoUrl": "https://slacklineverband.com/",
+    "groupId": "6lgHBQK"
+  },
+  {
+    "name": "Slackline U.S.",
+    "email": "info@slackline.us",
+    "country": "US",
+    "memberType": "active",
+    "infoUrl": "https://slackline.us/",
+    "groupId": "itHEe7U"
+  },
+  {
+    "name": "Swiss Slackline",
+    "email": "info@swiss-slackline.ch",
+    "country": "CH",
+    "memberType": "active",
+    "infoUrl": "https://swiss-slackline.ch/",
+    "groupId": "M21SOVj"
+  },
+  {
+    "name": "Deutscher Slacklineverband e.V.",
+    "email": "info@deutscherslacklineverband.org",
+    "country": "DE",
+    "memberType": "active",
+    "infoUrl": "https://deutscherslacklineverband.org/",
+    "groupId": "sdpUacw"
+  },
+  {
+    "name": "Federación de Slackline Chile - Feslach",
+    "email": "federacionslacklinechile@gmail.com",
+    "country": "CL",
+    "memberType": "active",
+    "groupId": "-B2edMV"
+  },
+  {
+    "name": "Canadian Slackline Association",
+    "email": "slacklinecanada@gmail.com",
+    "country": "CA",
+    "memberType": "active",
+    "groupId": "Zsx7W2D"
+  },
+  {
+    "name": "Iran Slackline",
+    "email": "iranslackline@gmail.com",
+    "country": "IR",
+    "memberType": "active",
+    "groupId": "4cYLFoC"
+  },
+  {
+    "name": "Slackline Dernegi",
+    "email": "info@slackline.org.tr",
+    "country": "TR",
+    "memberType": "active",
+    "infoUrl": "https://slackline.org.tr/",
+    "groupId": "Y1coFqr"
+  },
+  {
+    "name": "Japan Slackline Federation",
+    "email": "info@jsfed.jp",
+    "country": "JP",
+    "memberType": "active",
+    "infoUrl": "https://jsfed.jp/",
+    "groupId": "oYr9BsN"
+  },
+  {
+    "name": "SlackNED",
+    "email": "info@slackned.nl",
+    "country": "NL",
+    "memberType": "active",
+    "infoUrl": "https://slackned.nl/",
+    "groupId": "91oL8WX"
+  },
+  {
+    "name": "Australian Slacklining Association Inc.",
+    "email": "info@slacklining.org.au",
+    "country": "AU",
+    "memberType": "active",
+    "infoUrl": "https://slacklining.org.au/",
+    "groupId": "-KXQ2Cp"
+  },
+  {
+    "name": "Czech Slackline Association",
+    "email": "info@ceska-asociace-slackline.cz",
+    "country": "CZ",
+    "memberType": "active",
+    "infoUrl": "https://ceska-asociace-slackline.cz/",
+    "groupId": "vgxi7jN"
+  },
+  {
+    "name": "Slackline Finland",
+    "email": "slackline.finland.ry@gmail.com",
+    "country": "FI",
+    "memberType": "active",
+    "groupId": "SGb6rCp"
+  },
+  {
+    "name": "SlacklineLV",
+    "email": "slacklinelv@gmail.com",
+    "country": "LT",
+    "memberType": "active",
+    "groupId": "_gWv0QE"
+  },
+  {
+    "name": "Slackline Lietuva",
+    "email": "info@alternatyviai.lt",
+    "country": "LV",
+    "memberType": "active",
+    "infoUrl": "https://alternatyviai.lt/",
+    "groupId": "X445ynp"
+  },
+  {
+    "name": "Slackline INDIA",
+    "email": "indianslacklineorg@gmail.com",
+    "country": "IN",
+    "memberType": "active",
+    "groupId": "WKVBMAm"
+  },
+  {
+    "name": "Asociación Mexicana de Slackline",
+    "email": "info@slackline.org.mx",
+    "country": "MX",
+    "memberType": "active",
+    "infoUrl": "https://slackline.org.mx/",
+    "groupId": "opHJmff"
+  },
+  {
+    "name": "The UK Slackline Club",
+    "email": "admin@ukslacklineclub.com",
+    "country": "GB",
+    "memberType": "active",
+    "infoUrl": "https://ukslacklineclub.com/",
+    "groupId": "AEQ0QGQ"
+  },
+  {
+    "name": "Step Slackliners Armenia",
+    "email": "stepslacklinersarmenia@gmail.com",
+    "country": "AM",
+    "memberType": "active",
+    "groupId": "0MBeRo3"
+  },
+  {
+    "name": "Slovak Slackline Association ",
+    "email": "Info@slacklineslovakia.sk",
+    "country": "SK",
+    "memberType": "active",
+    "infoUrl": "https://slacklineslovakia.sk/",
+    "groupId": "CoTyLJc"
+  },
+  {
+    "name": "ASER Asociación de Slackline y Equilibrio Rosario",
+    "email": "aserslackline@gmail.com",
+    "country": "AR",
+    "memberType": "observer",
+    "groupId": "UU7eFi6"
+  },
+  {
+    "name": "Basel City Slackliners",
+    "email": "Info@baselcityslackliners.com",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://baselcityslackliners.com/",
+    "groupId": "oDUQNBU"
+  },
+  {
+    "name": "BeSlack",
+    "email": "info@beslack.be",
+    "country": "BE",
+    "memberType": "observer",
+    "infoUrl": "https://beslack.be/",
+    "groupId": "TzwooLu"
+  },
+  {
+    "name": "Heustock Bern",
+    "email": "heustockbern@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "hogXx1Q"
+  },
+  {
+    "name": "Jura Slack",
+    "email": "juraslack.ch@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "wtkvZSL"
+  },
+  {
+    "name": "Larmichettes Bules",
+    "email": "larmichettescrew@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "Y-Cx3eu"
+  },
+  {
+    "name": "Move Copenhagen",
+    "email": "mail@movecph.com",
+    "country": "DK",
+    "memberType": "observer",
+    "infoUrl": "https://movecph.com/",
+    "groupId": "X-aAHYm"
+  },
+  {
+    "name": "Move Moleson (The Highline Extreme)",
+    "email": "thehighlineextreme@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "EL6hhEI"
+  },
+  {
+    "name": "Move Switzerland (Bern Moves)",
+    "email": "info@bernmoves.com",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://bernmoves.com/",
+    "groupId": "aM4MSyf"
+  },
+  {
+    "name": "Pushing panda",
+    "email": "dadenk.mulyana@gmail.com",
+    "country": "ID",
+    "memberType": "observer",
+    "groupId": "rQ8vf_R"
+  },
+  {
+    "name": "Slack is Goudes",
+    "email": "slackisgoudes@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "8_FRD2U"
+  },
+  {
+    "name": "Slack Vitality Balsthal",
+    "email": "info.slackvitality@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "6hfQLE_"
+  },
+  {
+    "name": "Slack4fun",
+    "email": "info@slack4fun.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://slack4fun.ch/",
+    "groupId": "KTvMUqn"
+  },
+  {
+    "name": "Slackattack - Slackline Crew Bern",
+    "email": "info@slackattack.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://slackattack.ch/",
+    "groupId": "eEL9eqK"
+  },
+  {
+    "name": "Slackicimes",
+    "email": "slackicimes@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "_Eu7RdK"
+  },
+  {
+    "name": "Slacklife Merida",
+    "email": "slacklifemerida@gmail.com",
+    "country": "MX",
+    "memberType": "observer",
+    "groupId": "WAHlOeL"
+  },
+  {
+    "name": "Slackline Berlin e.V.",
+    "email": "slacklineverein.berlin@gmail.com",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "P_x1VmM"
+  },
+  {
+    "name": "Slackline Dresden e.V.",
+    "email": "info@slackline-dresden.de",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-dresden.de/",
+    "groupId": "CHRKCD8"
+  },
+  {
+    "name": "Slackline Genève",
+    "email": "associationslacklinegeneve@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "j2qCndy"
+  },
+  {
+    "name": "Slackline Hamburg e.V.",
+    "email": "hallo@slackline-hamburg.org",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-hamburg.org/",
+    "groupId": "sE8n9Y0"
+  },
+  {
+    "name": "Slackline Salzburg",
+    "email": "verein@slackline-salzburg.at",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-salzburg.at/",
+    "groupId": "cxySuPl"
+  },
+  {
+    "name": "Slackline Stuttgart e.V.",
+    "email": "slackline.stuttgart@gmail.com",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "M8EJZPf"
+  },
+  {
+    "name": "Slackline Valais",
+    "email": "info@slackline-valais.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-valais.ch/",
+    "groupId": "Nj2o4dB"
+  },
+  {
+    "name": "Slackline Vorarlberg",
+    "email": "info@slackline-vorarlberg.net",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-vorarlberg.net/",
+    "groupId": "VpVPLGN"
+  },
+  {
+    "name": "Slackline Weisslingen",
+    "email": "rolf.boss@meta-bau.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://meta-bau.ch/",
+    "groupId": "WbOxezI"
+  },
+  {
+    "name": "slackline.at",
+    "email": "vorstand@slackline.at",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://slackline.at/",
+    "groupId": "xj8P7OR"
+  },
+  {
+    "name": "SlackLiner Halle e.V.",
+    "email": "slackliner.halle@gmail.com",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "1yd3iGe"
+  },
+  {
+    "name": "Slacklining Bremen e.V.",
+    "email": "slackline.bremenev@gmail.com",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "NXEyVKf"
+  },
+  {
+    "name": "Slacklions Zürich",
+    "email": "slackline.zurich@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://slacklions.ch/",
+    "groupId": "4W0S5f0"
+  },
+  {
+    "name": "Slacknetz Leipzig e.V.",
+    "email": "Info@slacknetzleipzig.de",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slacknetzleipzig.de/",
+    "groupId": "g5IwO_n"
+  },
+  {
+    "name": "Team Balance",
+    "email": "slackline@teambalance.at",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://teambalance.at/",
+    "groupId": "XfkADhx"
+  },
+  {
+    "name": "Tiroliners - Slacklinen in Tirol",
+    "email": "info@tiroliners.at",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://tiroliners.at",
+    "groupId": "1eMHAMZ"
+  },
+  {
+    "name": "Vienna Slackliners",
+    "email": "info@vienna-slackliners.at",
+    "country": "AT",
+    "memberType": "observer",
+    "infoUrl": "https://vienna-slackliners.at/",
+    "groupId": "eHVmeHE"
+  },
+  {
+    "name": "Slackline Tübingen",
+    "email": "tuebingen@deutscherslacklineverband.org",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://deutscherslacklineverband.org/",
+    "groupId": "ETOwsUi"
+  },
+  {
+    "name": "Libera Tu Mono",
+    "email": "contacto@liberatumono.com",
+    "country": "CL",
+    "memberType": "observer",
+    "infoUrl": "https://liberatumono.com/",
+    "groupId": "OBFh-ac"
+  },
+  {
+    "name": "Highline Velho Oeste",
+    "email": "highlinevelhooeste@hotmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "iWwo2I1"
+  },
+  {
+    "name": "Slackline Köln e.V.",
+    "email": "mail@slackline-koeln.org",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-koeln.org/",
+    "groupId": "lZjm9uY"
+  },
+  {
+    "name": "Slack'n Jump Familly",
+    "email": "slacknjumpfamilly@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "1LN5IKQ"
+  },
+  {
+    "name": "Slackline Ingolstadt e.V.",
+    "email": "info@slackline-ingolstadt.de",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-ingolstadt.de/",
+    "groupId": "p5MMFEM"
+  },
+  {
+    "name": "Swiss Highline",
+    "email": "info@swiss-highline.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://swiss-highline.ch/",
+    "groupId": "_UTwLW5"
+  },
+  {
+    "name": "Konnektonauten e.V.",
+    "email": "konnektonauten@gmail.com",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "BacrSs7"
+  },
+  {
+    "name": "Slackline Dublin",
+    "email": "slacklinedublin@gmail.com",
+    "country": "IE",
+    "memberType": "observer",
+    "groupId": "FbJWLsL"
+  },
+  {
+    "name": "Slackline Bologna A.S.D.",
+    "email": "slacklinebologna@gmail.com",
+    "country": "IT",
+    "memberType": "observer",
+    "groupId": "wP9zJ47"
+  },
+  {
+    "name": "Pro Dalmazi",
+    "email": "info@prodalmazi.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://prodalmazi.ch/",
+    "groupId": "db8zLHu"
+  },
+  {
+    "name": "Slackline Lille",
+    "email": "slacklille@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "eXMPRhk"
+  },
+  {
+    "name": "Tenochtitline",
+    "email": "tenochtitline@gmail.com",
+    "country": "MX",
+    "memberType": "observer",
+    "groupId": "yYIb2CP"
+  },
+  {
+    "name": "Ca Slack Houle Douce",
+    "email": "houledouce@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "infoUrl": "https://houledouce.com/",
+    "groupId": "dfvn_G5"
+  },
+  {
+    "name": "Slack'a'lot",
+    "email": "slackalot@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "dt0DGtJ"
+  },
+  {
+    "name": "Slackvibe ABC",
+    "email": "zap.rgs@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "Eih8T8e"
+  },
+  {
+    "name": "Slackline Sicilia",
+    "email": "slacklinesicilia@gmail.com",
+    "country": "IT",
+    "memberType": "observer",
+    "groupId": "clhzQDz"
+  },
+  {
+    "name": "Slackline Roma",
+    "email": "slackroma@gmail.com",
+    "country": "IT",
+    "memberType": "observer",
+    "groupId": "_4K7RBX"
+  },
+  {
+    "name": "Slackline Rhein-Main e.V.",
+    "email": "info@slackline-rhein-main.de",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slackline-rhein-main.de/",
+    "groupId": "61yVNjZ"
+  },
+  {
+    "name": "TIslacco",
+    "email": "info@tislacco.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://tislacco.ch/",
+    "groupId": "lRAUXNU"
+  },
+  {
+    "name": "Highline Unterwalden",
+    "email": "highline-unterwalden@outlook.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "mnNM5Dz"
+  },
+  {
+    "name": "vierwaldslackers.ch",
+    "email": "info@vierwaldslackers.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://vierwaldslackers.ch/",
+    "groupId": "ZxUDHql"
+  },
+  {
+    "name": "Grischa Slack",
+    "email": "info@grischaslack.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://grischaslack.ch/",
+    "groupId": "tjh51qH"
+  },
+  {
+    "name": "Sardinia Slackline",
+    "email": "sardiniaslackline@gmail.com",
+    "country": "IT",
+    "memberType": "observer",
+    "groupId": "3mrTo77"
+  },
+  {
+    "name": "University of Southampton Slackline Society",
+    "email": "slacksoc@soton.ac.uk",
+    "country": "GB",
+    "memberType": "observer",
+    "infoUrl": "https://southampton.ac.uk/",
+    "groupId": "hsHKr7w"
+  },
+  {
+    "name": "Slackline Freiburg e. V. ",
+    "email": "kontakt@slacklinefreiburg.de",
+    "country": "DE",
+    "memberType": "observer",
+    "infoUrl": "https://slacklinefreiburg.de/",
+    "groupId": "IOHXG68"
+  },
+  {
+    "name": "SlackMonks Loja",
+    "email": "slacklineloja84@gmail.com",
+    "country": "EC",
+    "memberType": "observer",
+    "groupId": "ztxhnkh"
+  },
+  {
+    "name": "SLACKVENTURE",
+    "email": "slackventure.kng@gmail.com",
+    "country": "ID",
+    "memberType": "observer",
+    "groupId": "9MGq9Fy"
+  },
+  {
+    "name": "LEMUR SLACKLINES",
+    "email": "cellusmar@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "d6pT-Os"
+  },
+  {
+    "name": "Slackline Kentucky",
+    "email": "slacklinekentucky@gmail.com",
+    "country": "US",
+    "memberType": "observer",
+    "groupId": "c5Q_j5f"
+  },
+  {
+    "name": "Slack sem Fronteiras",
+    "email": "slacksemfronteiras@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "qqfcTrG"
+  },
+  {
+    "name": "Araucalinea",
+    "email": "slaklife@gmail.com",
+    "country": "CL",
+    "memberType": "observer",
+    "groupId": "abZqeam"
+  },
+  {
+    "name": "Danish Slackline Association",
+    "email": "DK.slackline@protonmail.com",
+    "country": "DK",
+    "memberType": "observer",
+    "groupId": "LeDEPsh"
+  },
+  {
+    "name": "Asociación de Slackline Highlife Peru",
+    "email": "highlife.pe@gmail.com",
+    "country": "PE",
+    "memberType": "observer",
+    "groupId": "apSIxux"
+  },
+  {
+    "name": "Slako Colombia ",
+    "email": "slakocolombia@gmail.com",
+    "country": "CO",
+    "memberType": "observer",
+    "groupId": "ods9W8X"
+  },
+  {
+    "name": "Federazione Italiana Sport per Tutti",
+    "email": "presidente@fispt.it",
+    "country": "IT",
+    "memberType": "observer",
+    "infoUrl": "https://fispt.it/",
+    "groupId": "82QOfTX"
+  },
+  {
+    "name": "Slackline Bolivia",
+    "email": "highlinebolivia@gmail.com",
+    "country": "BO",
+    "memberType": "observer",
+    "groupId": "90D_NWW"
+  },
+  {
+    "name": "Slackattack Thun",
+    "email": "info@slackattack.ch",
+    "country": "CH",
+    "memberType": "observer",
+    "infoUrl": "https://slackattack.ch/",
+    "groupId": "Fu1pvz3"
+  },
+  {
+    "name": "Käppeli Kollektiv",
+    "email": "kappeli.kollektiv@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "Yfc1gDn"
+  },
+  {
+    "name": "Slacklife Russia",
+    "email": "slacklife.ru@gmail.com",
+    "country": "RU",
+    "memberType": "observer",
+    "groupId": "4RvFeH2"
+  },
+  {
+    "name": "Slacktitud Cero ",
+    "email": "slacktitudcero@gmail.com",
+    "country": "EC",
+    "memberType": "observer",
+    "groupId": "HsZ5OOG"
+  },
+  {
+    "name": "Christchurch Slackline",
+    "email": "christchurch.slackline@gmail.com",
+    "country": "NZ",
+    "memberType": "observer",
+    "groupId": "UVddnif"
+  },
+  {
+    "name": "Toronto Slackline",
+    "email": "torontoslacklinecommunity@gmail.com",
+    "country": "CA",
+    "memberType": "observer",
+    "groupId": "NI8iVf2"
+  },
+  {
+    "name": "Slackline Brandenburg",
+    "email": "",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "qDyzCg_"
+  },
+  {
+    "name": "Slackline München e.V.",
+    "email": "",
+    "country": "DE",
+    "memberType": "observer",
+    "groupId": "eKOabhu"
+  },
+  {
+    "name": "SlackAlien",
+    "email": "slackalien.info@gmail.com",
+    "country": "SI",
+    "memberType": "associate",
+    "groupId": "FUvJBSz"
+  },
+  {
+    "name": "Firmament Fundation",
+    "email": "fundacjafirmament@gmail.com",
+    "country": "PL",
+    "memberType": "associate",
+    "groupId": "g2SHr9R"
+  },
+  {
+    "name": "SlackVirus ",
+    "email": "slackvirus2@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "CJIbaTD"
+  },
+  {
+    "name": "Equilibre Paris",
+    "email": "equilibreidf@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "hKWgGKz"
+  },
+  {
+    "name": "Slackline Liguria ASD",
+    "email": "slacklineliguria@gmail.com",
+    "country": "IT",
+    "memberType": "observer",
+    "groupId": "orTpFUm"
+  },
+  {
+    "name": "Parislack Association",
+    "email": "parislack.asso@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "groupId": "JFV89LO"
+  },
+  {
+    "name": "FQSH ",
+    "email": "highline.quebec@gmail.com",
+    "country": "CA",
+    "memberType": "observer",
+    "groupId": "1nNi7Ka"
+  },
+  {
+    "name": "Associação Mineira de Slackline",
+    "email": "associacaomineiraslackline@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "eEL9eqK"
+  },
+  {
+    "name": "Associação Slackline Pouso Alegre - ASPA",
+    "email": "",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "qC5dBFY"
+  },
+  {
+    "name": "Piscinão da Penha",
+    "email": "piscinaodapenha@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "5ZS2c_O"
+  },
+  {
+    "name": "Choose Life Team",
+    "email": "fchooselife@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "gHVao7_"
+  },
+  {
+    "name": "Monstros do Lago",
+    "email": "monstroslago@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "FTsRD0x"
+  },
+  {
+    "name": "Nova Geração RJ",
+    "email": "ng.highline@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "ig50Hgo"
+  },
+  {
+    "name": "Vulcano slacklife",
+    "email": "slacklifevulcano@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "groupId": "m8zvynO"
+  },
+  {
+    "name": "Temetline",
+    "email": "info@temetline.com",
+    "country": "IR",
+    "memberType": "partner",
+    "infoUrl": "https://temetline.co",
+    "groupId": "z3KxWM1"
+  },
+  {
+    "name": "Yogaslackers",
+    "email": "YogaSlackers@gmail.com",
+    "country": "US",
+    "memberType": "partner",
+    "infoUrl": "https://yogaslackers.com/",
+    "groupId": "072jkev"
+  },
+  {
+    "name": "Balsana Slackline",
+    "email": "info@balansa-slackline.com",
+    "country": "SI",
+    "memberType": "partner",
+    "infoUrl": "https://balansa.si/en/",
+    "groupId": "5Qfa-x3"
+  },
+  {
+    "name": "BLOACS",
+    "email": "info@bloacs.de",
+    "country": "DE",
+    "memberType": "partner",
+    "infoUrl": "http://bloacs.de",
+    "groupId": "cgj-1SS"
+  },
+  {
+    "name": "Hownottohighline",
+    "email": "info@slackline.com",
+    "country": "US",
+    "memberType": "partner",
+    "infoUrl": "https://www.hownottohighline.com/",
+    "groupId": "r5uyhOJ"
+  },
+  {
+    "name": "Slackline Australia",
+    "email": "info@slackline.com.au",
+    "country": "AU",
+    "memberType": "partner",
+    "infoUrl": "http://slackline.com.au/",
+    "groupId": "feS68Vt"
+  },
+  {
+    "name": "Ru-Slack",
+    "email": "info@ru-slack.co.uk",
+    "country": "GB",
+    "memberType": "partner",
+    "infoUrl": "https://ru-slack.co.uk",
+    "groupId": "wAeke7U"
+  },
+  {
+    "name": "Gibbon",
+    "email": "info@gibbon-slacklines.com",
+    "country": "DE",
+    "memberType": "partner",
+    "infoUrl": "https://gibbon-slacklines.com/en/",
+    "groupId": "XLG-TJ4"
+  },
+  {
+    "name": "Raed Slacklines",
+    "email": "info@raed-slacklines.com",
+    "country": "DE",
+    "memberType": "partner",
+    "infoUrl": "https://raed-slacklines.com/",
+    "groupId": "bWmXRJK"
+  },
+  {
+    "name": "Spider Slacklines",
+    "email": "info@spider-slacklines.com",
+    "country": "IT",
+    "memberType": "partner",
+    "infoUrl": "https://spider-slacklines.com/",
+    "groupId": "HxO-LAV"
+  },
+  {
+    "name": "Equilibrium Slacklines",
+    "email": "info@eqb.cz",
+    "country": "CZ",
+    "memberType": "partner",
+    "infoUrl": "https://eqb.cz/",
+    "groupId": "EQ12zZ4"
+  },
+  {
+    "name": "Slacktivity Slacklines",
+    "email": "info@slacktivity.ch",
+    "country": "CH",
+    "memberType": "partner",
+    "infoUrl": "https://slacktivity.com/",
+    "groupId": "IgII45c"
+  },
+  {
+    "name": "Balance Community",
+    "email": "info@balancecommunity.com",
+    "country": "US",
+    "memberType": "partner",
+    "infoUrl": "https://balancecommunity.com/",
+    "groupId": "1vfq9yE"
+  },
+  {
+    "name": "Slackhouse",
+    "email": "info@slackhouse.pl",
+    "country": "PL",
+    "memberType": "partner",
+    "infoUrl": "https://slackhouseshop.pl/",
+    "groupId": "6jf6fV2"
+  },
+  {
+    "name": "Slacklife",
+    "email": "slacklife.balance@gmail.com",
+    "country": "IN",
+    "memberType": "partner",
+    "infoUrl": "https://slacklife.in",
+    "groupId": "4WqTfWH"
+  },
+  {
+    "name": "Linegrip",
+    "email": "info@linegrip.com",
+    "country": "DE",
+    "memberType": "partner",
+    "infoUrl": "http://linegrip.com",
+    "groupId": "Q12VKYu"
+  },
+  {
+    "name": "A Zero",
+    "email": "a.zeroadm@gmail.com",
+    "country": "AR",
+    "memberType": "partner",
+    "infoUrl": "https://www.a-zero.com.ar/",
+    "groupId": "UgsySzm"
+  },
+  {
+    "name": "Slack Inov",
+    "email": "info@slack-inov.com",
+    "country": "FR",
+    "memberType": "partner",
+    "infoUrl": "https://slack-inov.com",
+    "groupId": "bP-mQfE"
+  },
+  {
+    "name": "Souz Slackline",
+    "email": "INFO@SOUZSLACKLINE.COM",
+    "country": "RU",
+    "memberType": "partner",
+    "infoUrl": "https://vk.com/souzslackline",
+    "groupId": "rU-MykF"
+  },
+  {
+    "name": "Radrigs",
+    "email": "info@radrigs.co.uk",
+    "country": "GB",
+    "memberType": "partner",
+    "infoUrl": "https://radrigs.co.uk/",
+    "groupId": "KfgYhGP"
+  },
+  {
+    "name": "Siebert Consulting",
+    "email": "info@siebert.at",
+    "country": "AT",
+    "memberType": "partner",
+    "infoUrl": "http://siebert.at/",
+    "groupId": "IYYZzk5"
+  },
+  {
+    "name": "Block Materialprüfung",
+    "email": "info@block-quality.com",
+    "country": "DE",
+    "memberType": "partner",
+    "infoUrl": "https://block-quality.com/",
+    "groupId": "dm_Mhhy"
+  }
 ]
