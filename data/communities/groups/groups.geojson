@@ -13,6 +13,21 @@
     },
     {
       "type": "Feature",
+      "properties": { "id": "RRPtlwc", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [8.816032, 47.222640] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "6s6I0mN", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [6.654337, 46.784066] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "_h_fXQC", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [7.146065, 46.800583] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "LkbXDFJ", "ft": "isaM", "c": "DE" },
       "geometry": { "type": "Point", "coordinates": [13.7860491, 51.0183321] }
     },
