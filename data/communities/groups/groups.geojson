@@ -4848,7 +4848,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "aohN9ui", "ft": "sg", "c": "CH" },
+      "properties": { "id": "aohN9ui", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [7.259, 47.143] }
     },
     {
