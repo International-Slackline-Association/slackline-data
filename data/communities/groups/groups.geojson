@@ -7939,6 +7939,12 @@
       "type": "Feature",
       "properties": { "id": "072jkev", "ft": "isaM", "c": "US" },
       "geometry": { "type": "Point", "coordinates": [-97.6858098, 48.5922113] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "mrJ7GN_", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [7.813355, 46.679036] }
+      
     }
   ]
 }
