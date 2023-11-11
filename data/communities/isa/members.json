@@ -265,6 +265,13 @@
     "groupId": "eEL9eqK"
   },
   {
+    "name": "LakeLiners Biel/Bienne",
+    "email": "lakeliners.biel.bienne@gmail.com",
+    "country": "CH",
+    "memberType": "observer",
+    "groupId": "aohN9ui"
+  },
+  {
     "name": "Slackicimes",
     "email": "slackicimes@gmail.com",
     "country": "FR",
@@ -839,7 +846,7 @@
   },
   {
     "name": "Temetline",
-    "email": "info@temetline.com",
+    "email": "temetline@gmail.com",
     "country": "IR",
     "memberType": "partner",
     "infoUrl": "https://temetline.co",
