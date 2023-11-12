@@ -1346,13 +1346,6 @@
     "facebookPage": "https://www.facebook.com/SlackLineMossoro/"
   },
   {
-    "id": "oj8Lzjd",
-    "name": "Slackline Bilbao",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1183814988314693/"
-  },
-  {
     "id": "0gXFvpc",
     "name": "[ NA FITA ] RN - Slackline Natal",
     "createdDateTime": "2020-05-09",
@@ -3999,13 +3992,6 @@
     "facebookGroup": "https://www.facebook.com/groups/1158934614119685"
   },
   {
-    "id": "aoLh9c6",
-    "name": "Slackline Burgos",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/160762490796990/"
-  },
-  {
     "id": "ytHqYjF",
     "name": "Slackline Community Chemnitz",
     "createdDateTime": "2020-05-09",
@@ -6140,13 +6126,6 @@
     "facebookGroup": "https://www.facebook.com/groups/slacklinebrasov/?fref=ts"
   },
   {
-    "id": "7AiVjv4",
-    "name": "Slackline Cádiz",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1514348995475979/"
-  },
-  {
     "id": "aMwEpao",
     "name": "Slackline Bucuresti",
     "createdDateTime": "2020-05-09",
@@ -6246,13 +6225,6 @@
     "facebookGroup": "https://www.facebook.com/groups/1488419928111449/"
   },
   {
-    "id": "6bMQ08J",
-    "name": "Slackline @ Huelva",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/214198285339749/"
-  },
-  {
     "id": "R5GZrH1",
     "name": "Slacklabs (on vkontakte, not facebook)",
     "createdDateTime": "2020-05-09",
@@ -6284,8 +6256,10 @@
     "id": "QPsr6lJ",
     "name": "Slackline Ibiza",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1473156149567975/"
+    "updatedDateTime": "2023-12-11",
+    "facebookGroup": "https://www.facebook.com/groups/1473156149567975/",
+    "instagram": "https://www.instagram.com/tomi.paralosamigos/",
+    "whatsapp": "https://wa.me/34638278138"
   },
   {
     "id": "vhlEcMJ",
@@ -6302,13 +6276,6 @@
     "facebookPage": "https://www.facebook.com/elephantslacklinesingapore/"
   },
   {
-    "id": "UFcJ67f",
-    "name": "Slackline Jaen",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1422618221366605/"
-  },
-  {
     "id": "vHNYJtf",
     "name": "Slackline SK - kedy a kde?",
     "createdDateTime": "2020-05-09",
@@ -6321,13 +6288,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebookPage": "https://www.facebook.com/slacklineslovakia/"
-  },
-  {
-    "id": "G0dlKgf",
-    "name": "slackline leon!!!!",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/665900096830998/"
   },
   {
     "id": "9TFSRkE",
@@ -6343,13 +6303,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebookGroup": "https://www.facebook.com/groups/slackline.kk/"
-  },
-  {
-    "id": "_FzDW0j",
-    "name": "Lleida Slacklife",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/181513931971574/"
   },
   {
     "id": "DfEoCY9",
@@ -6400,13 +6353,6 @@
     "updatedDateTime": "2020-05-09",
     "email": "slackalien.info@gmail.com",
     "facebookPage": "https://www.facebook.com/SlackAlien/"
-  },
-  {
-    "id": "tuABMiN",
-    "name": "Slackline Logroño",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/844404728922178/"
   },
   {
     "id": "_2Vt6BI",
@@ -6529,17 +6475,11 @@
   },
   {
     "id": "9LTwTnB",
-    "name": "Basque Country",
+    "name": "Oreka Tolosa",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/orekatolosa/?modal=admin_todo_tour"
-  },
-  {
-    "id": "VXAU291",
-    "name": "Slackline Avila",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/233290263493620/"
+    "updatedDateTime": "2023-12-11",
+    "facebookPage": "https://www.facebook.com/orekatolosa/",
+    "instagram": "https://www.instagram.com/orekatolosa/"
   },
   {
     "id": "8cuZM0E",
@@ -6563,25 +6503,14 @@
     "facebookGroup": "https://www.facebook.com/groups/117017901984422/"
   },
   {
-    "id": "OqvTjtH",
-    "name": "Slackline Salamanca!",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/424919077584788/"
-  },
-  {
     "id": "ZgcCpQh",
     "name": "Slackline Sevilla",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/203154696402921/about/"
-  },
-  {
-    "id": "Vp7BB24",
-    "name": "TarracoSlackline",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/447653155312451/"
+    "updatedDateTime": "2023-12-11",
+    "facebookGroup": "https://www.facebook.com/groups/203154696402921/about/",
+    "email": "slacklinesevilla@gmail.com",
+    "instagram": "https://www.instagram.com/slacklinesevilla/",
+    "whatsapp": "https://chat.whatsapp.com/F0SVfSQn8csD6519SR7Y2g"
   },
   {
     "id": "gaMzH5v",
@@ -6596,13 +6525,6 @@
     "createdDateTime": "2020-05-09",
     "updatedDateTime": "2020-05-09",
     "facebookGroup": "https://www.facebook.com/groups/327320920764977/"
-  },
-  {
-    "id": "4eF-PKk",
-    "name": "Slackline Zafra",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/659068660917398/about/"
   },
   {
     "id": "FBlqF67",
@@ -9032,8 +8954,7 @@
     "id": "J-0BIba",
     "name": "Highline MADRiders",
     "createdDateTime": "2020-05-25",
-    "updatedDateTime": "2020-05-25",
-    "email": "josesanchez3a@gmail.com",
+    "updatedDateTime": "2023-12-11",
     "instagram": "https://www.instagram.com/highline.madriders/"
   },
   {
@@ -9213,13 +9134,6 @@
     "createdDateTime": "2023-04-10",
     "updatedDateTime": "2023-04-10",
     "facebookGroup": "https://www.facebook.com/groups/Slackline.Zagreb/"
-  },
-  {
-    "id": "vCo60g_",
-    "name": "Zafra",
-    "createdDateTime": "2023-04-10",
-    "updatedDateTime": "2023-04-10",
-    "facebookGroup": "https://www.facebook.com/groups/659068660917398/about/"
   },
   {
     "id": "Wa5e2yw",
@@ -10269,8 +10183,9 @@
     "id": "t5qjLlQ",
     "name": "Slakherria",
     "createdDateTime": "2020-07-28",
-    "updatedDateTime": "2020-07-28",
-    "email": "Slakherria@gmail.com"
+    "updatedDateTime": "2023-12-11",
+    "email": "Slakherria@gmail.com",
+    "instagram": "https://www.instagram.com/slakherria/"
   },
   {
     "id": "VaMNKYm",
@@ -11155,5 +11070,20 @@
     "createdDateTime": "2023-10-11",
     "updatedDateTime": "2023-10-11",
     "whatsapp": "https://chat.whatsapp.com/LapJ4uvpzBu1sDCSyX0ztG"
+  },
+  {
+    "id": "UM-zSCA",
+    "name": "Slackline Canarias",
+    "createdDateTime": "2023-12-11",
+    "updatedDateTime": "2023-12-11",
+    "instagram": "https://www.instagram.com/slacklinecanarias/"
+  },
+  {
+    "id": "GMDaIMT",
+    "name": "Corda Fluixa",
+    "createdDateTime": "2023-12-11",
+    "updatedDateTime": "2023-12-11",
+    "instagram": "https://www.instagram.com/slackline_mallorca/",
+    "whatsapp": "https://wa.me/18589269546"
   }
 ]
