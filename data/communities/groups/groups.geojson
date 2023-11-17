@@ -7644,7 +7644,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "3mrTo77", "ft": "isaM", "c": "ES" },
+      "properties": { "id": "3mrTo77", "ft": "isaM", "c": "IT" },
       "geometry": {
         "type": "Point",
         "coordinates": [9.019307513337456, 40.190608963998955]
