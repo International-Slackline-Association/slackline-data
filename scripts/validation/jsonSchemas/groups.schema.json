@@ -47,7 +47,7 @@
       "whatsapp": {
         "type": "string",
         "format": "uri",
-        "pattern": ".*whatsapp.com/.*"
+        "pattern": ".*whatsapp.com/.*|.*wa\\.me/.*"
       },
       "webpage": {
         "type": "string",
