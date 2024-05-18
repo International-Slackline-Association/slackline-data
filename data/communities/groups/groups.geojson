@@ -6468,11 +6468,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "g760Pf6", "ft": "sg", "c": "CA" },
-      "geometry": { "type": "Point", "coordinates": [-79.363, 43.673] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "VoSffxb", "ft": "sg", "c": "US" },
       "geometry": { "type": "Point", "coordinates": [-85.592, 44.325] }
     },
