@@ -133,8 +133,18 @@ const validateSimilarGroupNames = () => {
   return duplicates;
 };
 
-validateJsonSchemas();
-validateGroupsMatchingIds();
-validateUniqueIds();
-validateCoordinatesProximity();
-validateSimilarGroupNames();
+const run = () => {
+  validateJsonSchemas();
+  validateGroupsMatchingIds();
+  validateUniqueIds();
+  validateCoordinatesProximity();
+  validateSimilarGroupNames();
+};
+
+if (require.main === module) {
+  run();
+}
+
+module.exports = {
+  run,
+};

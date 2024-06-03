@@ -1,7 +1,8 @@
 {
   "scripts": {
     "validateJsonFiles": "node scripts/validation/validateJsonFiles.js",
-    "optimizeJsonFiles": "node scripts/optimize.js"
+    "optimizeJsonFiles": "node scripts/optimize.js",
+    "batchUpdate": "node scripts/batchUpdate.js"
   },
   "devDependencies": {
     "@turf/distance": "6.5.0",
@@ -9,5 +10,8 @@
     "ajv": "8.12.0",
     "ajv-formats": "2.1.1",
     "string-similarity-js": "2.1.4"
+  },
+  "dependencies": {
+    "nanoid": "3.3.5"
   }
 }

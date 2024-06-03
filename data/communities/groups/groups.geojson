@@ -3314,7 +3314,7 @@
     {
       "type": "Feature",
       "properties": { "id": "GTf21G4", "ft": "sg", "c": "IN" },
-      "geometry": { "type": "Point", "coordinates": [73.99, 15.303] }
+      "geometry": { "type": "Point", "coordinates": [73.735, 15.617] }
     },
     {
       "type": "Feature",
@@ -4534,7 +4534,7 @@
     {
       "type": "Feature",
       "properties": { "id": "FUvJBSz", "ft": "isaM", "c": "SI" },
-      "geometry": { "type": "Point", "coordinates": [14.354, 46.255] }
+      "geometry": { "type": "Point", "coordinates": [14.13, 46.403] }
     },
     {
       "type": "Feature",
@@ -5764,12 +5764,7 @@
     {
       "type": "Feature",
       "properties": { "id": "iZdIc4W", "ft": "sg", "c": "US" },
-      "geometry": { "type": "Point", "coordinates": [-87.662, 41.864] }
-    },
-    {
-      "type": "Feature",
-      "properties": { "id": "cxDZVHp", "ft": "sg", "c": "US" },
-      "geometry": { "type": "Point", "coordinates": [-87.652, 41.874] }
+      "geometry": { "type": "Point", "coordinates": [-87.636, 41.929] }
     },
     {
       "type": "Feature",
@@ -7229,7 +7224,7 @@
     {
       "type": "Feature",
       "properties": { "id": "5ZS2c_O", "ft": "isaM", "c": "BR" },
-      "geometry": { "type": "Point", "coordinates": [-46.538, -23.532] }
+      "geometry": { "type": "Point", "coordinates": [-46.539, -23.532] }
     },
     {
       "type": "Feature",
@@ -7710,6 +7705,51 @@
       "type": "Feature",
       "properties": { "id": "GMDaIMT", "ft": "sg", "c": "ES" },
       "geometry": { "type": "Point", "coordinates": [2.536, 39.519] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "5n3uVN8", "ft": "sg", "c": "IT" },
+      "geometry": { "type": "Point", "coordinates": [10.326, 44.804] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "wKoqKFb", "ft": "sg", "c": "ES" },
+      "geometry": { "type": "Point", "coordinates": [-2.447, 36.824] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "59bUtGl", "ft": "sg", "c": "CH" },
+      "geometry": { "type": "Point", "coordinates": [7.246, 47.137] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "j4jx32X", "ft": "sg", "c": "CN" },
+      "geometry": { "type": "Point", "coordinates": [93.647, 42.026] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Qeyxub1", "ft": "sg", "c": "US" },
+      "geometry": { "type": "Point", "coordinates": [-116.381, 33.736] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "o8UIjJB", "ft": "sg", "c": "CO" },
+      "geometry": { "type": "Point", "coordinates": [-73.032, 5.831] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "soZtnCv", "ft": "sg", "c": "CA" },
+      "geometry": { "type": "Point", "coordinates": [-79.314, 45.042] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "3_RlSRn", "ft": "sg", "c": "KZ" },
+      "geometry": { "type": "Point", "coordinates": [76.905, 43.215] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "0UYr0KA", "ft": "sg", "c": "RU" },
+      "geometry": { "type": "Point", "coordinates": [30.316, 59.939] }
     }
   ]
 }
