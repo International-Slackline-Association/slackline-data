@@ -7,34 +7,25 @@ const groupsJson = utils.files.groupsJson;
 
 const batchRecords = [];
 
-const parseRecords = () => {
-  const newGroups = [];
-  const updatedGroups = [];
-
-  for (const record of batchRecords) {
-    if (record["What do you want to do?"] === "Add new data") {
-      newGroups.push(record);
-    } else if (record["What do you want to do?"] === "Edit existing data") {
-      updatedGroups.push(record);
-    }
-  }
-  return { newGroups, updatedGroups };
-};
-
 const removeEmptyProperties = (obj) => {
   Object.keys(obj).forEach((key) => obj[key] === "" && delete obj[key]);
   return obj;
 };
 
 const addUpdateGroup = (g) => {
-  const existingGroup = groupsJson.find(
-    (existingGroup) => existingGroup.name === g["Name of Group / Club"].trim()
-  );
+  const groupIdToCheck =
+    g["ID of Group(if empty, a new group will be created)"];
 
-  if (g["What do you want to do?"] === "Edit existing data" && !existingGroup) {
-    throw new Error(
-      `Group with name ${g["Name of Group / Club"]} does not exist`
+  let existingGroup = undefined;
+
+  if (groupIdToCheck) {
+    existingGroup = groupsJson.find(
+      (existingGroup) => existingGroup.id === groupIdToCheck
     );
+
+    if (!existingGroup) {
+      throw new Error(`Group with ID ${groupIdToCheck} does not exist`);
+    }
   }
 
   const processedGroup = {
@@ -44,14 +35,12 @@ const addUpdateGroup = (g) => {
       existingGroup?.createdDateTime || new Date().toISOString().split("T")[0],
     updatedDateTime: new Date().toISOString().split("T")[0],
     email: g["Email Adress"] || existingGroup?.email,
-    facebookPage: g["Link to Facebook"] || existingGroup?.facebookPage,
-    facebookGroup: existingGroup?.facebookGroup,
-    telegram: existingGroup?.telegram,
-    instagram: g["Link to Instagram"] || existingGroup?.instagram,
-    whatsapp:
-      g["Link to Messenger App (Whatsapp/Telegram/Signal/other)"] ||
-      existingGroup?.whatsapp,
-    webpage: g["Link to Website"] || existingGroup?.webpage,
+    facebookPage: g["Facebook Page URL"] || existingGroup?.facebookPage,
+    facebookGroup: g["Facebook Groups URL"] || existingGroup?.facebookGroup,
+    telegram: g["Telegram URL"] || existingGroup?.telegram,
+    instagram: g["Instagram URL"] || existingGroup?.instagram,
+    whatsapp: g["Whatsapp URL"] || existingGroup?.whatsapp,
+    webpage: g["Website URL"] || existingGroup?.webpage,
   };
 
   removeEmptyProperties(processedGroup);
@@ -95,8 +84,7 @@ const addUpdateGroup = (g) => {
   }
 };
 
-const { newGroups, updatedGroups } = parseRecords();
-for (const g of [...updatedGroups, ...newGroups]) {
+for (const g of batchRecords) {
   console.log("Processing group:", g["Name of Group / Club"]);
   addUpdateGroup(g);
   utils.writeJsonFile("groups/groups.json", groupsJson);
