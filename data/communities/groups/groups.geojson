@@ -7753,7 +7753,7 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "E05E49V", "ft": "isaM", "c": "BR" },
+      "properties": { "id": "E05E49V", "ft": "sg", "c": "BR" },
       "geometry": { "type": "Point", "coordinates": [-55.535, -30.896] }
     }
   ]
