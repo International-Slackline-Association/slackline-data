@@ -2644,13 +2644,6 @@
     "facebookGroup": "https://www.facebook.com/groups/689604704435386/"
   },
   {
-    "id": "JH3KGeK",
-    "name": "Slacklines Costa Rica",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/SlacklineCR/"
-  },
-  {
     "id": "P2fTGU3",
     "name": "Pula Urban Highline Meeting",
     "createdDateTime": "2020-05-09",
@@ -5671,20 +5664,6 @@
     "facebookPage": "https://www.facebook.com/SlacklineParaguay/"
   },
   {
-    "id": "_WHNNfc",
-    "name": "Slackliners Peru",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/455815764457566/"
-  },
-  {
-    "id": "Il7nDDL",
-    "name": "Arequipa Slacklife",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/457280737768276/"
-  },
-  {
     "id": "jRi-PY_",
     "name": "Ica Slacklife",
     "createdDateTime": "2020-05-09",
@@ -5700,31 +5679,11 @@
   },
   {
     "id": "egwV2Cr",
-    "name": "Slacklife Cusco",
+    "name": "Cusco Slacklife",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/390601667723119/"
-  },
-  {
-    "id": "cDpMKty",
-    "name": "Slackline Iquitos",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/1654482541434510/"
-  },
-  {
-    "id": "uSzp2It",
-    "name": "Parkour Slackline Malabarismo Rapel Puenting Parapente Paracaidismo en Lima",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/514488528756812/"
-  },
-  {
-    "id": "MVEq0dp",
-    "name": "Slack acka en tacna",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/463978803658003/"
+    "updatedDateTime": "2024-07-25",
+    "instagram": "https://www.instagram.com/cuscoslacklife/",
+    "facebookGroup": "https://www.facebook.com/CuscoSlacklife/"
   },
   {
     "id": "JVJJO_M",
@@ -9713,13 +9672,6 @@
     "facebookGroup": "https://www.facebook.com/groups/122126474519777/"
   },
   {
-    "id": "aK4Pv5q",
-    "name": "Costa Rica",
-    "createdDateTime": "2023-04-10",
-    "updatedDateTime": "2023-04-10",
-    "facebookPage": "https://www.facebook.com/SlacklineCR/"
-  },
-  {
     "id": "edipF7x",
     "name": "Pula",
     "createdDateTime": "2023-04-10",
@@ -10734,6 +10686,8 @@
     "createdDateTime": "2023-09-26",
     "updatedDateTime": "2023-09-26",
     "instagram": "https://www.instagram.com/highlife.peru/?hl=de",
+    "whatsapp": "https://wa.me/51994350703",
+    "email": "highlife.pe@gmail.com",
     "facebookPage": "https://www.facebook.com/highlifeperu/?locale=es_LA"
   },
   {
@@ -11176,5 +11130,31 @@
     "email": "slacklivras@gmail.com",
     "instagram": "https://www.instagram.com/slacklivras",
     "whatsapp": "https://chat.whatsapp.com/HhfytZC40eY9v7ejEbOssu"
+  },
+  {
+    "id": "bwut9AS",
+    "name": "Slackline Miraflores",
+    "createdDateTime": "2024-07-25",
+    "updatedDateTime": "2024-07-25",
+    "email": "slacklinemiraflores@gmail.com",
+    "instagram": "https://www.instagram.com/slackline.miraflores",
+    "whatsapp": "https://wa.me/51994350703"
+  },
+  {
+    "id": "43Ekurj",
+    "name": "Slackline Perú",
+    "createdDateTime": "2024-07-25",
+    "updatedDateTime": "2024-07-25",
+    "instagram": "https://www.instagram.com/slacklineperu/",
+    "whatsapp": "https://wa.me/51921613189",
+    "facebookPage": "https://www.facebook.com/groups/323370747792445"
+  },
+  {
+    "id": "saEyX_t",
+    "name": "Slackline en la Amazonia Loretana",
+    "createdDateTime": "2024-07-25",
+    "updatedDateTime": "2024-07-25",
+    "instagram": "https://www.instagram.com/slacklineamaz/",
+    "whatsapp": "https://wa.me/51921222377"
   }
 ]
