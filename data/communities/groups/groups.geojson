@@ -4054,7 +4054,7 @@
     {
       "type": "Feature",
       "properties": { "id": "egwV2Cr", "ft": "sg", "c": "PE" },
-      "geometry": { "type": "Point", "coordinates": [-71.970748, -13.502195] }
+      "geometry": { "type": "Point", "coordinates": [-71.971910, -13.504395] }
     },
     {
       "type": "Feature",
