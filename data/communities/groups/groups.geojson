@@ -8,6 +8,16 @@
     },
     {
       "type": "Feature",
+      "properties": { "id": "wyTFBD2", "ft": "isaM", "c": "AR" },
+      "geometry": { "type": "Point", "coordinates": [-58.608991, -34.677758] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "_A0IX-u", "ft": "isaM", "c": "FR" },
+      "geometry": { "type": "Point", "coordinates": [5.713274, 45.176001] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "tjh51qH", "ft": "isaM", "c": "CH" },
       "geometry": { "type": "Point", "coordinates": [9.213, 46.824] }
     },
