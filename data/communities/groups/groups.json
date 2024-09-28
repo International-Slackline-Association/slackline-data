@@ -1028,9 +1028,10 @@
   },
   {
     "id": "3QBJ8GU",
-    "name": "Slackline- Cuiabá-MT",
+    "name": "SlacklineMT",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2024-06-03",
+    "updatedDateTime": "2024-09-27",
+    "email": "slacklinemt@hotmail.com",
     "facebookGroup": "https://www.facebook.com/groups/419785571408292/",
     "instagram": "https://www.instagram.com/slacklinemt/"
   },
@@ -1538,13 +1539,14 @@
   },
   {
     "id": "bQoNB0c",
-    "name": "L O K A H I | #slackbaixada",
+    "name": "L O K A H I",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2024-08-18",
+    "updatedDateTime": "2024-09-27",
     "email": "lokahi.of@gmail.com",
     "facebookGroup": "https://www.facebook.com/groups/219114854949708/",
     "instagram": "https://www.instagram.com/lokahi.of/",
-    "webpage": "http://lokahi.world"
+    "webpage": "https://linktr.ee/lokahi.of"
+    "whatsapp": "https://wa.me/5513981910763"
   },
   {
     "id": "EDd9GW6",
@@ -11125,7 +11127,7 @@
     "id": "E05E49V",
     "name": "SlackLivras",
     "createdDateTime": "2021-12-25",
-    "updatedDateTime": "2024-06-12",
+    "updatedDateTime": "2024-09-27",
     "email": "slacklivras@gmail.com",
     "instagram": "https://www.instagram.com/slacklivras",
     "whatsapp": "https://chat.whatsapp.com/HhfytZC40eY9v7ejEbOssu"
@@ -11146,7 +11148,7 @@
     "updatedDateTime": "2024-07-25",
     "instagram": "https://www.instagram.com/slacklineperu/",
     "whatsapp": "https://wa.me/51921613189",
-    "facebookPage": "https://www.facebook.com/groups/323370747792445"
+    "facebookGroup": "https://www.facebook.com/groups/323370747792445"
   },
   {
     "id": "saEyX_t",
@@ -11186,5 +11188,57 @@
     "email": "Ncslackline@gmail.com",
     "facebookGroup": "https://facebook.com/groups/ncslackline",
     "instagram": "https://instagram.com/ncslacklinecollective"
+  },
+  {
+    "id": "cdZ8qFp",
+    "name": "Sideb Team",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "instagram": "https://www.instagram.com/sidebteam/"
+  },
+  {
+    "id": "VfZA11g",
+    "name": "Asociación de Slackline y Deportes de Equilibrio de Buenos Aires (ASDEBA)",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "email": "info.slackba@gmail.com",
+    "instagram": "https://www.instagram.com/as.deba",
+    "whatsapp": "https://wa.me/5491158859932"
+  },
+  {
+    "id": "k1rzV5c",
+    "name": "Equilibrate Perú",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "email": "info@equilibrateperu.org",
+    "webpage": "http://www.equilibrateperu.org",
+    "instagram": "https://www.instagram.com/Equilibrateperu_slackline",
+    "facebookPage": "https://www.facebook.com/equilibrateperu/"
+    "whatsapp": "https://wa.me/51993033070"
+  },
+  {
+    "id": "tr3p36i",
+    "name": "Les Sanglés de l'Ouest",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "email": "contact.lsdo@gmail.com",
+    "instagram": "https://www.instagram.com/lsdo.officiel/"
+  },
+  {
+    "id": "hrDXPJY",
+    "name": "Bruxas da Fita",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "email": "bruxasdafita@gmail.com",
+    "instagram": "https://www.instagram.com/bruxasdafita/"
+  },
+  {
+    "id": "4dPkjh9",
+    "name": "Utsunomiya City Sports Promotion Foundation",
+    "createdDateTime": "2024-09-27",
+    "updatedDateTime": "2024-09-27",
+    "email": "usz-kikaku@sky.ucatv.ne.jp",
+    "webpage": "https://www.utsunomiya-sponavi.or.jp",
+    "instagram": "https://www.instagram.com/uspozai1981/"
   }
 ]
