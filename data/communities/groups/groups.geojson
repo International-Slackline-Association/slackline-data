@@ -7774,7 +7774,7 @@
     {
       "type": "Feature",
       "properties": { "id": "4dPkjh9", "ft": "sg", "c": "JP" },
-      "geometry": { "type": "Point", "coordinates": [-46.6500948, -23.5554925] }
+      "geometry": { "type": "Point", "coordinates": [139.838996, 36.5822162] }
     }
   ]
 }
