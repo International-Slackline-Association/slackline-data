@@ -1058,5 +1058,76 @@
     "memberType": "observer",
     "infoUrl": "https://moveinterlaken.ch/",
     "groupId": "mrJ7GN_"
+  },
+  {
+    "name": "Sideb Team",
+    "country": "BR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/sidebteam/",
+    "groupId": "cdZ8qFp"
+  },
+  {
+    "name": "Asociación de Slackline y Deportes de Equilibrio de Buenos Aires (ASDEBA)",
+    "email": "info.slackba@gmail.com",
+    "country": "AR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/as.deba/",
+    "groupId": "VfZA11g"
+  },
+  {
+    "name": "Equilibrate Perú",
+    "email": "info@equilibrateperu.org",
+    "country": "PE",
+    "memberType": "observer",
+    "infoUrl": "http://www.equilibrateperu.org",
+    "groupId": "k1rzV5c"
+  },
+  {
+    "name": "SlacklineMT",
+    "email": "slacklinemt@hotmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/slacklinemt/",
+    "groupId": "3QBJ8GU"
+  },
+  {
+    "name": "Les Sanglés de l'Ouest",
+    "email": "contact.lsdo@gmail.com",
+    "country": "FR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/lsdo.officiel/",
+    "groupId": "tr3p36i"
+  },
+  {
+    "name": "L O K A H I",
+    "email": "lokahi.of@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "infoUrl": "https://linktr.ee/lokahi.of",
+    "groupId": "bQoNB0c"
+  },
+  {
+    "name": "Bruxas da Fita",
+    "email": "bruxasdafita@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/bruxasdafita/",
+    "groupId": "hrDXPJY"
+  },
+  {
+    "name": "SlackLivras",
+    "email": "slacklivras@gmail.com",
+    "country": "BR",
+    "memberType": "observer",
+    "infoUrl": "https://www.instagram.com/slacklivras",
+    "groupId": "E05E49V"
+  },
+  {
+    "name": "Utsunomiya City Sports Promotion Foundation",
+    "email": "usz-kikaku@sky.ucatv.ne.jp",
+    "country": "JP",
+    "memberType": "observer",
+    "infoUrl": "https://www.utsunomiya-sponavi.or.jp",
+    "groupId": "4dPkjh9"
   }
 ]
