@@ -19,7 +19,7 @@
     {
       "type": "Feature",
       "properties": { "id": "tjh51qH", "ft": "isaM", "c": "CH" },
-      "geometry": { "type": "Point", "coordinates": [9.213, 46.824] }
+      "geometry": { "type": "Point", "coordinates": [9.5220635, 46.850594] }
     },
     {
       "type": "Feature",
@@ -369,7 +369,7 @@
     {
       "type": "Feature",
       "properties": { "id": "xj8P7OR", "ft": "isaM", "c": "AT" },
-      "geometry": { "type": "Point", "coordinates": [14.155, 47.348] }
+      "geometry": { "type": "Point", "coordinates": [15.435151, 47.062988] }
     },
     {
       "type": "Feature",
@@ -5633,11 +5633,6 @@
     },
     {
       "type": "Feature",
-      "properties": { "id": "dsm44Wk", "ft": "sg", "c": "US" },
-      "geometry": { "type": "Point", "coordinates": [-81.316, 27.998] }
-    },
-    {
-      "type": "Feature",
       "properties": { "id": "AiTRe2r", "ft": "sg", "c": "US" },
       "geometry": { "type": "Point", "coordinates": [-81.36, 24.678] }
     },
@@ -5654,7 +5649,7 @@
     {
       "type": "Feature",
       "properties": { "id": "jk4wodT", "ft": "sg", "c": "US" },
-      "geometry": { "type": "Point", "coordinates": [-80.226, 25.778] }
+      "geometry": { "type": "Point", "coordinates": [-80.1368056, 25.7669444] }
     },
     {
       "type": "Feature",
@@ -6394,7 +6389,7 @@
     {
       "type": "Feature",
       "properties": { "id": "t5qjLlQ", "ft": "sg", "c": "ES" },
-      "geometry": { "type": "Point", "coordinates": [-1.956, 43.292] }
+      "geometry": { "type": "Point", "coordinates": [-2.6856454, 43.1810708] }
     },
     {
       "type": "Feature",
@@ -7775,6 +7770,21 @@
       "type": "Feature",
       "properties": { "id": "4dPkjh9", "ft": "isaM", "c": "JP" },
       "geometry": { "type": "Point", "coordinates": [139.838996, 36.5822162] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "6wYkaIN", "ft": "sg", "c": "DE" },
+      "geometry": { "type": "Point", "coordinates": [9.650009, 47.8114314] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Z_Yp_Sq", "ft": "sg", "c": "IT" },
+      "geometry": { "type": "Point", "coordinates": [9.2744485, 45.5845001] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "id": "Jwepfk9", "ft": "sg", "c": "US" },
+      "geometry": { "type": "Point", "coordinates": [-83.3703394, 33.9370576] }
     }
   ]
 }

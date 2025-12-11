@@ -22,12 +22,13 @@
   },
   {
     "id": "tjh51qH",
-    "name": "GrischaSlack",
+    "name": "Grischa Slack",
     "createdDateTime": "2021-05-09",
-    "updatedDateTime": "2021-05-09",
-    "webpage": "https://grischaslack.ch/",
-    "email": "info@grischaslack.ch",
-    "facebookGroup": "https://www.facebook.com/groups/1484946485095714/"
+    "updatedDateTime": "2025-12-11",
+    "email": "Info@grischaslack.ch",
+    "facebookPage": "https://m.facebook.com/groups/1484946485095714/?locale=de_DE",
+    "facebookGroup": "https://m.facebook.com/groups/1484946485095714/?locale=de_DE",
+    "webpage": "https://grischaslack.ch/"
   },
   {
     "id": "LkbXDFJ",
@@ -496,8 +497,11 @@
     "id": "xj8P7OR",
     "name": "Slackline.at",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookPage": "https://www.facebook.com/Slackline.at/"
+    "updatedDateTime": "2025-12-11",
+    "email": "vorstand@slackline.at",
+    "facebookPage": "https://www.facebook.com/Slackline.at",
+    "instagram": "https://www.instagram.com/slackline.at/",
+    "webpage": "https://slackline.at"
   },
   {
     "id": "0HyQODN",
@@ -7969,13 +7973,6 @@
     "facebookGroup": "https://www.facebook.com/groups/1503485136613818"
   },
   {
-    "id": "dsm44Wk",
-    "name": "South Florida Slackline",
-    "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/sfscc/"
-  },
-  {
     "id": "AiTRe2r",
     "name": "Florida Keys Slackers",
     "createdDateTime": "2020-05-09",
@@ -7998,10 +7995,12 @@
   },
   {
     "id": "jk4wodT",
-    "name": "Miami Slackliners",
+    "name": "South Florida Slackliners",
     "createdDateTime": "2020-05-09",
-    "updatedDateTime": "2020-05-09",
-    "facebookGroup": "https://www.facebook.com/groups/135411816597865/"
+    "updatedDateTime": "2025-12-11",
+    "facebookGroup": "https://www.facebook.com/groups/sfscc/",
+    "instagram": "https://www.instagram.com/southfloridaslackliners/",
+    "whatsapp": "https://chat.whatsapp.com/Gx8vpvC7cQbETskHSjYWB6"
   },
   {
     "id": "tuMnjJJ",
@@ -10148,9 +10147,12 @@
     "id": "t5qjLlQ",
     "name": "Slakherria",
     "createdDateTime": "2020-07-28",
-    "updatedDateTime": "2023-12-11",
+    "updatedDateTime": "2025-12-11",
     "email": "Slakherria@gmail.com",
-    "instagram": "https://www.instagram.com/slakherria/"
+    "facebookPage": "https://www.facebook.com/slak.herria.5",
+    "telegram": "https://t.me/slakherria",
+    "instagram": "https://www.instagram.com/slakherria/",
+    "webpage": "https://slacklinebizkaia.jimdofree.com/"
   },
   {
     "id": "VaMNKYm",
@@ -10356,12 +10358,13 @@
   },
   {
     "id": "sdpUacw",
-    "name": "Deutscher Slacklineverband e.V.",
+    "name": "Deutscher Slackline Verband e.V.",
     "createdDateTime": "2023-09-26",
-    "updatedDateTime": "2023-09-26",
-    "email": "philipp@deutscherslacklineverband.org",
-    "webpage": "https://deutscherslacklineverband.org/kontakt/",
-    "facebookPage": "https://www.facebook.com/deutscherslacklineverband"
+    "updatedDateTime": "2025-12-11",
+    "email": "info@deutscherslacklineverband.org",
+    "facebookPage": "https://www.facebook.com/deutscherslacklineverband",
+    "instagram": "https://www.instagram.com/deutscher.slackline.verband/",
+    "webpage": "https://deutscherslacklineverband.org/kontakt/"
   },
   {
     "id": "oYr9BsN",
@@ -10888,12 +10891,15 @@
   },
   {
     "id": "82QOfTX",
-    "name": "FISpT - Federazione Italiana Sport per Tutti",
+    "name": "Federazione Italiana Sport per Tutti",
     "createdDateTime": "2023-09-26",
-    "updatedDateTime": "2023-09-26",
-    "email": "info@fispt.it",
-    "webpage": "http://www.fispt.it/",
-    "facebookPage": "https://www.facebook.com/FederazioneItalianaSportPerTutti/"
+    "updatedDateTime": "2025-12-11",
+    "email": "segreteria@fispt.it",
+    "facebookPage": "https://www.facebook.com/FederazioneItalianaSportPerTutti/",
+    "telegram": "https://t.me/fisptitalia",
+    "instagram": "https://www.instagram.com/fispt_italia/",
+    "whatsapp": "https://chat.whatsapp.com/KAhUKiaV7Iv4lsv9rVrTgw",
+    "webpage": "http://www.fispt.it/"
   },
   {
     "id": "IYYZzk5",
@@ -11242,5 +11248,29 @@
     "email": "usz-kikaku@sky.ucatv.ne.jp",
     "webpage": "https://www.utsunomiya-sponavi.or.jp",
     "instagram": "https://www.instagram.com/uspozai1981/"
+  },
+  {
+    "id": "6wYkaIN",
+    "name": "Slackline Ravensburg-Weingarten",
+    "createdDateTime": "2025-12-11",
+    "updatedDateTime": "2025-12-11",
+    "email": "Melina.kuhnert@gmx.de",
+    "whatsapp": "https://chat.whatsapp.com/HsGih5NGvK68hb55Vb1S4T"
+  },
+  {
+    "id": "Z_Yp_Sq",
+    "name": "Slackline Brianza",
+    "createdDateTime": "2025-12-11",
+    "updatedDateTime": "2025-12-11",
+    "email": "orsinistefano2@gmail.com",
+    "instagram": "https://www.instagram.com/slacklinebrianza/"
+  },
+  {
+    "id": "Jwepfk9",
+    "name": "UGA Slackers",
+    "createdDateTime": "2025-12-11",
+    "updatedDateTime": "2025-12-11",
+    "email": "tmr59525@uga.edu",
+    "webpage": "https://groupme.com/join_group/104573605/zOrme4kD"
   }
 ]

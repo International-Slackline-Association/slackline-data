@@ -2,16 +2,18 @@
   "scripts": {
     "validateJsonFiles": "node scripts/validation/validateJsonFiles.js",
     "optimizeJsonFiles": "node scripts/optimize.js",
-    "batchUpdate": "node scripts/batchUpdate.js"
+    "batchUpdate": "node scripts/batchUpdate.js",
+    "format": "prettier --write \"**/*.{json,geojson,js,md}\""
   },
   "devDependencies": {
     "@turf/distance": "6.5.0",
     "@turf/truncate": "6.5.0",
     "ajv": "8.12.0",
     "ajv-formats": "2.1.1",
+    "prettier": "^3.7.4",
     "string-similarity-js": "2.1.4"
   },
   "dependencies": {
-    "nanoid": "3.3.5"
+    "nanoid": "^3.3.5"
   }
 }

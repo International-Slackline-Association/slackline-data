@@ -30,17 +30,17 @@ If this also does not work, contact us here:
 
 ```ts
 interface Group {
-    id: string,
-    name: string,
-    createdDateTime: string, // only date
-    updatedDateTime: string, // only date
-    email?: string, // optional
-    facebookPage?: string, // optional
-    facebookGroup?: string, // optional
-    telegram?: string, // optional
-    instagram?: string, // optional
-    whatsapp?: string, // optional
-    webpage?: string, // optional
+  id: string;
+  name: string;
+  createdDateTime: string; // only date
+  updatedDateTime: string; // only date
+  email?: string; // optional
+  facebookPage?: string; // optional
+  facebookGroup?: string; // optional
+  telegram?: string; // optional
+  instagram?: string; // optional
+  whatsapp?: string; // optional
+  webpage?: string; // optional
 }
 ```
 
@@ -48,15 +48,15 @@ interface Group {
 
 ```ts
 interface Feature {
-    type: "Feature", // fixed value 
-    properties: {
-        id: string, // matching id in groups.json
-        ft: "sg" | "isaM", // either slackline group or ISA member
-        c: string, // country code in ISO 3166-1 alpha-2 format
-    },
-    geometry: {
-        type: "Point", // fixed value
-        coordinates: [number, number], // [longitude, latitude]
-    }
+  type: "Feature"; // fixed value
+  properties: {
+    id: string; // matching id in groups.json
+    ft: "sg" | "isaM"; // either slackline group or ISA member
+    c: string; // country code in ISO 3166-1 alpha-2 format
+  };
+  geometry: {
+    type: "Point"; // fixed value
+    coordinates: [number, number]; // [longitude, latitude]
+  };
 }
 ```
