@@ -2263,6 +2263,11 @@
     },
     {
       "type": "Feature",
+      "properties": { "id": "a98db97", "ft": "sg", "c": "FR" },
+      "geometry": { "type": "Point", "coordinates": [6.148, 45.905] }
+    },
+    {
+      "type": "Feature",
       "properties": { "id": "4pk_sSJ", "ft": "sg", "c": "FR" },
       "geometry": { "type": "Point", "coordinates": [4.668, 45.238] }
     },
